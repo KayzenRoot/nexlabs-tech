@@ -2,9 +2,9 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III INICIADA (somente planejamento documental)** por **D03-01 A**; **D03-02 C aprovada**, primeiro ciclo vertical verificável, em 2026-10-15. Nenhuma implementação autorizada.
+**Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III INICIADA (somente planejamento documental)** por **D03-01 A**; **D03-02 C aprovada** (primeiro ciclo vertical verificável) e **D03-03 C aprovada** (núcleo modular evolutivo com fronteiras extraíveis), em 2026-10-15. Nenhuma implementação autorizada.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é avançar no **planejamento documental já autorizado da Fase III**, continuando pela D03-03, fronteiras arquiteturais ainda pendentes, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é avançar no **planejamento documental já autorizado da Fase III**, continuando pela D03-04, direção da seleção de stack principal ainda pendente, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado atual em 2026-10-15
 
@@ -42,7 +42,8 @@
 | Voz dos agentes, solução interna a investigar depois | REQUISITO DECLARADO, conceitual |
 | D03-01: Planejamento documental completo E3-01 a E3-04 | **APROVADA — A; FASE III ATIVA DOCUMENTALMENTE** |
 | D03-02: Primeiro ciclo vertical verificável | **APROVADA — C** |
-| D03-03: Estratégia de fronteiras arquiteturais | **PENDENTE (A/B/C)** |
+| D03-03: Núcleo modular evolutivo com fronteiras extraíveis | **APROVADA — C** |
+| D03-04: Direção da seleção da stack principal | **PENDENTE (A/B/C)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -90,9 +91,10 @@
 - **D02-25 C APROVADA:** Fase II encerrada após auditoria objetiva e publicação de síntese e ata.
 - **[Proposta de Transição para Fase III v0.1](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md):** pacotes de planejamento, riscos, stacks, módulos, agentes, paralelismo e orçamento, sem escolhas técnicas aprovadas.
 - **Fase III, D03-01 A APROVADA:** planejar requisitos, modularização, alternativas arquiteturais e stacks, segurança, custos, agentes de construção, paralelismo e estratégias de entrega. **E3-01 a E3-04 EM PLANEJAMENTO; nenhuma stack/quantidade de agentes aprovada**.
-- **[Carta de Escopo da Fase III v0.2](docs/engineering/PHASE-III-CHARTER-v0.2.md)** e **[Registro D03 v0.2](docs/engineering/PHASE-III-DECISION-REGISTER-v0.2.md)**: D03-01 A e D03-02 C aprovadas; D03-03 pendente.
+- **[Carta de Escopo da Fase III v0.3](docs/engineering/PHASE-III-CHARTER-v0.3.md)** e **[Registro D03 v0.3](docs/engineering/PHASE-III-DECISION-REGISTER-v0.3.md)**: D03-01 A, D03-02 C e D03-03 C aprovadas; D03-04 pendente.
+- [Carta Fase III v0.2](docs/engineering/PHASE-III-CHARTER-v0.2.md) e [Registro D03 v0.2](docs/engineering/PHASE-III-DECISION-REGISTER-v0.2.md): versões históricas preservadas.
 - Versões históricas preservadas: [Carta v0.1](docs/engineering/PHASE-III-CHARTER-v0.1.md) e [Registro D03 v0.1](docs/engineering/PHASE-III-DECISION-REGISTER-v0.1.md).
-- **[E3-01: Mapa de Capacidades v0.2](docs/engineering/E3-01-CAPABILITY-MAP-v0.2.md)**; **[E3-02: Avaliação Arquitetural v0.2](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.2.md)**; **[E3-03: Fábrica de Agentes v0.2](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.2.md)**; **[E3-04: Prontidão e Gates v0.2](docs/engineering/E3-04-READINESS-AND-GATES-v0.2.md)**: recorte vertical aprovado e análise comparativa, ainda sem implementação nem pacotes aceitos.
+- **[E3-01: Mapa de Capacidades v0.3](docs/engineering/E3-01-CAPABILITY-MAP-v0.3.md)**; **[E3-02: Avaliação Arquitetural v0.3](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.3.md)**; **[E3-03: Fábrica de Agentes v0.3](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.3.md)**; **[E3-04: Prontidão e Gates v0.3](docs/engineering/E3-04-READINESS-AND-GATES-v0.3.md)**: D03-03 C como direção modular; contratos candidatos, stacks não selecionadas, custos e riscos analisados documentalmente.
 - **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
 - **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
 
