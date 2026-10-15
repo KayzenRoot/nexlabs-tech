@@ -44,13 +44,13 @@ Nenhuma categoria constitui software funcionando.
 
 Candidatas que podem ser adiadas para incremento posterior, **sujeitas a ratificação**: voz, Telegram operacional, métricas de VPS reais, dados financeiros reais, dashboards completos e mecanismos de autoaperfeiçoamento. O adiamento de implementação não revoga requisito histórico.
 
-## 5. Três hipóteses de recorte inicial, nenhuma escolhida
+## 5. Três hipóteses históricas de recorte inicial; alternativa C escolhida na D03-02
 
-**A. Central de supervisão:** validar necessidades do fundador e descrição conceitual dos agentes primeiro; risco de produzir uma camada de apresentação sem fontes reais.
+**A. Central de supervisão (não escolhida):** validar necessidades do fundador e descrição conceitual dos agentes primeiro; risco de produzir uma camada de apresentação sem fontes reais.
 
-**B. Fundação cognitiva:** definir governança de memória/evidências/mandatos antes da supervisão; risco de prolongar trabalho de infraestrutura sem valor visível.
+**B. Fundação cognitiva (não escolhida):** definir governança de memória/evidências/mandatos antes da supervisão; risco de prolongar trabalho de infraestrutura sem valor visível.
 
-**C. Recorte vertical verificável:** especificar um ciclo mínimo **orientação legítima → missão delimitada → evidência/resultado → explicação rastreável de custo quando medível**; risco de integração prematura, a controlar por contratos e escopo curto.
+**C. Recorte vertical verificável (aprovada):** especificar um ciclo mínimo **orientação legítima → missão delimitada → evidência/resultado → explicação rastreável de custo quando medível**; risco de integração prematura, a controlar por contratos e escopo curto.
 
 **D03-02 C APROVADA**: primeiro ciclo vertical verificável. Os cenários A e B permanecem alternativas históricas, não escolhas atuais. As capacidades concretas abaixo são candidatas, não funcionalidades ratificadas em detalhe.
 
