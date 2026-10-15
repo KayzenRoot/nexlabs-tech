@@ -18,7 +18,7 @@ A Fase III deverá produzir condições auditáveis para iniciar implementação
 | R-05 | Evidência/indicadores fictícios | Identidade conceitual ainda sem telemetria | Distinguir estado sem fonte, estimado e validado |
 | R-06 | Vazamento por Telegram/voz | Conexões não existentes | Requisitos de autenticação, privacidade, autorização e consentimento |
 | R-07 | Dependência excessiva de fornecedor | Cartas exigem continuidade da memória | Critérios de portabilidade, exportação e substituição |
-| R-08 | Arquitetura prematura | Stack não decidida nem MVP delimitado | Aprovar D03-02, comparar alternativas, fazer ADRs curtos |
+| R-08 | Arquitetura prematura | D03-02 C aprovou o recorte vertical, mas stack e escopo detalhado ainda não estão decididos | Decidir D03-03, comparar alternativas e aprovar ADRs antes de implementar |
 | R-09 | Confusão de autonomia empresarial/construtora | Papéis distintos e futuro sistema não implantado | Separar domínios, riscos, mandatos e recursos |
 | R-10 | Burocracia e retrabalho | Fundador prioriza construção eficiente | Limitar gates essenciais, reviews proporcionais e evidência útil |
 | R-11 | Ausência de testes reais | Somente planejamento autorizado | Planejar testes e DoD; executar só após nova autorização |
