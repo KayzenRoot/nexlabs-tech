@@ -4,13 +4,13 @@
 
 Projeto canônico `KayzenRoot/nexlabs-tech`. **Fase I concluída e aprovada em 2026-10-15**; [Carta Institucional v1.0](docs/institutional/CHARTER-v1.0.md) continua a autoridade superior conceitual.
 
-**Fase II: ENCERRADA E ACEITA DOCUMENTALMENTE**, por D02-25 C após auditoria. Seu conteúdo foi somente discussão e documentação conceitual. **Fase III: NÃO INICIADA; depende de aprovação explícita D03-01 para planejamento documental de engenharia.** Nenhuma autorização para programar, criar imagens, produtos ou infraestrutura.
+**Fase II: ENCERRADA E ACEITA DOCUMENTALMENTE**, por D02-25 C após auditoria. Seu conteúdo foi somente discussão e documentação conceitual. **Fase III: INICIADA para PLANEJAMENTO DOCUMENTAL por D03-01 A, aprovada expressamente em 2026-10-15.** Nenhuma autorização para programar, criar imagens, produtos ou infraestrutura.
 
 ## Ponto exato de retomada
 
 **Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável), D02-13 **C** (Memória Viva, Versionada e Rastreável), D02-14 **C** (Atenção Cognitiva Proporcional), D02-15 **C** (Autonomia Federada com Soberania Visível), D02-16 **C** (Jornada Cognitiva Rastreável), D02-17 **C** (Ponte entre Descoberta e Progresso Responsável), D02-18 **C** (Universalidade Federada e Inclusiva), D02-19 **C** (Transparência Contextual Responsável), D02-20 **C** (Resiliência Adaptativa com Integridade), D02-21 **C** (Grandeza Acessível e Contextual), D02-22 **C** (Diálogo Científico Responsivo), D02-23 **C** (Pluralismo Crítico Orientado por Evidências), D02-24 **C** (Exploração Corajosa com Humildade Epistêmica), D02-25 **C** (Fechamento por Auditoria Objetiva e Transição). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
 
-**Fase II ENCERRADA:** a D02-25 C foi expressamente aprovada e a auditoria cumpriu os critérios. **Próximo checkpoint D03-01 PENDENTE:** pedir ao fundador autorização específica para iniciar APENAS a Fase III de planejamento documental de engenharia, sem software, stack escolhida antecipadamente, protótipos ou operações. Não reabrir D02-01 a D02-25 nem afirmar Fase III já iniciada.
+**Fase II ENCERRADA:** a D02-25 C foi expressamente aprovada e a auditoria cumpriu os critérios. **D03-01 A APROVADA:** planejamento documental completo E3-01 a E3-04 autorizado; todos os quatro pacotes EM PLANEJAMENTO. **D03-02 PENDENTE:** decidir estratégia de primeira entrega (A central de supervisão; B fundação cognitiva; C recorte vertical verificável). Não antecipar decisão ou stack, nem fixar quantitativo de agentes. Não reabrir D02-01 a D02-25 nem afirmar Fase III já iniciada.
 
 Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais finais v0.25](docs/design/VISUAL-CONCEPT-DECISIONS-v0.25.md), [Escopo Fase II encerrado v0.24](docs/design/DESIGN-PHASE-SCOPE-v0.24.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
 
@@ -33,17 +33,18 @@ Documentação conceitual FINAL está em [v0.25](docs/design/VISUAL-CONCEPT-DECI
 - Não repetir decisões já aprovadas nem perguntar o que estiver documentado.
 - Não afirmar gravações, integrações, agentes reais ou métricas até confirmação e verificação.
 
-## Próximas fases (somente PROPOSTA)
+## Fase III em planejamento documental autorizado e Fases IV–V apenas propostas
 
-- **Fase III (proposta NÃO autorizada):** arquitetura, stacks, módulos, agentes de construção, paralelismo, custo, testes e planejamento da primeira versão. Só após autorização D03-01, sem implementação técnica.
+- **Fase III AUTORIZADA (somente documentação):** escopo, módulos, avaliação de alternativas de arquitetura/stacks, agentes de construção, paralelismo, custo, segurança e critérios de pronto.
+- **Pacotes vigentes:** [carta de escopo](docs/engineering/PHASE-III-CHARTER-v0.1.md), [registro de decisões](docs/engineering/PHASE-III-DECISION-REGISTER-v0.1.md), [E3-01](docs/engineering/E3-01-CAPABILITY-MAP-v0.1.md), [E3-02](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.1.md), [E3-03](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.1.md), [E3-04](docs/engineering/E3-04-READINESS-AND-GATES-v0.1.md). **Todos os E3 estão EM PLANEJAMENTO, não concluídos.**
 - **Fase IV:** implementação modular após autorização adicional.
 - **Fase V:** validação operacional e implantação após autorização.
 - **D02-25 C ratificada:** Fase II encerrada com auditoria, síntese, ata e STOP CONDITION; [proposta de transição](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md) não ratificada.
 - O protocolo de decisões [PLANNING-PROTOCOL.md](docs/continuity/PLANNING-PROTOCOL.md) documenta o procedimento histórico da Fase II; não reiniciá-lo automaticamente na Fase III.
-- **Prioridade para a primeira discussão futura:** decidir autorização da Fase III e revisar visibilidade pública do repositório antes de quaisquer dados sensíveis.
+- **Prioridade agora:** D03-02 para escopo da primeira entrega. Em paralelo, estudar E3-01..04 documentalmente; antes de dados sensíveis, revisar visibilidade pública do repositório observada em 2026-10-15.
 
 ## Restrições constitucionais
 
 O fundador detém autoridade estratégica humana dentro da lei. Agentes teriam mandatos delimitados, segurança e rastreabilidade; aparência visual não cria poder. A economia do Jev, gastos e dados de VPS são desejos de observabilidade, não resultados medidos. A Carta v1.0 não pode ser alterada implicitamente pela Fase II.
 
-**Nenhuma autorização para criar imagens, telas, protótipos, código, produtos, bots, infraestrutura, automações, voz, RAG ou integrações decorre do encerramento. A Fase III de planejamento depende de autorização expressa; a implementação exigirá outra autorização.**
+**D03-01 A autoriza documentos de planejamento técnico, não código, telas, imagens, protótipos, produtos, bots, infraestrutura, automações, voz, RAG nem integrações. A Fase IV exige nova autorização humana. Não fixar stacks ou número de agentes sem comparar alternativas e obter a aprovação apropriada.**
