@@ -18,11 +18,12 @@
 | D02-05: Dualidade Luminosa Equilibrada | **APROVADA — C** |
 | D02-06: Materialidade Cognitiva Híbrida | **APROVADA — C** |
 | D02-07: Respiração Cognitiva Contextual | **APROVADA — C** |
+| D02-08: Compreensão Progressiva e Federada | **APROVADA — C** |
 | Central de controle, balão dos agentes e intervenção | REQUISITO DECLARADO, conceitual |
 | Tokens/custos, economia do Jev, finanças, saúde da VPS | REQUISITO DECLARADO, conceitual |
 | Telegram com Chief of Staff, relatórios, PDFs/planilhas | REQUISITO DECLARADO, conceitual |
 | Voz dos agentes, solução interna a investigar depois | REQUISITO DECLARADO, conceitual |
-| D02-08: Hierarquia narrativa da supervisão | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
+| D02-09: Presença simbólica do fundador | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -35,14 +36,15 @@
 
 ### Visual (Fase II, sem implementação)
 
-- **[Registro visual vigente v0.7](docs/design/VISUAL-CONCEPT-DECISIONS-v0.7.md):** D02-01 a D02-07 aprovadas, requisitos preservados e próxima questão D02-08.
+- **[Registro visual vigente v0.8](docs/design/VISUAL-CONCEPT-DECISIONS-v0.8.md):** D02-01 a D02-08 aprovadas, requisitos preservados e próxima questão D02-09.
+- [Registro visual histórico v0.7](docs/design/VISUAL-CONCEPT-DECISIONS-v0.7.md): aprovação D02-07; D02-08 era pendente nesta versão.
 - [Registro visual histórico v0.6](docs/design/VISUAL-CONCEPT-DECISIONS-v0.6.md): aprovação de D02-06 e decisão D02-07 ainda pendente naquele momento.
 - [Registro visual histórico v0.5](docs/design/VISUAL-CONCEPT-DECISIONS-v0.5.md): D02-05 aprovada e proposta D02-06 anterior.
 - [Registro visual histórico v0.4](docs/design/VISUAL-CONCEPT-DECISIONS-v0.4.md): aprovação D02-04, anterior à dualidade luminosa.
 - [Registro visual histórico v0.3](docs/design/VISUAL-CONCEPT-DECISIONS-v0.3.md): aprovação de D02-03 e estado anterior.
 - [Registro visual histórico v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md): requisitos completos do fundador sobre central, Telegram, voz, tokens/Jev, finanças e VPS.
 - [Registro visual histórico v0.1](docs/design/VISUAL-CONCEPT-DECISIONS-v0.1.md): primeira escolha da Fase II e estado anterior.
-- [Escopo conceitual vigente da Fase II v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), com versões históricas [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
+- [Escopo conceitual vigente da Fase II v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), com versões históricas [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
 
 ### Continuidade e colaboração
 
