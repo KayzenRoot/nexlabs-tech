@@ -4,15 +4,15 @@
 
 Projeto canônico `KayzenRoot/nexlabs-tech`. **Fase I concluída e aprovada em 2026-10-15**; [Carta Institucional v1.0](docs/institutional/CHARTER-v1.0.md) continua a autoridade superior conceitual.
 
-**Fase II:** somente discussão e documentação de identidade/experiência visual, sem criar imagens, protótipos, produtos ou software. A autorização para conversar sobre a futura central não autoriza desenvolvê-la.
+**Fase II: ENCERRADA E ACEITA DOCUMENTALMENTE**, por D02-25 C após auditoria. Seu conteúdo foi somente discussão e documentação conceitual. **Fase III: NÃO INICIADA; depende de aprovação explícita D03-01 para planejamento documental de engenharia.** Nenhuma autorização para programar, criar imagens, produtos ou infraestrutura.
 
 ## Ponto exato de retomada
 
-**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável), D02-13 **C** (Memória Viva, Versionada e Rastreável), D02-14 **C** (Atenção Cognitiva Proporcional), D02-15 **C** (Autonomia Federada com Soberania Visível), D02-16 **C** (Jornada Cognitiva Rastreável), D02-17 **C** (Ponte entre Descoberta e Progresso Responsável), D02-18 **C** (Universalidade Federada e Inclusiva), D02-19 **C** (Transparência Contextual Responsável), D02-20 **C** (Resiliência Adaptativa com Integridade), D02-21 **C** (Grandeza Acessível e Contextual), D02-22 **C** (Diálogo Científico Responsivo), D02-23 **C** (Pluralismo Crítico Orientado por Evidências), D02-24 **C** (Exploração Corajosa com Humildade Epistêmica). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
+**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável), D02-13 **C** (Memória Viva, Versionada e Rastreável), D02-14 **C** (Atenção Cognitiva Proporcional), D02-15 **C** (Autonomia Federada com Soberania Visível), D02-16 **C** (Jornada Cognitiva Rastreável), D02-17 **C** (Ponte entre Descoberta e Progresso Responsável), D02-18 **C** (Universalidade Federada e Inclusiva), D02-19 **C** (Transparência Contextual Responsável), D02-20 **C** (Resiliência Adaptativa com Integridade), D02-21 **C** (Grandeza Acessível e Contextual), D02-22 **C** (Diálogo Científico Responsivo), D02-23 **C** (Pluralismo Crítico Orientado por Evidências), D02-24 **C** (Exploração Corajosa com Humildade Epistêmica), D02-25 **C** (Fechamento por Auditoria Objetiva e Transição). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
 
-**Próxima pergunta, ainda PENDENTE:** **D02-25 — Rito de encerramento da Fase II**, com opções A (Fechamento sintético imediato), B (Extensão conceitual delimitada), C (Fechamento por auditoria objetiva e transição). Recomendação editorial C não equivale a escolha. O teto de D02-25 é PROPOSTA, não regra previamente ratificada. Auditoria objetiva, preservação histórica e síntese canônica devem anteceder encerramento condicionado à aceitação. Nenhuma engenharia ou implementação está autorizada.
+**Fase II ENCERRADA:** a D02-25 C foi expressamente aprovada e a auditoria cumpriu os critérios. **Próximo checkpoint D03-01 PENDENTE:** pedir ao fundador autorização específica para iniciar APENAS a Fase III de planejamento documental de engenharia, sem software, stack escolhida antecipadamente, protótipos ou operações. Não reabrir D02-01 a D02-25 nem afirmar Fase III já iniciada.
 
-Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md), [Escopo Fase II v0.23](docs/design/DESIGN-PHASE-SCOPE-v0.23.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
+Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais finais v0.25](docs/design/VISUAL-CONCEPT-DECISIONS-v0.25.md), [Escopo Fase II encerrado v0.24](docs/design/DESIGN-PHASE-SCOPE-v0.24.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
 
 ## Requisitos expressos do fundador (conceituais, NÃO implementados)
 
@@ -21,7 +21,7 @@ Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar;
 3. **Telegram:** diálogo móvel com Chief of Staff, relatórios, PDFs, planilhas, alertas e ordens autorizadas. Requer controle de acesso apropriado quando futuramente implementado. Não presumir que chats de bots Telegram sejam criptografados ponta a ponta.
 4. **Voz:** identidade vocal e interação falada de agentes desejadas, idealmente solução interna semelhante ao ElevenLabs, produto específico ainda não validado/identificado. Nenhuma integração instalada.
 
-Documentação conceitual corrente está em [v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
+Documentação conceitual FINAL está em [v0.25](docs/design/VISUAL-CONCEPT-DECISIONS-v0.25.md), com [auditoria](docs/design/PHASE-II-AUDIT-v1.0.md), [síntese](docs/design/PHASE-II-CANONICAL-SYNTHESIS-v1.0.md) e [ata de encerramento](docs/design/PHASE-II-ACCEPTANCE-v1.0.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
 
 ## Procedimento obrigatório por rodada de planejamento
 
@@ -35,13 +35,15 @@ Documentação conceitual corrente está em [v0.24](docs/design/VISUAL-CONCEPT-D
 
 ## Próximas fases (somente PROPOSTA)
 
-- **Fase III:** arquitetura, stacks, módulos, orquestração de agentes de construção, paralelismo, custo, testes e planejamento da primeira versão. Não criar arquitetura ou selecionar tecnologias durante esta Fase II.
+- **Fase III (proposta NÃO autorizada):** arquitetura, stacks, módulos, agentes de construção, paralelismo, custo, testes e planejamento da primeira versão. Só após autorização D03-01, sem implementação técnica.
 - **Fase IV:** implementação modular após autorização adicional.
 - **Fase V:** validação operacional e implantação após autorização.
-- Proposta de terminar a Fase II na D02-25 com auditoria e síntese, sujeita à escolha e cumprimento dos critérios, não é decisão anterior do fundador.
+- **D02-25 C ratificada:** Fase II encerrada com auditoria, síntese, ata e STOP CONDITION; [proposta de transição](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md) não ratificada.
+- O protocolo de decisões [PLANNING-PROTOCOL.md](docs/continuity/PLANNING-PROTOCOL.md) documenta o procedimento histórico da Fase II; não reiniciá-lo automaticamente na Fase III.
+- **Prioridade para a primeira discussão futura:** decidir autorização da Fase III e revisar visibilidade pública do repositório antes de quaisquer dados sensíveis.
 
 ## Restrições constitucionais
 
 O fundador detém autoridade estratégica humana dentro da lei. Agentes teriam mandatos delimitados, segurança e rastreabilidade; aparência visual não cria poder. A economia do Jev, gastos e dados de VPS são desejos de observabilidade, não resultados medidos. A Carta v1.0 não pode ser alterada implicitamente pela Fase II.
 
-**Não criar imagens, telas, mockups, protótipos, código, design técnico, produtos, bots, infraestrutura, automações, voz operacional ou integrações sem nova autorização específica para outra fase.**
+**Nenhuma autorização para criar imagens, telas, protótipos, código, produtos, bots, infraestrutura, automações, voz, RAG ou integrações decorre do encerramento. A Fase III de planejamento depende de autorização expressa; a implementação exigirá outra autorização.**
