@@ -8,11 +8,11 @@ Projeto canônico `KayzenRoot/nexlabs-tech`. **Fase I concluída e aprovada em 2
 
 ## Ponto exato de retomada
 
-**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
+**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
 
-**Próxima pergunta, ainda PENDENTE:** **D02-10 — Expressão simbólica do Chief of Staff**, com opções A (Anfitrião executivo reconhecível), B (Inteligência coordenadora abstrata), C (Emissário cognitivo híbrido). Recomendação editorial C não equivale a escolha; nenhum avatar, voz, Telegram, poder novo ou recurso implementado.
+**Próxima pergunta, ainda PENDENTE:** **D02-11 — Linguagem simbólica da colaboração e do conhecimento**, com opções A (Conexões institucionais estruturadas), B (Fluxos orgânicos de inteligência), C (Sinapses federadas contextuais). Recomendação editorial C não equivale a escolha; não define topologia de dados, tecnologias, animações ou fluxos operacionais.
 
-Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.9](docs/design/VISUAL-CONCEPT-DECISIONS-v0.9.md), [Escopo Fase II v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
+Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.10](docs/design/VISUAL-CONCEPT-DECISIONS-v0.10.md), [Escopo Fase II v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
 
 ## Requisitos expressos do fundador (conceituais, NÃO implementados)
 
@@ -21,7 +21,7 @@ Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar;
 3. **Telegram:** diálogo móvel com Chief of Staff, relatórios, PDFs, planilhas, alertas e ordens autorizadas. Requer controle de acesso apropriado quando futuramente implementado. Não presumir que chats de bots Telegram sejam criptografados ponta a ponta.
 4. **Voz:** identidade vocal e interação falada de agentes desejadas, idealmente solução interna semelhante ao ElevenLabs, produto específico ainda não validado/identificado. Nenhuma integração instalada.
 
-Documentação conceitual corrente está em [v0.9](docs/design/VISUAL-CONCEPT-DECISIONS-v0.9.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
+Documentação conceitual corrente está em [v0.10](docs/design/VISUAL-CONCEPT-DECISIONS-v0.10.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
 
 ## Procedimento obrigatório por rodada de planejamento
 
