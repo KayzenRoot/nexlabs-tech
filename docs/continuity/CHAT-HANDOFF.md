@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D02-25, opção C — Fechamento por Auditoria Objetiva e Transição**.
-**Próximo checkpoint:** **D03-01 — Autorizar ou não a Fase III de planejamento documental de engenharia**, sem instalação ou software. Fase III NÃO iniciada.
+**Última escolha confirmada:** **D03-01, opção A — Autorizar Fase III documental completa E3-01 a E3-04**.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-02 — estratégia da primeira entrega (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A próxima etapa é solicitar autorização D03-01 para planejamento documental de engenharia. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-02 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,12 +72,12 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: NÃO INICIADA.** [Proposta de transição v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) documenta quatro pacotes de decisão: escopo, arquitetura/stacks, fábrica de desenvolvimento/agentes, prontidão de construção. Nenhuma stack foi escolhida; quantidade de agentes e concorrência dependem de validação futura, não de aprovação implícita. Repo GitHub observado público (`private: false`): revisar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo aprovada v0.1](../engineering/PHASE-III-CHARTER-v0.1.md). [Registro de Decisões D03 v0.1](../engineering/PHASE-III-DECISION-REGISTER-v0.1.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.1.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.1.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.1.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.1.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
-**Checkpoint D03-01 (PENDENTE):** solicitar autorização expressa apenas para planejamento documental de engenharia. Não criar ferramentas, infra, sistemas ou software.
+**Checkpoint D03-02 (PENDENTE):** solicitar escolha da estratégia da primeira entrega: A central de supervisão primeiro, B fundação cognitiva primeiro, C recorte vertical verificável. Recomendação editorial C não constitui aprovação. Não criar ferramentas, infra, sistemas ou software.
 
 ## Limites invariáveis
 
-**Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
+**Autorizado na Fase III:** somente planejar documentalmente requisitos, arquitetura e stacks em alternativas, modularização candidata, agentes e paralelismo, custos, segurança e critérios de prontidão. **Proibido implementar:** imagens, mockups, protótipos, interfaces reais, código, APIs, integrações Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de execução e infraestrutura.
 
 **Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16, D02-17, D02-18, D02-19, D02-20, D02-21, D02-22, D02-23, D02-24 ou D02-25.
