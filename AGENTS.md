@@ -8,11 +8,11 @@ Projeto canônico `KayzenRoot/nexlabs-tech`. **Fase I concluída e aprovada em 2
 
 ## Ponto exato de retomada
 
-**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável), D02-13 **C** (Memória Viva, Versionada e Rastreável), D02-14 **C** (Atenção Cognitiva Proporcional), D02-15 **C** (Autonomia Federada com Soberania Visível), D02-16 **C** (Jornada Cognitiva Rastreável), D02-17 **C** (Ponte entre Descoberta e Progresso Responsável), D02-18 **C** (Universalidade Federada e Inclusiva), D02-19 **C** (Transparência Contextual Responsável), D02-20 **C** (Resiliência Adaptativa com Integridade), D02-21 **C** (Grandeza Acessível e Contextual), D02-22 **C** (Diálogo Científico Responsivo), D02-23 **C** (Pluralismo Crítico Orientado por Evidências). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
+**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável), D02-13 **C** (Memória Viva, Versionada e Rastreável), D02-14 **C** (Atenção Cognitiva Proporcional), D02-15 **C** (Autonomia Federada com Soberania Visível), D02-16 **C** (Jornada Cognitiva Rastreável), D02-17 **C** (Ponte entre Descoberta e Progresso Responsável), D02-18 **C** (Universalidade Federada e Inclusiva), D02-19 **C** (Transparência Contextual Responsável), D02-20 **C** (Resiliência Adaptativa com Integridade), D02-21 **C** (Grandeza Acessível e Contextual), D02-22 **C** (Diálogo Científico Responsivo), D02-23 **C** (Pluralismo Crítico Orientado por Evidências), D02-24 **C** (Exploração Corajosa com Humildade Epistêmica). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
 
-**Próxima pergunta, ainda PENDENTE:** **D02-24 — Exploração do Desconhecido Científico**, com opções A (Contemplação científica prudente), B (Ousadia exploratória expansiva), C (Exploração corajosa com humildade epistêmica). Recomendação editorial C não equivale a escolha. Não criar experimentos, produtos, infraestrutura, ferramentas de pesquisa, interfaces nem software.
+**Próxima pergunta, ainda PENDENTE:** **D02-25 — Rito de encerramento da Fase II**, com opções A (Fechamento sintético imediato), B (Extensão conceitual delimitada), C (Fechamento por auditoria objetiva e transição). Recomendação editorial C não equivale a escolha. O teto de D02-25 é PROPOSTA, não regra previamente ratificada. Auditoria objetiva, preservação histórica e síntese canônica devem anteceder encerramento condicionado à aceitação. Nenhuma engenharia ou implementação está autorizada.
 
-Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.23](docs/design/VISUAL-CONCEPT-DECISIONS-v0.23.md), [Escopo Fase II v0.22](docs/design/DESIGN-PHASE-SCOPE-v0.22.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
+Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md), [Escopo Fase II v0.23](docs/design/DESIGN-PHASE-SCOPE-v0.23.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
 
 ## Requisitos expressos do fundador (conceituais, NÃO implementados)
 
@@ -21,7 +21,7 @@ Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar;
 3. **Telegram:** diálogo móvel com Chief of Staff, relatórios, PDFs, planilhas, alertas e ordens autorizadas. Requer controle de acesso apropriado quando futuramente implementado. Não presumir que chats de bots Telegram sejam criptografados ponta a ponta.
 4. **Voz:** identidade vocal e interação falada de agentes desejadas, idealmente solução interna semelhante ao ElevenLabs, produto específico ainda não validado/identificado. Nenhuma integração instalada.
 
-Documentação conceitual corrente está em [v0.23](docs/design/VISUAL-CONCEPT-DECISIONS-v0.23.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
+Documentação conceitual corrente está em [v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
 
 ## Procedimento obrigatório por rodada de planejamento
 
@@ -32,6 +32,13 @@ Documentação conceitual corrente está em [v0.23](docs/design/VISUAL-CONCEPT-D
 - Registre claramente o que é **APROVADO**, **REQUISITO EXPRESSO**, **PROPOSTA** e **PENDENTE**.
 - Não repetir decisões já aprovadas nem perguntar o que estiver documentado.
 - Não afirmar gravações, integrações, agentes reais ou métricas até confirmação e verificação.
+
+## Próximas fases (somente PROPOSTA)
+
+- **Fase III:** arquitetura, stacks, módulos, orquestração de agentes de construção, paralelismo, custo, testes e planejamento da primeira versão. Não criar arquitetura ou selecionar tecnologias durante esta Fase II.
+- **Fase IV:** implementação modular após autorização adicional.
+- **Fase V:** validação operacional e implantação após autorização.
+- Proposta de terminar a Fase II na D02-25 com auditoria e síntese, sujeita à escolha e cumprimento dos critérios, não é decisão anterior do fundador.
 
 ## Restrições constitucionais
 
