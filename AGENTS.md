@@ -8,11 +8,11 @@ Projeto canônico `KayzenRoot/nexlabs-tech`. **Fase I concluída e aprovada em 2
 
 ## Ponto exato de retomada
 
-**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
+**Últimas decisões aprovadas:** D02-01 **C** (Organismo Cognitivo Vivo), D02-02 **C** (Constelação Cognitiva Federada), D02-03 **C** (Personagens Cognitivos Híbridos e Adaptativos), D02-04 **C** (Santuário Cognitivo Futurista e Vivo), D02-05 **C** (Dualidade Luminosa Equilibrada), D02-06 **C** (Materialidade Cognitiva Híbrida), D02-07 **C** (Respiração Cognitiva Contextual), D02-08 **C** (Compreensão Progressiva e Federada), D02-09 **C** (Presença Fundadora Contextual e Distinta), D02-10 **C** (Emissário Cognitivo Híbrido), D02-11 **C** (Sinapses Federadas Contextuais), D02-12 **C** (Conhecimento Estratificado e Verificável). Personagens combinam identidade reconhecível e abstração cognitiva, dentro de uma atmosfera científica, monumental, serena e com movimentos orgânicos intencionais, sem reivindicações falsas de consciência ou humanidade.
 
-**Próxima pergunta, ainda PENDENTE:** **D02-12 — Estado do conhecimento: evidência e incerteza**, com opções A (Rigor arquivístico), B (Crescimento exploratório), C (Conhecimento estratificado e verificável). Recomendação editorial C não equivale a escolha; não define dados, componentes visuais técnicos nem funcionalidades.
+**Próxima pergunta, ainda PENDENTE:** **D02-13 — Memória institucional e continuidade temporal**, com opções A (Arquivo institucional perene), B (Ecossistema de memória orgânica), C (Memória viva, versionada e rastreável). Recomendação editorial C não equivale a escolha; nenhuma implementação de memória, RAG, banco ou interface foi autorizada.
 
-Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.11](docs/design/VISUAL-CONCEPT-DECISIONS-v0.11.md), [Escopo Fase II v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
+Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar; consulte as referências correntes em [README.md](README.md), [Decisões visuais v0.12](docs/design/VISUAL-CONCEPT-DECISIONS-v0.12.md), [Escopo Fase II v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md) e [Protocolo de planejamento](docs/continuity/PLANNING-PROTOCOL.md). Versões novas eventualmente criadas devem prevalecer como estado corrente, sem apagar histórico.
 
 ## Requisitos expressos do fundador (conceituais, NÃO implementados)
 
@@ -21,7 +21,7 @@ Leia sempre [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) antes de retomar;
 3. **Telegram:** diálogo móvel com Chief of Staff, relatórios, PDFs, planilhas, alertas e ordens autorizadas. Requer controle de acesso apropriado quando futuramente implementado. Não presumir que chats de bots Telegram sejam criptografados ponta a ponta.
 4. **Voz:** identidade vocal e interação falada de agentes desejadas, idealmente solução interna semelhante ao ElevenLabs, produto específico ainda não validado/identificado. Nenhuma integração instalada.
 
-Documentação conceitual corrente está em [v0.11](docs/design/VISUAL-CONCEPT-DECISIONS-v0.11.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
+Documentação conceitual corrente está em [v0.12](docs/design/VISUAL-CONCEPT-DECISIONS-v0.12.md); os adendos integrais do fundador permanecem preservados em [v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
 
 ## Procedimento obrigatório por rodada de planejamento
 
