@@ -34,11 +34,12 @@
 | D02-21: Grandeza Acessível e Contextual | **APROVADA — C** |
 | D02-22: Diálogo Científico Responsivo | **APROVADA — C** |
 | D02-23: Pluralismo Crítico Orientado por Evidências | **APROVADA — C** |
+| D02-24: Exploração Corajosa com Humildade Epistêmica | **APROVADA — C** |
 | Central de controle, balão dos agentes e intervenção | REQUISITO DECLARADO, conceitual |
 | Tokens/custos, economia do Jev, finanças, saúde da VPS | REQUISITO DECLARADO, conceitual |
 | Telegram com Chief of Staff, relatórios, PDFs/planilhas | REQUISITO DECLARADO, conceitual |
 | Voz dos agentes, solução interna a investigar depois | REQUISITO DECLARADO, conceitual |
-| D02-24: Exploração do desconhecido científico | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
+| D02-25: Rito de encerramento da Fase II | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -51,7 +52,8 @@
 
 ### Visual (Fase II, sem implementação)
 
-- **[Registro visual vigente v0.23](docs/design/VISUAL-CONCEPT-DECISIONS-v0.23.md):** D02-01 a D02-23 aprovadas, requisitos preservados e próxima questão D02-24.
+- **[Registro visual vigente v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md):** D02-01 a D02-24 aprovadas; D02-25 propõe rito de encerramento da Fase II sem teto anteriormente fixado.
+- [Registro visual histórico v0.23](docs/design/VISUAL-CONCEPT-DECISIONS-v0.23.md): registra D02-23 aprovada e D02-24 ainda pendente naquele momento.
 - [Registro visual histórico v0.22](docs/design/VISUAL-CONCEPT-DECISIONS-v0.22.md): registra D02-22 aprovada e D02-23 então pendente.
 - [Registro visual histórico v0.21](docs/design/VISUAL-CONCEPT-DECISIONS-v0.21.md): registra D02-21 aprovada e D02-22 então pendente.
 - [Registro visual histórico v0.20](docs/design/VISUAL-CONCEPT-DECISIONS-v0.20.md): registra D02-20 aprovada e D02-21 então pendente.
@@ -74,7 +76,14 @@
 - [Registro visual histórico v0.3](docs/design/VISUAL-CONCEPT-DECISIONS-v0.3.md): aprovação de D02-03 e estado anterior.
 - [Registro visual histórico v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md): requisitos completos do fundador sobre central, Telegram, voz, tokens/Jev, finanças e VPS.
 - [Registro visual histórico v0.1](docs/design/VISUAL-CONCEPT-DECISIONS-v0.1.md): primeira escolha da Fase II e estado anterior.
-- [Escopo conceitual vigente da Fase II v0.22](docs/design/DESIGN-PHASE-SCOPE-v0.22.md), com versões históricas [v0.21](docs/design/DESIGN-PHASE-SCOPE-v0.21.md), [v0.20](docs/design/DESIGN-PHASE-SCOPE-v0.20.md), [v0.19](docs/design/DESIGN-PHASE-SCOPE-v0.19.md), [v0.18](docs/design/DESIGN-PHASE-SCOPE-v0.18.md), [v0.17](docs/design/DESIGN-PHASE-SCOPE-v0.17.md), [v0.16](docs/design/DESIGN-PHASE-SCOPE-v0.16.md), [v0.15](docs/design/DESIGN-PHASE-SCOPE-v0.15.md), [v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
+- [Escopo conceitual vigente da Fase II v0.23](docs/design/DESIGN-PHASE-SCOPE-v0.23.md), com versões históricas [v0.22](docs/design/DESIGN-PHASE-SCOPE-v0.22.md), [v0.21](docs/design/DESIGN-PHASE-SCOPE-v0.21.md), [v0.20](docs/design/DESIGN-PHASE-SCOPE-v0.20.md), [v0.19](docs/design/DESIGN-PHASE-SCOPE-v0.19.md), [v0.18](docs/design/DESIGN-PHASE-SCOPE-v0.18.md), [v0.17](docs/design/DESIGN-PHASE-SCOPE-v0.17.md), [v0.16](docs/design/DESIGN-PHASE-SCOPE-v0.16.md), [v0.15](docs/design/DESIGN-PHASE-SCOPE-v0.15.md), [v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
+
+### Horizonte proposto de fases (NÃO RATIFICADO)
+
+- **D02-25:** opção de fechamento definitivo da Fase II por auditoria documental objetiva e síntese, se aprovada pelo fundador e se os critérios forem satisfeitos.
+- **Fase III, proposta:** requisitos funcionais e engenharia da construção, incluindo modularização, stacks, arquitetura, segurança, custos, agentes de desenvolvimento, paralelismo e plano de integração. Nenhuma tecnologia foi selecionada nesta Fase II.
+- **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
+- **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
 
 ### Continuidade e colaboração
 
