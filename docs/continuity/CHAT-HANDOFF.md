@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** ATIVA, **somente concepção visual sem imagens/protótipos/software**.
-**Última escolha confirmada:** **D02-05, opção C — Dualidade Luminosa Equilibrada**.
-**Próxima e única escolha pendente:** **D02-06 — Materialidade simbólica e textura da constelação**.
+**Última escolha confirmada:** **D02-06, opção C — Materialidade Cognitiva Híbrida**.
+**Próxima e única escolha pendente:** **D02-07 — Linguagem de movimento e ritmo simbólico do organismo**.
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.5 e continue da questão D02-06. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.6 e continue da questão D02-07. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -21,8 +21,8 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 2. [AGENTS.md](../../AGENTS.md): instruções gerais de continuidade e escopo.
 3. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md): constituição aprovada e limites superiores.
 4. [Registro de Decisões da Fase I](../institutional/DECISION-REGISTER-v1.0.md) e [Aceite 7/7](../institutional/PHASE-I-ACCEPTANCE-v1.0.md).
-5. [Escopo vigente Fase II v0.4](../design/DESIGN-PHASE-SCOPE-v0.4.md).
-6. [Decisões visuais v0.5](../design/VISUAL-CONCEPT-DECISIONS-v0.5.md): **versão corrente**. V0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
+5. [Escopo vigente Fase II v0.5](../design/DESIGN-PHASE-SCOPE-v0.5.md).
+6. [Decisões visuais v0.6](../design/VISUAL-CONCEPT-DECISIONS-v0.6.md): **versão corrente**. V0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
 7. [Protocolo de planejamento](PLANNING-PROTOCOL.md): A/B/C + confirmação + atualização de contexto.
 
 ## Decisões aprovadas da Fase II
@@ -32,6 +32,7 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 - **D02-03 C — Personagens Cognitivos Híbridos e Adaptativos:** agentes com identidades reconhecíveis, personalidades **visuais**, características futuristas e manifestações simbólicas abstratas; devem continuar vinculados a papéis, limites e fatos verificados. Nenhum agente se torna humano, consciente ou juridicamente autorizado por sua aparência.
 - **D02-04 C — Santuário Cognitivo Futurista e Vivo:** atmosfera monumental, científica e sofisticada, com serenidade, profundidade e movimento orgânico intencional. “Santuário” é metáfora para contemplação e estabilidade, **não significado religioso nem alegação de consciência**.
 - **D02-05 C — Dualidade Luminosa Equilibrada:** profundidade espacial convive com clareza científica, acentos de cor contidos e luminosidade orgânica intencional; primazia da legibilidade e acessibilidade. **Não define paleta concreta, proporções, modos claro/escuro, materiais nem tecnologia.**
+- **D02-06 C — Materialidade Cognitiva Híbrida:** simbolismo de estrutura sólida/translúcida (identidade, continuidade, clareza) combinado com matéria orgânica e luminosa (cooperação, transformação, conhecimento). Glassmorphism permanece somente inspiração possível; nenhum material, renderização, painel ou técnica escolhido.
 
 ## Adendos expressos do fundador, preservados
 
@@ -43,20 +44,20 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 
 Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos ou resultados já existentes. A Carta Institucional tem precedência.
 
-## Próxima pergunta D02-06 (NÃO APROVADA)
+## Próxima pergunta D02-07 (NÃO APROVADA)
 
-**Qual materialidade simbólica e textura deve expressar a constelação cognitiva?** A decisão é estética e narrativa, sem especificar componentes, superfícies reais, telas ou tecnologia.
+**Como o organismo cognitivo deve expressar seu ritmo simbólico e a passagem da atividade para a contemplação?** Esta é uma escolha de linguagem narrativa, não de animação técnica, telas ou automações.
 
-- **A. Cristal arquitetônico científico:** solidez transparente, cristal e vidro metafóricos; precisão e permanência.
-- **B. Matéria orgânica de luz:** estruturas fluidas e luminosas com sensação de adaptabilidade; vida e transformação.
-- **C. Materialidade cognitiva híbrida:** transparência e solidez institucional dialogam com padrões orgânicos fluídos; coerente com glassmorphism como inspiração conceitual, sem aprová-lo tecnicamente.
+- **A. Serenidade arquitetônica dominante:** movimento simbólico raro; estabilidade e contemplação como impressão principal.
+- **B. Pulsação orgânica permanente:** manifestação de energia e transformação contínuas, mesmo nos intervalos, conferindo intensidade e dinamismo.
+- **C. Respiração cognitiva contextual:** serenidade como estado de base; gestos orgânicos significativos surgem em acontecimentos ou mudanças devidamente contextualizados e sem fingir eventos reais.
 
-**Recomendação editorial: C, ainda NÃO escolhida/aprovada.** A próxima escolha depende de confirmação expressa por botão.
+**Recomendação editorial C, NÃO aprovada**; a escolha é exclusiva do fundador via confirmação A/B/C.
 
-Depois da confirmação do fundador, aprofundar o conceito sem qualquer artefato visual, criar nova versão v0.6 (se v0.5 for a mais recente), atualizar este arquivo, README e AGENTS.md e apresentar a próxima pergunta A/B/C.
+Após confirmação humana da D02-07, aprofundar o conceito sem imagens ou software, criar versão v0.7 se v0.6 ainda for corrente, atualizar este handoff, README, AGENTS.md e escopo, apresentar uma nova pergunta A/B/C com botão.
 
 ## Limites invariáveis
 
 **Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
 
-**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04 ou D02-05.
+**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05 ou D02-06.
