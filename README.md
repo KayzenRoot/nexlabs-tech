@@ -26,11 +26,12 @@
 | D02-13: Memória Viva, Versionada e Rastreável | **APROVADA — C** |
 | D02-14: Atenção Cognitiva Proporcional | **APROVADA — C** |
 | D02-15: Autonomia Federada com Soberania Visível | **APROVADA — C** |
+| D02-16: Jornada Cognitiva Rastreável | **APROVADA — C** |
 | Central de controle, balão dos agentes e intervenção | REQUISITO DECLARADO, conceitual |
 | Tokens/custos, economia do Jev, finanças, saúde da VPS | REQUISITO DECLARADO, conceitual |
 | Telegram com Chief of Staff, relatórios, PDFs/planilhas | REQUISITO DECLARADO, conceitual |
 | Voz dos agentes, solução interna a investigar depois | REQUISITO DECLARADO, conceitual |
-| D02-16: Narrativa simbólica das missões e realizações | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
+| D02-17: Pesquisa, inovação e contribuição social | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -43,7 +44,8 @@
 
 ### Visual (Fase II, sem implementação)
 
-- **[Registro visual vigente v0.15](docs/design/VISUAL-CONCEPT-DECISIONS-v0.15.md):** D02-01 a D02-15 aprovadas, requisitos preservados e próxima questão D02-16.
+- **[Registro visual vigente v0.16](docs/design/VISUAL-CONCEPT-DECISIONS-v0.16.md):** D02-01 a D02-16 aprovadas, requisitos preservados e próxima questão D02-17.
+- [Registro visual histórico v0.15](docs/design/VISUAL-CONCEPT-DECISIONS-v0.15.md): registra D02-15 aprovada e D02-16 ainda pendente naquele momento.
 - [Registro visual histórico v0.14](docs/design/VISUAL-CONCEPT-DECISIONS-v0.14.md): registra D02-14 aprovada e D02-15 ainda pendente.
 - [Registro visual histórico v0.13](docs/design/VISUAL-CONCEPT-DECISIONS-v0.13.md): registra D02-13 aprovada e D02-14 ainda pendente.
 - [Registro visual histórico v0.12](docs/design/VISUAL-CONCEPT-DECISIONS-v0.12.md): registra D02-12 aprovada e D02-13 ainda pendente.
@@ -58,7 +60,7 @@
 - [Registro visual histórico v0.3](docs/design/VISUAL-CONCEPT-DECISIONS-v0.3.md): aprovação de D02-03 e estado anterior.
 - [Registro visual histórico v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md): requisitos completos do fundador sobre central, Telegram, voz, tokens/Jev, finanças e VPS.
 - [Registro visual histórico v0.1](docs/design/VISUAL-CONCEPT-DECISIONS-v0.1.md): primeira escolha da Fase II e estado anterior.
-- [Escopo conceitual vigente da Fase II v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), com versões históricas [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
+- [Escopo conceitual vigente da Fase II v0.15](docs/design/DESIGN-PHASE-SCOPE-v0.15.md), com versões históricas [v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
 
 ### Continuidade e colaboração
 
