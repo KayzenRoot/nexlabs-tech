@@ -1,65 +1,60 @@
-# NexLabs Technology — Guia de continuidade entre chats
+# NexLabs Technology — Handoff de continuidade entre chats
 
-**ESTADO ATUAL (2026-10-15):** Fase I **encerrada e aprovada**; Fase II **concepção visual, sem implementação**.  
-**Repositório canônico:** `KayzenRoot/nexlabs-tech` (`main`).  
-**Ponto exato de retomada:** próximas respostas devem explorar **D02-03 — representação visual dos agentes**, ainda **não aprovada**, após o fundador já ter selecionado D02-02 C e feito adendos de comando, observabilidade, Telegram e voz.
+**Data de atualização:** 2026-10-15
+**Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
+**Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
+**Fase II:** ATIVA, **somente concepção visual sem imagens/protótipos/software**.
+**Última escolha confirmada:** **D02-03, opção C — Personagens Cognitivos Híbridos e Adaptativos**.
+**Próxima e única escolha pendente:** **D02-04 — Atmosfera simbólica da central de comando**.
 
-## Como retomar em um novo chat
+## Ao retomar em um novo chat
 
-Mensagem curta sugerida do fundador:
+Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, especialmente `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`. Continue exatamente da última decisão pendente da Fase II, mantendo perguntas A/B/C com botão de confirmação. Preserve decisões anteriores, atualize a documentação a cada decisão, não faça imagens, produtos ou implementações.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.3 e continue da questão D02-04. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
 
-Um assistente no novo chat deverá **verificar a versão atual do repositório** antes de responder e **não reaprovar nem sobrescrever** escolhas confirmadas. Se não houver acesso, declarar a limitação e solicitar o documento relevante, sem inventar um estado.
+O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
-## Ordem de leitura canônica
+## Leitura canônica
 
-1. [README](../../README.md) — estado e índice principal.
-2. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md) — constituição superior imutável sem nova aprovação.
-3. [Registro da Fase I](../institutional/DECISION-REGISTER-v1.0.md) — todas as decisões corporativas.
-4. [Aceite da Fase I](../institutional/PHASE-I-ACCEPTANCE-v1.0.md) — 7/7 e encerramento.
-5. [Escopo corrente da Fase II](../design/DESIGN-PHASE-SCOPE-v0.2.md).
-6. [Registro corrente de design](../design/VISUAL-CONCEPT-DECISIONS-v0.2.md).
-7. [Método de planejamento e retomada](PLANNING-PROTOCOL.md) — dinâmica A/B/C e critérios.
-8. Este arquivo, para o **último estado e próxima ação**.
+1. [README](../../README.md): índice, estado atual e acesso aos documentos.
+2. [AGENTS.md](../../AGENTS.md): instruções gerais de continuidade e escopo.
+3. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md): constituição aprovada e limites superiores.
+4. [Registro de Decisões da Fase I](../institutional/DECISION-REGISTER-v1.0.md) e [Aceite 7/7](../institutional/PHASE-I-ACCEPTANCE-v1.0.md).
+5. [Escopo vigente Fase II v0.2](../design/DESIGN-PHASE-SCOPE-v0.2.md).
+6. [Decisões visuais v0.3](../design/VISUAL-CONCEPT-DECISIONS-v0.3.md): **versão corrente**. V0.2 e V0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
+7. [Protocolo de planejamento](PLANNING-PROTOCOL.md): A/B/C + confirmação + atualização de contexto.
 
-A versão documental mais recente substitui versões anteriores **apenas para o estado corrente**, preservando histórico de aprovações. Nunca transformar algo meramente proposto em aprovado.
+## Decisões aprovadas da Fase II
 
-## Decisões aprovadas até aqui na Fase II
+- **D02-01 C — Organismo Cognitivo Vivo:** inteligência institucional dinâmica, com memória, aprendizado e constelação simbólica, **não consciência literal**.
+- **D02-02 C — Constelação Cognitiva Federada:** centro simbólico da identidade constitucional e núcleos especializados interconectados, **sem agente supremo**.
+- **D02-03 C — Personagens Cognitivos Híbridos e Adaptativos:** agentes com identidades reconhecíveis, personalidades **visuais**, características futuristas e manifestações simbólicas abstratas; devem continuar vinculados a papéis, limites e fatos verificados. Nenhum agente se torna humano, consciente ou juridicamente autorizado por sua aparência.
 
-**D02-01: C — Organismo Cognitivo Vivo.** Identidade como inteligência institucional dinâmica, sem alegação de consciência literal.
+## Adendos expressos do fundador, preservados
 
-**D02-02: C — Constelação Cognitiva Federada.** Identidade constitucional central como símbolo, núcleos especializados interconectados, nenhuma autoridade executiva suprema implícita.
+- **Supervisão total dentro da autoridade legítima:** central de comando com acesso a todos os agentes e missões autorizados, descrição em balão/contexto ao apontar para cada agente; pausa, solicitação de parada, intervenções, aprovações, orientações e consulta a evidências. A central deverá indicar resultado real de ordens, quando futuramente implementada; ações externas concluídas podem não ser reversíveis.
+- **Dashboard abrangente:** tokens de IA por agente/modelo/missão, custos e tendências, economia real/estimada do **Jev** com linha de base verificável; informações financeiras, despesas, orçamento, reservas, saúde da VPS e armazenamento/disco, recursos, sobrecarga e alertas. Não fabricar métricas nem assumir infraestrutura já monitorada.
+- **Telegram:** Chief of Staff como interlocutor móvel para perguntas, alertas, orientação, solicitações e recebimento de relatórios, PDFs e planilhas, com salvaguardas de acesso e confidencialidade. Não existe bot criado nem autorização de implantação.
+- **Voz dos agentes:** preferência por voz e solução interna semelhante ao ElevenLabs, cujo produto ainda não foi identificado ou verificado. Nada instalado, nenhuma voz escolhida ou clonada.
+- **Continuidade:** a cada seleção expressa atualizar o histórico visual versionado, handoff, README e, quando necessário, AGENTS.md. A/B/C com opção selecionável e botão que envia a escolha.
 
-## Adendos expressamente determinados pelo fundador
+Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos ou resultados já existentes. A Carta Institucional tem precedência.
 
-1. **Central de comando com controle:** observação ampla de todos os agentes e atividades; apontar/hover sobre personagem revela descrição em balão; pausar, interromper, intervir, orientar, aprovar, solicitar explicações e histórico com confirmação do resultado das ações.
-2. **Dashboard principal completo:** tokens e custos por agente, modelos e tarefas; economia verificada do Jev (fundador pronunciou “Jeff”); despesas e informações financeiras; VPS com CPU, memória, disco/HD, sobrecarga, ocupação e demais dados disponíveis; visão consolidada, alertas e detalhes.
-3. **Telegram móvel:** acesso direto à empresa via conversa com Chief of Staff, solicitações, análises, relatórios, documentos PDF/planilhas, ordens e notificações dentro de permissões e medidas de segurança; sem alegar bot existente.
-4. **Voz dos agentes:** interesse em solução interna semelhante ao ElevenLabs, plataforma gratuita relatada mas sem nome confirmado, custo/licença e adequação ainda não verificados; **não instalar nada**.
-5. **Documentação e retomada:** registrar escolhas e requisitos no GitHub, continuar em novo chat do último ponto e repetir interação A/B/C com botão selecionável.
+## Próxima pergunta D02-04 (NÃO APROVADA)
 
-Requisitos conceituais **não** são software desenvolvido, plano técnico pronto ou garantia de execução imediata. Respeitar direitos e privacidade, controles de segurança, confirmação de ações sensíveis e limites de revogação. Bot do Telegram não é canal presumidamente ponta a ponta criptografado.
+**Como deve ser a atmosfera simbólica da central?**
 
-## Próxima decisão pendente: D02-03 — Como representar os agentes visualmente?
+- **A. Observatório científico sereno:** ambiente de pesquisa majestoso, contemplativo e de precisão disciplinada.
+- **B. Ecossistema orgânico vibrante:** fluxos luminosos, transformação perceptível, sensação dominante de organismo em movimento.
+- **C. Santuário cognitivo futurista e vivo:** monumental e científico, com serenidade, transparência conceitual, profundidade e movimentos orgânicos intencionais. Equilibra visão e credibilidade.
 
-- **A. Personagens humanoides:** trabalhadores digitais com postura e identidade reconhecíveis.
-- **B. Entidades abstratas:** formas, campos de luz e padrões cognitivos diferenciados por competência.
-- **C. Identidades híbridas adaptativas:** personagens reconhecíveis convivem com manifestações abstratas de inteligência, preservando caráter científico e distinção entre funções.
+**Recomendação editorial: C, não selecionada nem aprovada.**
 
-**Recomendação editorial, NÃO aprovada:** C, pois harmoniza personagens e a metáfora de organismo cognitivo vivo.
+Depois da escolha do fundador, aprofundar as consequências da atmosfera, registrar a aprovação em uma nova versão (v0.4, caso v0.3 ainda seja a última), atualizar este arquivo e apresentar a próxima decisão A/B/C com botão de confirmação.
 
-Quando o fundador selecionar uma opção e confirmar, explicar implicações **apenas conceituais**, registrar nova decisão em arquivo versionado, atualizar este ponto de retomada e propor a **próxima** pergunta A/B/C com botão.
+## Limites invariáveis
 
-## Critério de avanço
+**Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
 
-A Fase II **não** pode ser declarada encerrada até que o conjunto de decisões visuais seja considerado coerente e aprovado pelo fundador. A eventual transição para design detalhado, imagens ou implementação exigirá autorização adicional, não presumida.
-
-## O que nunca deve acontecer em retomadas
-
-- Voltar à pergunta D02-01 ou D02-02 como se estivessem pendentes.
-- Usar o termo “controle total” para autorizar poderes fora da lei ou consentimento implícito.
-- Confundir visão de central, Telegram, voz ou observabilidade com mecanismos já instalados.
-- Inventar informações da VPS, economia do Jev, relatórios financeiros ou agentes reais.
-- Responder com opções sem botão acionável quando a interface disponibiliza controles.
-- Criar código, arte, arquivos técnicos de projeto ou infraestrutura sem autorização.
+**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02 ou D02-03.
