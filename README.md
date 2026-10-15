@@ -2,9 +2,9 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** concepção de identidade e experiência visual **EM DISCUSSÃO**, exclusivamente em documentos e conversa. **Nenhuma implementação autorizada.**
+**Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III NÃO INICIADA**. Nenhuma implementação autorizada.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md) e [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) para continuar da pergunta pendente com alternativas A/B/C selecionáveis e botão de confirmação. Não comece do zero, não repita decisões aprovadas e não faça imagens, produtos ou software.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é solicitar autorização explícita D03-01 para **planejamento documental da Fase III**, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado atual em 2026-10-15
 
@@ -35,11 +35,12 @@
 | D02-22: Diálogo Científico Responsivo | **APROVADA — C** |
 | D02-23: Pluralismo Crítico Orientado por Evidências | **APROVADA — C** |
 | D02-24: Exploração Corajosa com Humildade Epistêmica | **APROVADA — C** |
+| D02-25: Fechamento por Auditoria Objetiva e Transição | **APROVADA — C; FASE II ENCERRADA** |
 | Central de controle, balão dos agentes e intervenção | REQUISITO DECLARADO, conceitual |
 | Tokens/custos, economia do Jev, finanças, saúde da VPS | REQUISITO DECLARADO, conceitual |
 | Telegram com Chief of Staff, relatórios, PDFs/planilhas | REQUISITO DECLARADO, conceitual |
 | Voz dos agentes, solução interna a investigar depois | REQUISITO DECLARADO, conceitual |
-| D02-25: Rito de encerramento da Fase II | **PRÓXIMA DECISÃO PENDENTE (A/B/C)** |
+| D03-01: Autorização de planejamento documental de engenharia | **PROPOSTA, AINDA NÃO AUTORIZADA** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -50,9 +51,13 @@
 - [Registro de Decisões v1.0](docs/institutional/DECISION-REGISTER-v1.0.md): decisões aprovadas e critérios de interpretação.
 - [Aceite Fase I v1.0](docs/institutional/PHASE-I-ACCEPTANCE-v1.0.md): validação 7/7 e aprovação formal.
 
-### Visual (Fase II, sem implementação)
+### Visual e identidade institucional (Fase II encerrada, sem implementação)
 
-- **[Registro visual vigente v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md):** D02-01 a D02-24 aprovadas; D02-25 propõe rito de encerramento da Fase II sem teto anteriormente fixado.
+- **[Registro visual FINAL v0.25](docs/design/VISUAL-CONCEPT-DECISIONS-v0.25.md):** D02-01 a D02-25 aprovadas e encerramento documental ratificado.
+- **[Síntese canônica da Fase II](docs/design/PHASE-II-CANONICAL-SYNTHESIS-v1.0.md):** referência conceitual consolidada sem revogar o histórico.
+- **[Auditoria documental v1.0](docs/design/PHASE-II-AUDIT-v1.0.md):** critérios, provas, limites e observação de visibilidade do repositório.
+- **[Ata de encerramento v1.0](docs/design/PHASE-II-ACCEPTANCE-v1.0.md):** STOP CONDITION atendida; Fase II ENCERRADA.
+- [Registro visual histórico v0.24](docs/design/VISUAL-CONCEPT-DECISIONS-v0.24.md): D02-24 aprovada e D02-25 então pendente.
 - [Registro visual histórico v0.23](docs/design/VISUAL-CONCEPT-DECISIONS-v0.23.md): registra D02-23 aprovada e D02-24 ainda pendente naquele momento.
 - [Registro visual histórico v0.22](docs/design/VISUAL-CONCEPT-DECISIONS-v0.22.md): registra D02-22 aprovada e D02-23 então pendente.
 - [Registro visual histórico v0.21](docs/design/VISUAL-CONCEPT-DECISIONS-v0.21.md): registra D02-21 aprovada e D02-22 então pendente.
@@ -76,11 +81,12 @@
 - [Registro visual histórico v0.3](docs/design/VISUAL-CONCEPT-DECISIONS-v0.3.md): aprovação de D02-03 e estado anterior.
 - [Registro visual histórico v0.2](docs/design/VISUAL-CONCEPT-DECISIONS-v0.2.md): requisitos completos do fundador sobre central, Telegram, voz, tokens/Jev, finanças e VPS.
 - [Registro visual histórico v0.1](docs/design/VISUAL-CONCEPT-DECISIONS-v0.1.md): primeira escolha da Fase II e estado anterior.
-- [Escopo conceitual vigente da Fase II v0.23](docs/design/DESIGN-PHASE-SCOPE-v0.23.md), com versões históricas [v0.22](docs/design/DESIGN-PHASE-SCOPE-v0.22.md), [v0.21](docs/design/DESIGN-PHASE-SCOPE-v0.21.md), [v0.20](docs/design/DESIGN-PHASE-SCOPE-v0.20.md), [v0.19](docs/design/DESIGN-PHASE-SCOPE-v0.19.md), [v0.18](docs/design/DESIGN-PHASE-SCOPE-v0.18.md), [v0.17](docs/design/DESIGN-PHASE-SCOPE-v0.17.md), [v0.16](docs/design/DESIGN-PHASE-SCOPE-v0.16.md), [v0.15](docs/design/DESIGN-PHASE-SCOPE-v0.15.md), [v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
+- [Escopo final encerrado da Fase II v0.24](docs/design/DESIGN-PHASE-SCOPE-v0.24.md), com versões históricas [v0.23](docs/design/DESIGN-PHASE-SCOPE-v0.23.md), [v0.22](docs/design/DESIGN-PHASE-SCOPE-v0.22.md), [v0.21](docs/design/DESIGN-PHASE-SCOPE-v0.21.md), [v0.20](docs/design/DESIGN-PHASE-SCOPE-v0.20.md), [v0.19](docs/design/DESIGN-PHASE-SCOPE-v0.19.md), [v0.18](docs/design/DESIGN-PHASE-SCOPE-v0.18.md), [v0.17](docs/design/DESIGN-PHASE-SCOPE-v0.17.md), [v0.16](docs/design/DESIGN-PHASE-SCOPE-v0.16.md), [v0.15](docs/design/DESIGN-PHASE-SCOPE-v0.15.md), [v0.14](docs/design/DESIGN-PHASE-SCOPE-v0.14.md), [v0.13](docs/design/DESIGN-PHASE-SCOPE-v0.13.md), [v0.12](docs/design/DESIGN-PHASE-SCOPE-v0.12.md), [v0.11](docs/design/DESIGN-PHASE-SCOPE-v0.11.md), [v0.10](docs/design/DESIGN-PHASE-SCOPE-v0.10.md), [v0.9](docs/design/DESIGN-PHASE-SCOPE-v0.9.md), [v0.8](docs/design/DESIGN-PHASE-SCOPE-v0.8.md), [v0.7](docs/design/DESIGN-PHASE-SCOPE-v0.7.md), [v0.6](docs/design/DESIGN-PHASE-SCOPE-v0.6.md), [v0.5](docs/design/DESIGN-PHASE-SCOPE-v0.5.md), [v0.4](docs/design/DESIGN-PHASE-SCOPE-v0.4.md), [v0.3](docs/design/DESIGN-PHASE-SCOPE-v0.3.md), [v0.2](docs/design/DESIGN-PHASE-SCOPE-v0.2.md) e [v0.1](docs/design/DESIGN-PHASE-SCOPE-v0.1.md).
 
-### Horizonte proposto de fases (NÃO RATIFICADO)
+### Horizonte proposto de fases (Fase III ainda NÃO autorizada)
 
-- **D02-25:** opção de fechamento definitivo da Fase II por auditoria documental objetiva e síntese, se aprovada pelo fundador e se os critérios forem satisfeitos.
+- **D02-25 C APROVADA:** Fase II encerrada após auditoria objetiva e publicação de síntese e ata.
+- **[Proposta de Transição para Fase III v0.1](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md):** pacotes de planejamento, riscos, stacks, módulos, agentes, paralelismo e orçamento, sem escolhas técnicas aprovadas.
 - **Fase III, proposta:** requisitos funcionais e engenharia da construção, incluindo modularização, stacks, arquitetura, segurança, custos, agentes de desenvolvimento, paralelismo e plano de integração. Nenhuma tecnologia foi selecionada nesta Fase II.
 - **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
 - **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
@@ -95,4 +101,4 @@
 
 A Carta da Fase I prevalece sobre escolhas de design. O fundador mantém soberania legítima; a representação de agentes não altera autoridade ou direitos. Não se deve inventar resultados, métricas de VPS, relatórios ou economia do Jev. Controle, transparência e intervenção serão requisitos de experiências futuras, não funcionalidades declaradas em funcionamento.
 
-Toda decisão nova exige confirmação humana explícita, atualização de versão histórica e handoff. **O escopo atual permite documentos de concepção Markdown, não permite imagens, protótipos, código, produtos, infraestrutura, voz ou serviços Telegram.**
+A Fase II está encerrada e não autoriza engenharia nem implementação. Novas fases e decisões exigem autorização humana específica, registro e handoff. **Nenhum produto, stack, imagem, protótipo, código, infraestrutura, voz ou serviço Telegram foi criado em decorrência da Fase II.**
