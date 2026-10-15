@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** ATIVA, **somente concepção visual sem imagens/protótipos/software**.
-**Última escolha confirmada:** **D02-16, opção C — Jornada Cognitiva Rastreável**.
-**Próxima e única escolha pendente:** **D02-17 — Expressão simbólica de pesquisa, inovação e contribuição social**.
+**Última escolha confirmada:** **D02-17, opção C — Ponte entre Descoberta e Progresso Responsável**.
+**Próxima e única escolha pendente:** **D02-18 — Universalidade institucional e pluralidade cultural**.
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.16 e continue da questão D02-17. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.17 e continue da questão D02-18. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -21,8 +21,8 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 2. [AGENTS.md](../../AGENTS.md): instruções gerais de continuidade e escopo.
 3. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md): constituição aprovada e limites superiores.
 4. [Registro de Decisões da Fase I](../institutional/DECISION-REGISTER-v1.0.md) e [Aceite 7/7](../institutional/PHASE-I-ACCEPTANCE-v1.0.md).
-5. [Escopo vigente Fase II v0.15](../design/DESIGN-PHASE-SCOPE-v0.15.md).
-6. [Decisões visuais v0.16](../design/VISUAL-CONCEPT-DECISIONS-v0.16.md): **versão corrente**. V0.15, v0.14, v0.13, v0.12, v0.11, v0.10, v0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
+5. [Escopo vigente Fase II v0.16](../design/DESIGN-PHASE-SCOPE-v0.16.md).
+6. [Decisões visuais v0.17](../design/VISUAL-CONCEPT-DECISIONS-v0.17.md): **versão corrente**. V0.16, v0.15, v0.14, v0.13, v0.12, v0.11, v0.10, v0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
 7. [Protocolo de planejamento](PLANNING-PROTOCOL.md): A/B/C + confirmação + atualização de contexto.
 
 ## Decisões aprovadas da Fase II
@@ -43,6 +43,7 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 - **D02-14 C — Atenção Cognitiva Proporcional:** serenidade como base e linguagem de atenção proporcional a relevância, riscos, incerteza e responsabilidade, sem fingir criticidade ou alertas reais; preserva autoridade e intervenção legítimas do fundador.
 - **D02-15 C — Autonomia Federada com Soberania Visível:** os núcleos e agentes transmitem iniciativa dentro de mandatos delegados e revogáveis; a autoridade do fundador, o núcleo constitucional e o Chief of Staff permanecem nitidamente distintos. Não representa permissão técnica, operação real nem soberania artificial.
 - **D02-16 C — Jornada Cognitiva Rastreável:** missão representada conceitualmente por propósito, legitimidade, investigação, colaboração, evidências, consequências verificáveis e revisão. Intenção, atividade e resultado não são sinônimos; não há fluxo técnico, métrica ou execução implementada.
+- **D02-17 C — Ponte entre Descoberta e Progresso Responsável:** pesquisa, validação, inovação e benefícios sociais possíveis se relacionam simbolicamente. Promessas não são resultados nem impactos verificados.
 
 ## Adendos expressos do fundador, preservados
 
@@ -54,20 +55,20 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 
 Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos ou resultados já existentes. A Carta Institucional tem precedência.
 
-## Próxima pergunta D02-17 (NÃO APROVADA)
+## Próxima pergunta D02-18 (NÃO APROVADA)
 
-**Como a NexLabs deverá expressar simbolicamente a relação entre pesquisa científica, inovação e contribuição à sociedade sem fingir impactos já comprovados?** Apenas identidade e narrativa conceitual, sem produto, campanha, pesquisa real ou indicadores.
+**Como expressar a ambição global da NexLabs com respeito à pluralidade cultural e identidade institucional?**
 
-- **A. Horizonte científico universal:** a expansão do conhecimento conduz a narrativa, enquanto o benefício humano figura como orientação institucional de longo prazo.
-- **B. Transformação humana em primeiro plano:** a narrativa privilegia pessoas, desafios sociais e possíveis impactos positivos, com ciência como principal meio transformador.
-- **C. Ponte entre descoberta e progresso responsável:** pesquisa, validação, capacidade tecnológica e contribuição humana são dimensões relacionadas, mantendo distinção entre promessas, demonstrações e impactos efetivamente comprovados.
+- **A. Universalidade científica unificada:** identidade científica coesa como linguagem comum.
+- **B. Mosaico cultural descentralizado:** pluralidade de contextos e experiências como referência predominante.
+- **C. Universalidade federada e inclusiva:** uma identidade científica comum, acolhendo diferentes culturas, perspectivas e contextos sem estereótipos ou alegações de presença internacional real.
 
-**Recomendação editorial: C, NÃO aprovada pelo fundador.** É necessário selecionar e confirmar A/B/C com botão funcional.
+**Recomendação editorial C. Ainda não aprovada.** Seleção expressa do fundador é necessária antes de registrar qualquer decisão.
 
-Após a escolha expressa, aprofundar apenas o significado conceitual, criar registro v0.17 se v0.16 ainda estiver vigente, atualizar README.md, AGENTS.md, este handoff e escopo, e propor a próxima decisão A/B/C com botão real.
+Após confirmação, aprofundar apenas o conceito e versionar os documentos. Não produzir imagens nem implementar tecnologias.
 
 ## Limites invariáveis
 
 **Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
 
-**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15 ou D02-16.
+**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16 ou D02-17.
