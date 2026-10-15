@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-04, opção C — Base Principal Única Escolhida por Evidências, com Especializações Condicionais**. D03-01 A, D03-02 C e D03-03 C continuam aprovadas.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-05 — estratégia de persistência e proveniência verificável (A/B/C), PENDENTE.**
+**Última escolha confirmada:** **D03-05, opção C — Fonte de Verdade Verificável com Histórico Proporcional**. D03-01 A, D03-02 C, D03-03 C e D03-04 C continuam aprovadas.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-06 — convergência das escolhas técnicas (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-05 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-06 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,7 +72,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.4](../engineering/PHASE-III-CHARTER-v0.4.md). [Registro D03 v0.4](../engineering/PHASE-III-DECISION-REGISTER-v0.4.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.4.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.4.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.4.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.4.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.5](../engineering/PHASE-III-CHARTER-v0.5.md). [Registro D03 v0.5](../engineering/PHASE-III-DECISION-REGISTER-v0.5.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.5.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.5.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.5.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.5.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
@@ -80,7 +80,9 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-04 C APROVADA:** comparar TypeScript e Python por critérios equivalentes para escolher futuramente uma base principal predominante; exceções de linguagem secundária exigem justificativa de custo/benefício. **Nenhuma linguagem ou framework foi escolhida.**
 
-**Checkpoint D03-05 (PENDENTE):** estratégia de persistência e proveniência: A eixo transacional; B eixo histórico de eventos; C fonte de verdade verificável com histórico proporcional. Recomendação editorial C não é aprovação. Nenhum banco, esquema técnico, RAG, agentes operacionais ou implementação aprovada.
+**D03-05 C APROVADA:** fonte de verdade verificável com histórico proporcional, preservando integridade de autorizações, evidências, versões e custos conforme risco e privacidade. Nenhum banco, event sourcing, esquema, agente ou software escolhido.
+
+**Checkpoint D03-06 (PENDENTE):** direção da convergência dos ADRs técnicos: A stack primeiro; B persistência primeiro; C pacote integrado de seleção de stack, persistência e contratos com comparações coerentes e ratificação humana posterior. Recomendação editorial C não equivale a aprovação. Nenhuma tecnologia é escolhida automaticamente.
 
 ## Limites invariáveis
 
