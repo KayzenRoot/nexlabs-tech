@@ -24,10 +24,10 @@ A Fase III está **iniciada** na acepção de documentação. Seus quatro pacote
 
 | ID | Pacote | Estado | Referência |
 | --- | --- | --- | --- |
-| E3-01 | Escopo e capacidades da primeira entrega | EM PLANEJAMENTO | [Mapa v0.4](E3-01-CAPABILITY-MAP-v0.6.md) |
-| E3-02 | Fronteiras arquiteturais, stacks e alternativas | EM PLANEJAMENTO | [Arquitetura comparativa v0.4](E3-02-ARCHITECTURE-EVALUATION-v0.6.md) |
-| E3-03 | Fábrica de desenvolvimento com agentes e paralelismo | EM PLANEJAMENTO | [Estratégia comparativa v0.4](E3-03-AGENT-FACTORY-EVALUATION-v0.6.md) |
-| E3-04 | Segurança, custo, prontidão e gate para implementação | EM PLANEJAMENTO | [Prontidão v0.4](E3-04-READINESS-AND-GATES-v0.6.md) |
+| E3-01 | Escopo e capacidades da primeira entrega | EM PLANEJAMENTO | [Mapa v0.6](E3-01-CAPABILITY-MAP-v0.6.md) |
+| E3-02 | Fronteiras arquiteturais, stacks e alternativas | EM PLANEJAMENTO | [Arquitetura comparativa v0.6](E3-02-ARCHITECTURE-EVALUATION-v0.6.md) |
+| E3-03 | Fábrica de desenvolvimento com agentes e paralelismo | EM PLANEJAMENTO | [Estratégia comparativa v0.6](E3-03-AGENT-FACTORY-EVALUATION-v0.6.md) |
+| E3-04 | Segurança, custo, prontidão e gate para implementação | EM PLANEJAMENTO | [Prontidão v0.6](E3-04-READINESS-AND-GATES-v0.6.md) |
 
 ## 4. Critérios de saída da Fase III
 
