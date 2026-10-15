@@ -51,7 +51,7 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 - **D02-22 C — Diálogo Científico Responsivo:** escuta respeitosa, perguntas e explicações com fundamento, reconhecimento da incerteza e abertura a críticas; nenhum canal, voz, atendimento ou integração foi criado.
 - **D02-23 C — Pluralismo Crítico Orientado por Evidências:** a identidade admite discordância fundamentada e perspectivas plurais, distinguindo a proveniência e qualidade das evidências sem equivalência automática de alegações desigualmente sustentadas. Não implica debates reais, votação ou síntese automática.
 - **D02-24 C — Exploração Corajosa com Humildade Epistêmica:** curiosidade científica corajosa diante do desconhecido, com incertezas, evidências e limites reconhecidos. Não implica descobertas comprovadas ou experimentos realizados.
-- **D02-25 C — Fechamento por Auditoria Objetiva e Transição:** auditoria, síntese, ata e STOP CONDITION documentais satisfeitas. Fase II ENCERRADA; Fase III não aprovada.
+- **D02-25 C — Fechamento por Auditoria Objetiva e Transição:** auditoria, síntese, ata e STOP CONDITION documentais satisfeitas. Fase II ENCERRADA. À época da ata a Fase III não estava autorizada; **a autorização específica veio depois, com D03-01 A, exclusivamente documental**.
 
 ## Adendos expressos do fundador, preservados
 
@@ -80,4 +80,4 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **Autorizado na Fase III:** somente planejar documentalmente requisitos, arquitetura e stacks em alternativas, modularização candidata, agentes e paralelismo, custos, segurança e critérios de prontidão. **Proibido implementar:** imagens, mockups, protótipos, interfaces reais, código, APIs, integrações Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de execução e infraestrutura.
 
-**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16, D02-17, D02-18, D02-19, D02-20, D02-21, D02-22, D02-23, D02-24 ou D02-25.
+**Aprovado não significa implementado.** A **Fase IV de implementação NÃO está autorizada**. Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16, D02-17, D02-18, D02-19, D02-20, D02-21, D02-22, D02-23, D02-24 ou D02-25.
