@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** ATIVA, **somente concepção visual sem imagens/protótipos/software**.
-**Última escolha confirmada:** **D02-19, opção C — Transparência Contextual Responsável**.
-**Próxima e única escolha pendente:** **D02-20 — Continuidade e resiliência institucional**.
+**Última escolha confirmada:** **D02-20, opção C — Resiliência Adaptativa com Integridade**.
+**Próxima e única escolha pendente:** **D02-21 — Grandeza científica e proximidade humana**.
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.19 e continue da questão D02-20. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.20 e continue da questão D02-21. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -21,8 +21,8 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 2. [AGENTS.md](../../AGENTS.md): instruções gerais de continuidade e escopo.
 3. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md): constituição aprovada e limites superiores.
 4. [Registro de Decisões da Fase I](../institutional/DECISION-REGISTER-v1.0.md) e [Aceite 7/7](../institutional/PHASE-I-ACCEPTANCE-v1.0.md).
-5. [Escopo vigente Fase II v0.18](../design/DESIGN-PHASE-SCOPE-v0.18.md).
-6. [Decisões visuais v0.19](../design/VISUAL-CONCEPT-DECISIONS-v0.19.md): **versão corrente**. V0.18, v0.17, v0.16, v0.15, v0.14, v0.13, v0.12, v0.11, v0.10, v0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
+5. [Escopo vigente Fase II v0.19](../design/DESIGN-PHASE-SCOPE-v0.19.md).
+6. [Decisões visuais v0.20](../design/VISUAL-CONCEPT-DECISIONS-v0.20.md): **versão corrente**. V0.19, v0.18, v0.17, v0.16, v0.15, v0.14, v0.13, v0.12, v0.11, v0.10, v0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
 7. [Protocolo de planejamento](PLANNING-PROTOCOL.md): A/B/C + confirmação + atualização de contexto.
 
 ## Decisões aprovadas da Fase II
@@ -46,6 +46,7 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 - **D02-17 C — Ponte entre Descoberta e Progresso Responsável:** pesquisa, validação, inovação e benefícios sociais possíveis se relacionam simbolicamente. Promessas não são resultados nem impactos verificados.
 - **D02-18 C — Universalidade Federada e Inclusiva:** uma identidade científica comum acolhe diversidade de contextos, perspectivas e experiências sem estereótipos. Não equivale a presença internacional, parcerias, traduções, equipes globais ou acessibilidade técnica já alcançada.
 - **D02-19 C — Transparência Contextual Responsável:** linguagem institucional de ciência verificável, explicabilidade e proteção legítima de dados. Visibilidade não equivale a acesso irrestrito; resguardo não autoriza ocultação injustificada; sem autenticação, políticas técnicas ou segurança implementadas.
+- **D02-20 C — Resiliência Adaptativa com Integridade:** metáfora de continuidade constitucional e capacidade de revisar entendimentos diante de dificuldades e mudanças, reconhecendo perdas, responsabilidades e limites, sem sugerir backups, resiliência operacional ou recuperação técnica comprovadas.
 
 ## Adendos expressos do fundador, preservados
 
@@ -57,20 +58,20 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 
 Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos ou resultados já existentes. A Carta Institucional tem precedência.
 
-## Próxima pergunta D02-20 (NÃO APROVADA)
+## Próxima pergunta D02-21 (NÃO APROVADA)
 
-**Como a NexLabs deverá representar simbolicamente continuidade e resiliência institucional frente a mudanças, erros e dificuldades sem alegar robustez técnica comprovada?** Exclusivamente identidade visual e metáfora institucional.
+**Como a NexLabs deve equilibrar monumentalidade científica e proximidade humana em sua identidade, sem intimidar ou banalizar a pesquisa?** Apenas concepção institucional e visual, não cenário, proporção concreta, ergonomia ou interface.
 
-- **A. Permanência institucional sólida:** caráter de estabilidade constitucional e firmeza, com pouca ênfase em adaptação.
-- **B. Metamorfose cognitiva fluida:** caráter de transformação e reinvenção, com maior ênfase em mudança e menor referência à continuidade.
-- **C. Resiliência adaptativa com integridade:** caráter de continuidade constitucional e aprendizado com mudanças, correções e dificuldades sem apagar consequências nem prometer invulnerabilidade.
+- **A. Monumentalidade científica predominante:** protagonismo da grandeza institucional, profundidade e ambição científica, com proximidade humana em segundo plano.
+- **B. Proximidade humana predominante:** protagonismo de acolhimento, clareza, simplicidade e comunicação acessível, com grandeza institucional mais discreta.
+- **C. Grandeza acessível e contextual:** uma NexLabs inspiradora e científica que mantém acolhimento e compreensão humana proporcionais ao contexto. Grandeza sem intimidação e proximidade sem perda de rigor.
 
-**Recomendação editorial C, AINDA NÃO APROVADA.** Exigir confirmação explícita em alternativas A/B/C e botão.
+**Recomendação editorial: C, NÃO aprovada.** Exige confirmação explícita do fundador pelas alternativas A/B/C e botão funcional.
 
-Após confirmação: aprofundar só o conceito, criar registro v0.20 se v0.19 for corrente, atualizar README.md, AGENTS.md, CHAT-HANDOFF.md e escopo, e apresentar uma única próxima questão A/B/C. Sem softwares, backups, infraestrutura ou mecanismos técnicos.
+Após a escolha: aprofundar apenas o conceito, criar registro v0.21 se v0.20 for o vigente, atualizar README.md, AGENTS.md, este handoff e o escopo. Propor uma próxima questão estratégica com A/B/C selecionável. Não criar imagens nem implementar tecnologias.
 
 ## Limites invariáveis
 
 **Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
 
-**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16, D02-17, D02-18 ou D02-19.
+**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10, D02-11, D02-12, D02-13, D02-14, D02-15, D02-16, D02-17, D02-18, D02-19 ou D02-20.
