@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** ATIVA, **somente concepção visual sem imagens/protótipos/software**.
-**Última escolha confirmada:** **D02-10, opção C — Emissário Cognitivo Híbrido**.
-**Próxima e única escolha pendente:** **D02-11 — Linguagem simbólica de colaboração e conhecimento entre núcleos**.
+**Última escolha confirmada:** **D02-11, opção C — Sinapses Federadas Contextuais**.
+**Próxima e única escolha pendente:** **D02-12 — Estado do conhecimento: evidência e incerteza**.
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.10 e continue da questão D02-11. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md` e `docs/continuity/CHAT-HANDOFF.md`, confira o registro visual v0.11 e continue da questão D02-12. Preserve as decisões aprovadas; registre cada escolha e atualize o handoff. Mantenha A/B/C selecionável com botão de confirmação. Estamos apenas na concepção visual: sem imagens, protótipos, produtos ou implementação.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -21,8 +21,8 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 2. [AGENTS.md](../../AGENTS.md): instruções gerais de continuidade e escopo.
 3. [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md): constituição aprovada e limites superiores.
 4. [Registro de Decisões da Fase I](../institutional/DECISION-REGISTER-v1.0.md) e [Aceite 7/7](../institutional/PHASE-I-ACCEPTANCE-v1.0.md).
-5. [Escopo vigente Fase II v0.9](../design/DESIGN-PHASE-SCOPE-v0.9.md).
-6. [Decisões visuais v0.10](../design/VISUAL-CONCEPT-DECISIONS-v0.10.md): **versão corrente**. V0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
+5. [Escopo vigente Fase II v0.10](../design/DESIGN-PHASE-SCOPE-v0.10.md).
+6. [Decisões visuais v0.11](../design/VISUAL-CONCEPT-DECISIONS-v0.11.md): **versão corrente**. V0.10, v0.9, v0.8, v0.7, v0.6, v0.5, v0.4, v0.3, v0.2 e v0.1 permanecem históricas; v0.2 contém o texto completo dos adendos.
 7. [Protocolo de planejamento](PLANNING-PROTOCOL.md): A/B/C + confirmação + atualização de contexto.
 
 ## Decisões aprovadas da Fase II
@@ -37,6 +37,7 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 - **D02-08 C — Compreensão Progressiva e Federada:** narrativa de identidade e saúde institucional primeiro, com aprofundamento contextual em núcleos, agentes, missões e evidências sem perder a visão global. Isso não cria telas, navegação ou autoridade adicional.
 - **D02-09 C — Presença Fundadora Contextual e Distinta:** autoridade humana expressa por identidade própria e contextual, sem ser confundida com o núcleo constitucional, o Chief of Staff ou um agente. Presença não é permanente nem gera avatar real, autenticação ou poder jurídico adicional.
 - **D02-10 C — Emissário Cognitivo Híbrido:** Chief of Staff com identidade de interlocutor reconhecível e expressão abstrata de inteligência federada, comunicando coordenação, síntese, prestação de contas e limites de mandato. Não concorre com fundador nem constituição; nenhum avatar, voz ou integração criados.
+- **D02-11 C — Sinapses Federadas Contextuais:** vínculos institucionais reconhecíveis coexistem com fluxos orgânicos significativos; representam cooperação contextual autorizada e conhecimento com proveniência, não acesso indiscriminado a dados nem conexões técnicas prontas.
 
 ## Adendos expressos do fundador, preservados
 
@@ -48,20 +49,20 @@ O novo assistente deve **ler o estado remoto atual**, tratar o handoff como pont
 
 Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos ou resultados já existentes. A Carta Institucional tem precedência.
 
-## Próxima pergunta D02-11 (NÃO APROVADA)
+## Próxima pergunta D02-12 (NÃO APROVADA)
 
-**Como devem ser simbolizadas a colaboração e a circulação legítima de conhecimento entre agentes e núcleos da NexLabs?** Somente metáfora visual, não topologia, dados em trânsito ou animação.
+**Como o organismo deve simbolizar a maturidade de uma descoberta ou conhecimento, distinguindo incerteza, hipótese e evidência?** Escolha unicamente narrativa, sem especificar etiquetas técnicas, fontes ou interfaces.
 
-- **A. Conexões institucionais estruturadas:** relações simbólicas estáveis, disciplina, proveniência e cooperação reconhecível.
-- **B. Fluxos orgânicos de inteligência:** vínculos mutáveis e fluidos que evocam ideias, descobertas e colaboração dinâmica.
-- **C. Sinapses federadas contextuais:** estrutura reconhecível combinada a fluxos orgânicos significativos; evoca colaboração autorizada e conhecimento com proveniência, preservando autonomia dos núcleos e limites de acesso.
+- **A. Rigor arquivístico:** caráter científico documental, estabilidade e validação; ênfase em conhecimento consolidado.
+- **B. Crescimento exploratório:** caráter orgânico, transformação contínua e experimentação; ênfase em possibilidades e hipóteses.
+- **C. Conhecimento estratificado e verificável:** combina exploração viva com distinções claras entre ideias, hipóteses, evidências, revisões, contradições e conclusões fundamentadas, sem fingir certeza.
 
-**Recomendação editorial: C, NÃO escolhida ou aprovada pelo fundador.** A aprovação depende de seleção e confirmação A/B/C. A escolha não determina design técnico.
+**Recomendação editorial C, NÃO escolhida ou aprovada pelo fundador.** Requer confirmação A/B/C com botão.
 
-Após confirmação do fundador, aprofundar somente o conceito e registrar v0.11 se a v0.10 permanecer a mais recente; atualizar handoff, README, AGENTS.md e escopo quando necessário. Apresentar uma única nova pergunta A/B/C com botão real.
+Após escolha expressa, aprofundar conceitualmente, criar registro v0.12 se v0.11 ainda for a versão corrente, atualizar README, AGENTS.md, CHAT-HANDOFF.md e escopo. Apresentar a próxima única questão A/B/C com botão funcional.
 
 ## Limites invariáveis
 
 **Proibido nesta fase:** imagens, mockups, protótipos, interfaces reais, código, arquitetura, integração Telegram, síntese de voz, monitoramento da VPS, produtos, tarefas de implementação e infraestrutura.
 
-**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09 ou D02-10.
+**Aprovado não significa implementado.** Toda decisão posterior que altere a Fase I exigirá autorização expressa nova. O próximo chat não deve recomeçar as perguntas D02-01, D02-02, D02-03, D02-04, D02-05, D02-06, D02-07, D02-08, D02-09, D02-10 ou D02-11.
