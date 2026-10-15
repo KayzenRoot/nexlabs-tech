@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-02, opção C — Primeiro Ciclo Vertical Verificável**. D03-01 A continua aprovada.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-03 — estratégia de fronteiras arquiteturais (A/B/C), PENDENTE.**
+**Última escolha confirmada:** **D03-03, opção C — Núcleo Modular Evolutivo com Fronteiras Extraíveis**. D03-01 A e D03-02 C continuam aprovadas.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-04 — direção da seleção da stack principal (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-03 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-04 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,11 +72,13 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.2](../engineering/PHASE-III-CHARTER-v0.2.md). [Registro D03 v0.2](../engineering/PHASE-III-DECISION-REGISTER-v0.2.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.2.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.2.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.2.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.2.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.3](../engineering/PHASE-III-CHARTER-v0.3.md). [Registro D03 v0.3](../engineering/PHASE-III-DECISION-REGISTER-v0.3.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.3.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.3.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.3.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.3.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
-**Checkpoint D03-03 (PENDENTE):** selecionar direção para fronteiras arquiteturais: A monólito modular, B serviços independentes, C núcleo modular evolutivo com fronteiras extraíveis. Recomendação editorial C não constitui aprovação. Não escolher stacks, topologia física, quantitativo final de agentes ou executar software sem ratificação específica.
+**D03-03 C APROVADA:** núcleo modular evolutivo com fronteiras logicamente separadas e extraíveis quando critérios e evidências justificarem; **não** impõe serviços físicos, implantação distribuída ou uma stack.
+
+**Checkpoint D03-04 (PENDENTE):** decidir direção de seleção de stack: A TypeScript prioritário, B Python prioritário, C uma base principal escolhida por evidências, admitindo especializações condicionais. Recomendação editorial C não constitui aprovação. Frameworks, bancos, topologia física, agentes e software ainda não aprovados.
 
 ## Limites invariáveis
 
