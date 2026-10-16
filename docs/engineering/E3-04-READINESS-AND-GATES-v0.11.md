@@ -257,7 +257,7 @@ Exigir plano aceito de: dados mínimos, autorização e revogação, classifica�
 
 ### 11.2 STOP CONDITION vigente
 
-E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 C e D03-09 C APROVADAS somente documentalmente; D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 PENDENTE** para estratégia de fechamento dos E3.
+E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 C e D03-09 C APROVADAS somente documentalmente; D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 PENDENTE** para política de mandatos institucionais.
 
 Nenhum teste, protótipo, ambiente, integração ou sistema foi implementado neste pacote documental.
 
@@ -354,7 +354,7 @@ A aprovação da política de concorrência variável é **somente documental**.
 
 Mitigação proposta: contratos aceitos, segregação de dados, revisão proporcional, medição total e política de pausa/redução. Nenhum gate foi testado e nenhum desses riscos foi eliminado empiricamente.
 
-**E3-04 EM PLANEJAMENTO. D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 PENDENTE para fechamento documental. Fase IV NÃO AUTORIZADA.**
+**E3-04 EM PLANEJAMENTO. D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 PENDENTE para política dos mandatos institucionais. Fase IV NÃO AUTORIZADA.**
 
 
 ## 15. D03-10 C: auditoria de prontidão e STOP CONDITION consolidada (NOVO v0.10)
