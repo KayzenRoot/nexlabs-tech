@@ -192,7 +192,7 @@ A futura construção de FCR-01..06 deve incluir esforço de contratos de leitur
 
 ### 12.2 Gate
 
-[Convergência v0.2](PHASE-III-CONVERGENCE-READINESS-v0.3.md): CG-01/07/08/09/10/12 continuam sem aceite, modelos/ferramentas/número de agentes não decididos. **E3-03 STOP CONDITION NÃO ATENDIDA. D03-12 C APROVADA documentalmente; D03-13 PENDENTE. Sem agentes, orquestrador ou workflows implantados.**
+[Convergência v0.3](PHASE-III-CONVERGENCE-READINESS-v0.3.md): CG-01/07/08/09/10/12 continuam sem aceite, modelos/ferramentas/número de agentes não decididos. **E3-03 STOP CONDITION NÃO ATENDIDA. D03-12 C APROVADA documentalmente; D03-13 PENDENTE. Sem agentes, orquestrador ou workflows implantados.**
 
 
 ## 13. D03-12 C: separação entre a fábrica construtora e mandatos INSTITUCIONAIS (NOVO v0.5)
