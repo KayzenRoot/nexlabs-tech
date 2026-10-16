@@ -389,7 +389,7 @@ A escolha C altera o **método de planejamento de construção**, sem determinar
 
 **Critério de extração futura:** uma fronteira só poderá ser extraída sem violar direitos, proveniência, compatibilidade e consistência, mediante plano de migração/rollback e avaliação de custo. **D03-09 C** não autoriza serviços independentes nem mudanças de infraestrutura.
 
-**E3-02 EM PLANEJAMENTO**, ADR-C-01..03 EM ANÁLISE. **D03-10 C APROVADA como método de fechamento integrado; D03-11 C APROVADA como prioridade FCR progressiva; D03-12 C APROVADA documentalmente; D03-13 PENDENTE** para política de mandatos institucionais.
+**E3-02 EM PLANEJAMENTO**, ADR-C-01..03 EM ANÁLISE. **D03-10 C APROVADA como método de fechamento integrado; D03-11 C APROVADA como prioridade FCR progressiva; D03-12 C APROVADA documentalmente; D03-13 PENDENTE** para política de canais FCR/Chief of Staff.
 
 
 ## 15. D03-10 C: maturação de ADR-C-01/02/03 sob gates comuns (NOVO v0.10)
