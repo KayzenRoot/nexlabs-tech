@@ -257,7 +257,7 @@ Exigir plano aceito de: dados mínimos, autorização e revogação, classifica�
 
 ### 11.2 STOP CONDITION vigente
 
-E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 PENDENTE** para autonomia/revisão de agentes construtores.
+E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 C APROVADA; D03-09 PENDENTE** para autonomia/revisão de agentes construtores.
 
 Nenhum teste, protótipo, ambiente, integração ou sistema foi implementado neste pacote documental.
 
@@ -292,7 +292,7 @@ Nenhum teste, protótipo, ambiente, integração ou sistema foi implementado nes
 
 Nem D03-07 C nem o plano de evidências autorizam mocks, fixtures, repositórios de dados, CI, APIs, modelos, scripts, testes, conexões, credenciais ou operações. O risco já registrado de visibilidade pública do repositório deve ser tratado antes de quaisquer dados confidenciais. A futura comprovação precisa de plano aceito, limites de risco, proteção de dados e autorização humana independente.
 
-**E3-04 EM PLANEJAMENTO, STOP CONDITION NÃO ATENDIDA. Fase IV NÃO AUTORIZADA. D03-08 PENDENTE.**
+**E3-04 EM PLANEJAMENTO, STOP CONDITION NÃO ATENDIDA. Fase IV NÃO AUTORIZADA. D03-08 C APROVADA documentalmente; D03-09 PENDENTE.**
 
 
 ## 13. Gates documentais da D03-08 C (NOVO v0.8)
