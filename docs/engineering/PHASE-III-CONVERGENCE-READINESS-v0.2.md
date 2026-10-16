@@ -136,7 +136,7 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 
 ## 10. Próximas ações DOCUMENTAIS e STOP geral
 
-1. D03-11 C aprovada como prioridade funcional da primeira capacidade do Founder Command Center; detalhar e ratificar fontes, FCR-AC, atores e recorte; D03-12 pendente para política de mandatos institucionais;
+1. D03-11 C aprovada como prioridade funcional do Founder Command Center; detalhar e ratificar fontes, FCR-AC, atores e recorte específico; D03-12 permanece pendente para política de mandatos institucionais;
 2. harmonizar e obter aceites de escopo, atores, AC/DoR/DoD, mandatos e política de dados;
 3. levantar informação técnica verificável e custos de candidatos, mantendo ADR-C-01..03 separados para ratificação material;
 4. amadurecer os critérios de governança, orçamento, limites e qualidade de agentes sem os criar;
@@ -170,4 +170,4 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 - **E3-03:** FCR institucional não pode conferir poder a agentes construtores; aguardam-se limites de autonomia, validação, modelos e custos legítimos. **NÃO ATENDIDA**.
 - **E3-04:** privacidade, fontes, alçadas humanas, orçamento e gates de fase sem aceite, implementação proibida. **NÃO ATENDIDA**.
 
-**D03-12 PENDENTE** apenas para decisão documental da política de mandatos de missões institucionais. Os **12 gates permanecem não aceitos documentalmente**; uma direção aprovada não é software, dado ou teste. Nenhum requisito da Carta ou dos adendos foi alterado.
+**D03-12 PENDENTE** apenas para decisão documental da política de mandatos de missões institucionais. **STOP CONDITIONS E3-01..04 NÃO ATENDIDAS; os 12 gates permanecem sem aceite documental final**; uma direção aprovada não é software, dado ou teste. Nenhum requisito da Carta ou dos adendos foi alterado.
