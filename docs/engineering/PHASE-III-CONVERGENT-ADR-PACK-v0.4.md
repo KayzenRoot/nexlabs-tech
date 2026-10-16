@@ -153,7 +153,7 @@ Ao comparar S1..S6:
 
 Ainda faltam ratificação dos dados e casos AC, autorização de avaliações reais quando apropriada, matriz de custos com fontes, seleção de ferramentas e fornecedores, comparação de opções sob critérios aceitos, aprovação material dos ADRs e autorização específica para implementação. **ADR-C-01..03: NÃO APROVADOS.**
 
-**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.1](PHASE-III-AGENT-GOVERNANCE-v0.1.md), sem autorizar agentes ou tecnologia. Próxima D03-09 PENDENTE sobre método de avaliação de concorrência, não quantidades concretas.
+**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.2](PHASE-III-AGENT-GOVERNANCE-v0.2.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 PENDENTE, sem quantidades concretas.
 
 ## 11. D03-08 C — Governança da análise e construção sob ADRs convergentes (NOVO v0.3)
 
