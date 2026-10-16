@@ -309,7 +309,7 @@ Futura comparação deve manter mesmo escopo, testes, restrições constituciona
 
 Antes da Fase IV: contrato de tarefa, limites de escrita e acesso, revisão proporcional a risco, orçamentos autorizados, gate de testes, critérios de merge, isolamento e responsável legítimo. **O uso de agente não torna verdadeiro o próprio relato de conclusão.** Evidências de testes e integração são necessárias quando forem permitidos.
 
-**E3-03 EM PLANEJAMENTO. D03-07 C APROVADA para planejamento de evidências; D03-08 PENDENTE.** Não houve execução de benchmark, criação de bots ou definição final de orquestrador.
+**E3-03 EM PLANEJAMENTO. D03-07 C APROVADA para planejamento de evidências; D03-08 C APROVADA posteriormente; D03-09 PENDENTE.** Não houve execução de benchmark, criação de bots ou definição final de orquestrador.
 
 ## 14. D03-07 C: evidência de produtividade dos futuros agentes (NOVO v0.7)
 
@@ -337,7 +337,7 @@ A metodologia de [evidências em camadas](PHASE-III-EVIDENCE-LADDER-v0.1.md) é 
 
 ### 14.3 Gate para D03-08
 
-A próxima decisão **D03-08 A/B/C PENDENTE** discutirá política de autonomia e revisão proporcionais a risco. Não pressupor múltiplos agentes, número padrão, modelo, ferramentas, cloud/local, orçamento ou permissão de execução. Isso não altera o mandato do Chief of Staff institucional nem a Carta v1.0.
+A decisão **D03-08 C APROVADA** definiu posteriormente política DOCUMENTAL de autonomia proporcional a risco e evidências; o dimensionamento D03-09 permanece PENDENTE. Não pressupor múltiplos agentes, número padrão, modelo, ferramentas, cloud/local, orçamento ou permissão de execução. Isso não altera o mandato do Chief of Staff institucional nem a Carta v1.0.
 
 **E3-03 NÃO CONCLUÍDO.** Sem agente instalado, teste executado, dado sintético criado ou ganho mensurado.
 
