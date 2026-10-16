@@ -337,7 +337,7 @@ A metodologia de [evidências em camadas](PHASE-III-EVIDENCE-LADDER-v0.1.md) é 
 
 ### 14.3 Gate para D03-08
 
-A decisão **D03-08 C APROVADA** definiu posteriormente política DOCUMENTAL de autonomia proporcional a risco e evidências; o dimensionamento D03-09 C foi APROVADA documentalmente; D03-10 permanece PENDENTE. Não pressupor múltiplos agentes, número padrão, modelo, ferramentas, cloud/local, orçamento ou permissão de execução. Isso não altera o mandato do Chief of Staff institucional nem a Carta v1.0.
+A decisão **D03-08 C APROVADA** definiu posteriormente política DOCUMENTAL de autonomia proporcional a risco e evidências; o método de dimensionamento D03-09 C foi APROVADO documentalmente; D03-10 permanece PENDENTE. Não pressupor múltiplos agentes, número padrão, modelo, ferramentas, cloud/local, orçamento ou permissão de execução. Isso não altera o mandato do Chief of Staff institucional nem a Carta v1.0.
 
 **E3-03 NÃO CONCLUÍDO.** Sem agente instalado, teste executado, dado sintético criado ou ganho mensurado.
 
