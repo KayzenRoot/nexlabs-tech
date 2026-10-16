@@ -122,7 +122,7 @@ A medição real só poderá ocorrer após autorização de execução. **Não a
 - aceite do fundador da **seleção material futura**;
 - autorização separada da Fase IV e solução do risco de confidencialidade do repositório (consultado público anteriormente).
 
-**STOP CONDITION DO PACOTE: NÃO ATENDIDA.** Comparações preliminares documentadas; **ADR-C-01..03 EM ANÁLISE**. A D03-07 C já aprovou a estratégia de evidências em camadas, sem testes executados. D03-08 PENDENTE. A seleção material de tecnologias ainda depende de evidências e ratificação.
+**STOP CONDITION DO PACOTE: NÃO ATENDIDA.** Comparações preliminares documentadas; **ADR-C-01..03 EM ANÁLISE**. A D03-07 C já aprovou a estratégia de evidências em camadas, sem testes executados. D03-08 C APROVADA posteriormente como política DOCUMENTAL de agentes. A seleção material de tecnologias ainda depende de evidências e ratificação.
 
 ## 10. D03-07 C: a mesma escada de evidências para todos os ADRs (NOVO v0.2)
 
