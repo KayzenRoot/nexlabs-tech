@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-09, opção C — Paralelismo Elástico Guiado por Dependências e Custo Líquido**. D03-01 A e D03-02 a D03-08 C continuam aprovadas.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-10 — estratégia de fechamento dos E3 (A/B/C), PENDENTE.**
+**Última escolha confirmada:** **D03-10, opção C — Fechamento Integrado por Gates Verificáveis**. D03-01 A e D03-02 a D03-09 C continuam aprovadas.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-11 — prioridade da primeira capacidade do Founder Command Center (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-10 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-11 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,7 +72,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.9](../engineering/PHASE-III-CHARTER-v0.9.md). [Registro D03 v0.9](../engineering/PHASE-III-DECISION-REGISTER-v0.9.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.9.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.9.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.9.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.9.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.10](../engineering/PHASE-III-CHARTER-v0.10.md). [Registro D03 v0.10](../engineering/PHASE-III-DECISION-REGISTER-v0.10.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.10.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.10.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.10.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.10.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
@@ -82,15 +82,17 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-05 C APROVADA:** fonte de verdade verificável com histórico proporcional, preservando integridade de autorizações, evidências, versões e custos conforme risco e privacidade. Nenhum banco, event sourcing, esquema, agente ou software escolhido.
 
-**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.4](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.4.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
+**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.5](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.5.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
 
 **D03-07 C APROVADA:** estratégia documental de evidências em camadas [L0–L4](../engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md), do planejado ao resultado operacional futuro comprovado. Nenhum dado sintético, teste, fonte real, produto ou sistema criado. Os três ADRs permanecem EM ANÁLISE.
 
-**D03-08 C APROVADA:** política DOCUMENTAL de autonomia graduada por risco/evidências [Governança de Agentes v0.2](../engineering/PHASE-III-AGENT-GOVERNANCE-v0.2.md). R0–R3 são categorias candidatas de risco, L0–L4 são níveis de prova; nenhum sistema implementado, poder delegado ou agente criado.
+**D03-08 C APROVADA:** política DOCUMENTAL de autonomia graduada por risco/evidências [Governança de Agentes v0.3](../engineering/PHASE-III-AGENT-GOVERNANCE-v0.3.md). R0–R3 são categorias candidatas de risco, L0–L4 são níveis de prova; nenhum sistema implementado, poder delegado ou agente criado.
 
 **D03-09 C APROVADA:** método documental de paralelismo elástico por dependências e custo líquido. [Plano v0.1](../engineering/PHASE-III-ELASTIC-PARALLELISM-v0.1.md) propõe baseline e cenários sem números, gate de custo/qualidade e STOP; não houve benchmark ou implantação.
 
-**Checkpoint D03-10 (PENDENTE):** estratégia de fechamento dos E3: A comparações técnicas primeiro, B requisitos e aceitação primeiro, C convergência de gates verificáveis e propostas de ratificação material separadas. Recomendação editorial C não é aprovação. Sem stack, banco, agentes, modelos, quantidades, CI, código, testes, dados ou Fase IV autorizados.
+**D03-10 C APROVADA:** fechamento integrado por gates, sem fechamento material de nenhum E3. [Matriz de Convergência e Prontidão v0.1](../engineering/PHASE-III-CONVERGENCE-READINESS-v0.1.md): CG-01..CG-12 PENDENTES, STOP CONDITIONS E3-01..04 NÃO ATENDIDAS, ADR-C-01..03 EM ANÁLISE.
+
+**Checkpoint D03-11 (PENDENTE):** prioridade do primeiro Founder Command Center: A supervisão informacional inicial, B comando interativo desde a primeira entrega, C comando progressivo com soberania explícita. Recomendação editorial C não é decisão. Sem stack, banco, agentes, modelos, quantidades, CI, código, protótipo, teste, dados, Telegram, voz ou Fase IV autorizados.
 
 ## Limites invariáveis
 
