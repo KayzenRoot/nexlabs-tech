@@ -257,7 +257,7 @@ Exigir plano aceito de: dados mínimos, autorização e revogação, classifica�
 
 ### 11.2 STOP CONDITION vigente
 
-E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 C APROVADA; D03-09 PENDENTE** para autonomia/revisão de agentes construtores.
+E3-04 **não está concluído**: faltam dados, estimativas confiáveis, aprovação do escopo e de critérios detalhados, proposta convergente madura, decisões materiais de stack/persistência/contratos, papéis de agentes e sua concorrência, política de segurança/confidencialidade, plano de testes e autorização independente de Fase IV. **D03-07 C APROVADA** somente como estratégia documental; **D03-08 C e D03-09 C APROVADAS somente documentalmente; D03-10 PENDENTE** para estratégia de fechamento dos E3.
 
 Nenhum teste, protótipo, ambiente, integração ou sistema foi implementado neste pacote documental.
 
