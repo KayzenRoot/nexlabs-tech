@@ -345,7 +345,7 @@ Comparar, no mínimo: custo de licença e suporte, tempo de engenharia, integra�
 
 ### 12.2 Próximas pendências materiais
 
-C-01..03 permanecem **EM ANÁLISE e não aprovados**. Faltam critérios finais de aceitação, custos fundamentados, candidatos tecnicamente compatíveis com ferramentas reais, decisões de privacidade, documentação integrada para ratificação material e autorização futura de testes. **D03-08 PENDENTE. Nenhum framework/banco/contrato técnico foi escolhido.**
+C-01..03 permanecem **EM ANÁLISE e não aprovados**. Faltam critérios finais de aceitação, custos fundamentados, candidatos tecnicamente compatíveis com ferramentas reais, decisões de privacidade, documentação integrada para ratificação material e autorização futura de testes. **D03-08 C APROVADA** posteriormente como política documental; D03-09 PENDENTE. Nenhum framework/banco/contrato técnico foi escolhido.
 
 
 ## 13. D03-08 C: efeitos da autonomia por risco sobre arquitetura e contratos (NOVO v0.8)
