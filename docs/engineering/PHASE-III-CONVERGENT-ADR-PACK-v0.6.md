@@ -153,7 +153,7 @@ Ao comparar S1..S6:
 
 Ainda faltam ratificação dos dados e casos AC, autorização de avaliações reais quando apropriada, matriz de custos com fontes, seleção de ferramentas e fornecedores, comparação de opções sob critérios aceitos, aprovação material dos ADRs e autorização específica para implementação. **ADR-C-01..03: NÃO APROVADOS.**
 
-**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.3](PHASE-III-AGENT-GOVERNANCE-v0.3.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 C foi posteriormente APROVADA como método documental por gates, sem ratificar tecnologia ou quantidades concretas; D03-11 C APROVADA documentalmente; D03-12 PENDENTE.
+**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.4](PHASE-III-AGENT-GOVERNANCE-v0.4.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 C foi posteriormente APROVADA como método documental por gates, sem ratificar tecnologia ou quantidades concretas; D03-11 C APROVADA documentalmente; D03-12 PENDENTE.
 
 ## 11. D03-08 C — Governança da análise e construção sob ADRs convergentes (NOVO v0.3)
 
@@ -209,7 +209,7 @@ Não há benchmark, preço coletado, custo médio, timebox observado, medição 
 
 ### 12.3 D03-10 C aprovada posteriormente como método de fechamento
 
-A D03-10 C determina consolidar lacunas e verificações no [Plano de Convergência e Prontidão v0.1](PHASE-III-CONVERGENCE-READINESS-v0.2.md), sem antecipar escolhas nem executar pilotos. **ADR-C-01..03 continuam NÃO APROVADOS.** D03-11 C APROVADA documentalmente; D03-12 PENDENTE.
+A D03-10 C determina consolidar lacunas e verificações no [Plano de Convergência e Prontidão v0.2](PHASE-III-CONVERGENCE-READINESS-v0.2.md), sem antecipar escolhas nem executar pilotos. **ADR-C-01..03 continuam NÃO APROVADOS.** D03-11 C APROVADA documentalmente; D03-12 PENDENTE.
 
 ## 13. D03-10 C — Pré-ratificação integrada, não escolha de tecnologias (NOVO v0.5)
 
