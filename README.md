@@ -2,9 +2,9 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III INICIADA (somente planejamento documental)** por **D03-01 A**; **D03-02 C aprovada** (primeiro ciclo vertical verificável) e **D03-03 C aprovada** (núcleo modular evolutivo) e **D03-04 C aprovada** (base principal única a escolher por evidências, com especializações condicionais) e **D03-05 C aprovada** (fonte de verdade verificável com histórico proporcional) e **D03-06 C aprovada** (pacote convergente de ADRs interdependentes) e **D03-07 C aprovada** (evidências em camadas, do controlado ao autorizado), em 2026-10-15. Nenhuma implementação autorizada.
+**Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III INICIADA (somente planejamento documental)** por **D03-01 A**; **D03-02 C aprovada** (primeiro ciclo vertical verificável) e **D03-03 C aprovada** (núcleo modular evolutivo) e **D03-04 C aprovada** (base principal única a escolher por evidências, com especializações condicionais) e **D03-05 C aprovada** (fonte de verdade verificável com histórico proporcional) e **D03-06 C aprovada** (pacote convergente de ADRs interdependentes) e **D03-07 C aprovada** (evidências em camadas) e **D03-08 C aprovada** (autonomia graduada por risco e evidências para agentes construtores), em 2026-10-15. Nenhuma implementação autorizada.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é avançar no **planejamento documental já autorizado da Fase III**, continuando pela D03-08, autonomia e revisão dos agentes construtores ainda pendente, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é avançar no **planejamento documental já autorizado da Fase III**, continuando pela D03-09, dimensionamento e paralelismo de agentes construtores ainda pendente, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado atual em 2026-10-15
 
@@ -47,7 +47,8 @@
 | D03-05: Fonte de verdade verificável com histórico proporcional | **APROVADA — C (ESTRATÉGIA, NÃO BANCO)** |
 | D03-06: Pacote convergente de ADRs interdependentes | **APROVADA — C (MÉTODO, ADRs EM ANÁLISE)** |
 | D03-07: Evidências em camadas, do controlado ao autorizado | **APROVADA — C (DOCUMENTAL, SEM TESTES)** |
-| D03-08: Autonomia e revisão dos agentes construtores | **PENDENTE (A/B/C)** |
+| D03-08: Autonomia graduada por risco e evidências | **APROVADA — C, SOMENTE DOCUMENTAL** |
+| D03-09: Dimensionamento e paralelismo dos agentes construtores | **PENDENTE (A/B/C)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -95,16 +96,17 @@
 - **D02-25 C APROVADA:** Fase II encerrada após auditoria objetiva e publicação de síntese e ata.
 - **[Proposta de Transição para Fase III v0.1](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md):** pacotes de planejamento, riscos, stacks, módulos, agentes, paralelismo e orçamento, sem escolhas técnicas aprovadas.
 - **Fase III, D03-01 A APROVADA:** planejar requisitos, modularização, alternativas arquiteturais e stacks, segurança, custos, agentes de construção, paralelismo e estratégias de entrega. **E3-01 a E3-04 EM PLANEJAMENTO; nenhuma stack/quantidade de agentes aprovada**.
-- **[Carta de Escopo da Fase III v0.7](docs/engineering/PHASE-III-CHARTER-v0.7.md)** e **[Registro D03 v0.7](docs/engineering/PHASE-III-DECISION-REGISTER-v0.7.md)**: D03-01 A e D03-02..07 C aprovadas; D03-08 pendente. Nenhuma stack, banco ou contrato técnico ratificado.
+- **[Carta de Escopo da Fase III v0.8](docs/engineering/PHASE-III-CHARTER-v0.8.md)** e **[Registro D03 v0.8](docs/engineering/PHASE-III-DECISION-REGISTER-v0.8.md)**: D03-01 A e D03-02..08 C aprovadas; D03-09 pendente. Nenhuma stack, banco, agente ou contrato técnico ratificado.
+- **[Plano de Governança de Agentes v0.1](docs/engineering/PHASE-III-AGENT-GOVERNANCE-v0.1.md)**: níveis R0–R3 candidatos, papéis, revisões, custos, limites e evidências; não há sistema implantado.
 - [Carta v0.6](docs/engineering/PHASE-III-CHARTER-v0.6.md) e [Registro D03 v0.6](docs/engineering/PHASE-III-DECISION-REGISTER-v0.6.md): histórico anterior preservado.
-- **[Pacote Convergente de ADRs v0.2](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.2.md)**: ADR-C-01 (stack), C-02 (persistência) e C-03 (contratos), todos EM ANÁLISE, agora classificados segundo níveis de evidência L0–L4.
+- **[Pacote Convergente de ADRs v0.3](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.3.md)**: ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, com impactos de risco/revisão D03-08 C.
 - **[Plano de Evidências em Camadas v0.1](docs/engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md)**: L0 documentação, L1 cenário sintético futuro, L2 teste controlado futuro, L3 fonte real futura autorizada, L4 efeito operacional verificado; nenhum dado ou teste criado.
 - [Carta v0.5](docs/engineering/PHASE-III-CHARTER-v0.5.md) e [Registro D03 v0.5](docs/engineering/PHASE-III-DECISION-REGISTER-v0.5.md): históricos preservados.
 - [Carta v0.4](docs/engineering/PHASE-III-CHARTER-v0.4.md) e [Registro D03 v0.4](docs/engineering/PHASE-III-DECISION-REGISTER-v0.4.md): históricos preservados.
 - [Carta v0.3](docs/engineering/PHASE-III-CHARTER-v0.3.md) e [Registro D03 v0.3](docs/engineering/PHASE-III-DECISION-REGISTER-v0.3.md): históricos preservados.
 - [Carta Fase III v0.2](docs/engineering/PHASE-III-CHARTER-v0.2.md) e [Registro D03 v0.2](docs/engineering/PHASE-III-DECISION-REGISTER-v0.2.md): versões históricas preservadas.
 - Versões históricas preservadas: [Carta v0.1](docs/engineering/PHASE-III-CHARTER-v0.1.md) e [Registro D03 v0.1](docs/engineering/PHASE-III-DECISION-REGISTER-v0.1.md).
-- **[E3-01: Requisitos v0.7](docs/engineering/E3-01-CAPABILITY-MAP-v0.7.md)**; **[E3-02: Arquitetura e persistência v0.7](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.7.md)**; **[E3-03: Agentes e produtividade v0.7](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.7.md)**; **[E3-04: Segurança e prontidão v0.7](docs/engineering/E3-04-READINESS-AND-GATES-v0.7.md)**: critérios de prova por camada, riscos de simulação enganosa, agentes e controles de autorização. Todos seguem EM PLANEJAMENTO.
+- **[E3-01: Requisitos v0.8](docs/engineering/E3-01-CAPABILITY-MAP-v0.8.md)**; **[E3-02: Arquitetura e persistência v0.8](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.8.md)**; **[E3-03: Agentes e produtividade v0.8](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.8.md)**; **[E3-04: Segurança e prontidão v0.8](docs/engineering/E3-04-READINESS-AND-GATES-v0.8.md)**: autonomia, critérios de delegação, conflitos e gastos, com níveis R0–R3 e L0–L4; todos ainda EM PLANEJAMENTO.
 - **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
 - **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
 
