@@ -372,7 +372,7 @@ Orientação do fundador define o pedido, não aprova toda ação; missão candi
 | Gate de E3-01 | Conteúdo documental parcialmente existente | Evidência/decisão que falta |
 | --- | --- | --- |
 | CG-01 AUT/mandatos | D03-01, D03-08 C e regras de autoridade humana | atores, competências/limites, revogação e aceite da semântica |
-| CG-02 recorte vertical | D03-02 C aprovou AUT/MIS/EVD/CST/FCR | prioridade funcional exata do Founder Command Center, D03-11 C APROVADA documentalmente; D03-12 PENDENTE |
+| CG-02 recorte vertical | D03-02 C aprovou AUT/MIS/EVD/CST/FCR; D03-11 C aprovou FCR progressivo | faltam atores, MVP detalhado, exclusões e critérios FCR-AC aceitos; D03-12 PENDENTE |
 | CG-03 aceitação | AC-01..20, RG-01..09 e EL-01..10 propostos | consolidar duplicidades, responsáveis, critérios verificáveis e ratificação |
 | CG-04 dados | fontes identificáveis, retenção proporcional D03-05 C | dados mínimos autorizáveis, direitos, fontes, classificação |
 | CG-10 provas | L0..L4 definido pela D03-07 C | plano final de provas por requisito e quando será necessária execução futura |
@@ -388,7 +388,7 @@ Orientação do fundador define o pedido, não aprova toda ação; missão candi
 
 ### 16.2 FCR e adendos do fundador
 
-O Command Center deverá refletir soberania, missões, evidências, custos, intervenção humana e explicação de incertezas. Telegram bilateral, vozes, PDFs/planilhas, Jev, finanças e VPS devem ser tratados como requisitos separados com fonte e dependências, nunca como integrações instaladas. A D03-11 definirá apenas o **recorte prioritário** do FCR, sem telas criadas.
+O Command Center deverá refletir soberania, missões, evidências, custos, intervenção humana e explicação de incertezas. Telegram bilateral, vozes, PDFs/planilhas, Jev, finanças e VPS devem ser tratados como requisitos separados com fonte e dependências, nunca como integrações instaladas. A D03-11 C definiu a **direção prioritária progressiva** do FCR, sem telas criadas; o recorte detalhado e o aceite continuam pendentes.
 
 ### 16.3 Situação
 
