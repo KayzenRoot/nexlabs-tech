@@ -1,17 +1,17 @@
 # NexLabs Technology — Handoff de continuidade entre chats
 
-**Data de atualização:** 2026-10-15
+**Data de atualização:** 2026-10-16
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-11, opção C — Comando Progressivo com Soberania Explícita**. D03-01 A e D03-02 a D03-10 C continuam aprovadas.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-12 — política dos mandatos de missões institucionais (A/B/C), PENDENTE.**
+**Última escolha confirmada:** **D03-12, opção C — Mandatos Limitados, Revogáveis e Proporcionais ao Risco** (2026-10-16). D03-01 A e D03-02 a D03-11 C continuam aprovadas.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-13 — política dos canais FCR/Chief of Staff (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-12 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-13 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,7 +72,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.11](../engineering/PHASE-III-CHARTER-v0.11.md). [Registro D03 v0.11](../engineering/PHASE-III-DECISION-REGISTER-v0.11.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.11.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.11.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.11.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.11.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.12](../engineering/PHASE-III-CHARTER-v0.12.md). [Registro D03 v0.12](../engineering/PHASE-III-DECISION-REGISTER-v0.12.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.12.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.12.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.12.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.12.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
@@ -82,19 +82,21 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-05 C APROVADA:** fonte de verdade verificável com histórico proporcional, preservando integridade de autorizações, evidências, versões e custos conforme risco e privacidade. Nenhum banco, event sourcing, esquema, agente ou software escolhido.
 
-**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.6](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.6.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
+**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.7](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.7.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
 
 **D03-07 C APROVADA:** estratégia documental de evidências em camadas [L0–L4](../engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md), do planejado ao resultado operacional futuro comprovado. Nenhum dado sintético, teste, fonte real, produto ou sistema criado. Os três ADRs permanecem EM ANÁLISE.
 
-**D03-08 C APROVADA:** política DOCUMENTAL de autonomia graduada por risco/evidências [Governança de Agentes v0.4](../engineering/PHASE-III-AGENT-GOVERNANCE-v0.4.md). R0–R3 são categorias candidatas de risco, L0–L4 são níveis de prova; nenhum sistema implementado, poder delegado ou agente criado.
+**D03-08 C APROVADA:** política DOCUMENTAL de autonomia graduada por risco/evidências [Governança de Agentes v0.5](../engineering/PHASE-III-AGENT-GOVERNANCE-v0.5.md). R0–R3 são categorias candidatas de risco, L0–L4 são níveis de prova; nenhum sistema implementado, poder delegado ou agente criado.
 
 **D03-09 C APROVADA:** método documental de paralelismo elástico por dependências e custo líquido. [Plano v0.1](../engineering/PHASE-III-ELASTIC-PARALLELISM-v0.1.md) propõe baseline e cenários sem números, gate de custo/qualidade e STOP; não houve benchmark ou implantação.
 
-**D03-10 C APROVADA:** fechamento integrado por gates, sem fechamento material de nenhum E3. [Matriz de Convergência e Prontidão v0.2](../engineering/PHASE-III-CONVERGENCE-READINESS-v0.2.md): CG-01..CG-12 PENDENTES, STOP CONDITIONS E3-01..04 NÃO ATENDIDAS, ADR-C-01..03 EM ANÁLISE.
+**D03-10 C APROVADA:** fechamento integrado por gates, sem fechamento material de nenhum E3. [Matriz de Convergência e Prontidão v0.3](../engineering/PHASE-III-CONVERGENCE-READINESS-v0.3.md): CG-01..CG-12 PENDENTES, STOP CONDITIONS E3-01..04 NÃO ATENDIDAS, ADR-C-01..03 EM ANÁLISE.
 
-**D03-11 C APROVADA:** direção progressiva do Founder Command Center, [Plano FCR v0.1](../engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.1.md): supervisão verificável, dados e limites de confiança, ações humanas previstas apenas como requisito. CG-01..12 continuam sem aceite final; E3 EM PLANEJAMENTO, ADRs EM ANÁLISE.
+**D03-11 C APROVADA:** direção progressiva do Founder Command Center, [Plano FCR v0.2](../engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md): supervisão verificável, dados e limites de confiança, ações humanas previstas apenas como requisito. CG-01..12 continuam sem aceite final; E3 EM PLANEJAMENTO, ADRs EM ANÁLISE.
 
-**Checkpoint D03-12 (PENDENTE):** política de mandato dos futuros agentes institucionais: A por ato, B amplo, C limitado/revogável/por risco. Recomendação editorial C não equivale a ratificação. Nenhuma stack, banco, modelo, agente, quantidade, UI, código, imagens, protótipo, teste, dados, Telegram, voz ou Fase IV autorizados.
+**D03-12 C APROVADA:** mandato institucional limitado, revogável e por risco como princípio documental, [Política v0.1](../engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md); requisitos MC-01..14 apenas propostos, nenhum controle executado ou agente criado. FCR v0.2, CG v0.3 e E3 v0.12 incorporam a decisão, sem aceite de STOP.
+
+**Checkpoint D03-13 (PENDENTE):** canais do Founder Command Center e Chief of Staff: A FCR primeiro, B Telegram primeiro, C mandatos independentes de canal e ativação progressiva. C é recomendação editorial, NÃO aprovada. Sem stack, banco, modelo, agente, quantidade, UI, código, imagens, protótipo, teste, dados, Telegram, voz ou Fase IV autorizados.
 
 ## Limites invariáveis
 
