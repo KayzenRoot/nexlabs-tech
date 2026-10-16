@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-07, opção C — Evidências em Camadas, do Controlado ao Autorizado**. D03-01 A e D03-02 a D03-06 C continuam aprovadas.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-08 — autonomia e revisão dos agentes construtores (A/B/C), PENDENTE.**
+**Última escolha confirmada:** **D03-08, opção C — Autonomia Graduada por Risco e Evidências**. D03-01 A e D03-02 a D03-07 C continuam aprovadas.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** Os pacotes E3-01..04 estão EM PLANEJAMENTO. **Próximo checkpoint: D03-09 — dimensionamento e paralelismo dos agentes construtores (A/B/C), PENDENTE.**
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-08 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pela D03-09 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -72,7 +72,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.7](../engineering/PHASE-III-CHARTER-v0.7.md). [Registro D03 v0.7](../engineering/PHASE-III-DECISION-REGISTER-v0.7.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.7.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.7.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.7.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.7.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.8](../engineering/PHASE-III-CHARTER-v0.8.md). [Registro D03 v0.8](../engineering/PHASE-III-DECISION-REGISTER-v0.8.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.8.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.8.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.8.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.8.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
@@ -82,11 +82,13 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-05 C APROVADA:** fonte de verdade verificável com histórico proporcional, preservando integridade de autorizações, evidências, versões e custos conforme risco e privacidade. Nenhum banco, event sourcing, esquema, agente ou software escolhido.
 
-**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.2](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.2.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
+**D03-06 C APROVADA:** método de convergência de ADRs ratificado, sem seleção de tecnologias. [Pacote Convergente v0.3](../engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.3.md) contém ADR-C-01 (stack), C-02 (persistência), C-03 (contratos), todos EM ANÁLISE, não ratificados.
 
 **D03-07 C APROVADA:** estratégia documental de evidências em camadas [L0–L4](../engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md), do planejado ao resultado operacional futuro comprovado. Nenhum dado sintético, teste, fonte real, produto ou sistema criado. Os três ADRs permanecem EM ANÁLISE.
 
-**Checkpoint D03-08 (PENDENTE):** política futura de autonomia/revisão de agentes construtores: A coordenação central rígida, B autonomia ampla por domínio, C autonomia graduada por risco e evidências. Recomendação editorial C não constitui ratificação. Modelos, quantidade, workflows, CI, merge e implementação não autorizados.
+**D03-08 C APROVADA:** política DOCUMENTAL de autonomia graduada por risco/evidências [Governança de Agentes v0.1](../engineering/PHASE-III-AGENT-GOVERNANCE-v0.1.md). R0–R3 são categorias candidatas de risco, L0–L4 são níveis de prova; nenhum sistema implementado, poder delegado ou agente criado.
+
+**Checkpoint D03-09 (PENDENTE):** método documental de avaliar a quantidade e paralelismo futuro de agentes construtores: A sequencial, B elevado, C elástico por dependências e custo líquido. Recomendação editorial C não é aprovação. Ainda proibidos código, modelos, bots, dados, CI, workflows, automações, integrações e Fase IV sem nova autorização.
 
 ## Limites invariáveis
 
