@@ -170,7 +170,7 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 - **E3-03:** FCR institucional não pode conferir poder a agentes construtores; aguardam-se limites de autonomia, validação, modelos e custos legítimos. **NÃO ATENDIDA**.
 - **E3-04:** privacidade, fontes, alçadas humanas, orçamento e gates de fase sem aceite, implementação proibida. **NÃO ATENDIDA**.
 
-**D03-12 C APROVADA documentalmente; D03-13 PENDENTE** apenas para decisão documental da política de mandatos de missões institucionais. **STOP CONDITIONS E3-01..04 NÃO ATENDIDAS; os 12 gates permanecem sem aceite documental final**; uma direção aprovada não é software, dado ou teste. Nenhum requisito da Carta ou dos adendos foi alterado.
+**D03-12 C APROVADA documentalmente** como política dos mandatos institucionais; **D03-13 PENDENTE** exclusivamente para política documental dos canais FCR/Chief of Staff. **STOP CONDITIONS E3-01..04 NÃO ATENDIDAS; os 12 gates permanecem sem aceite documental final**; uma direção aprovada não é software, dado ou teste. Nenhum requisito da Carta ou dos adendos foi alterado.
 
 ## 12. D03-12 C: matriz de mandatos institucionais e impacto nos CG (NOVO v0.3)
 
