@@ -317,7 +317,7 @@ A definição exata de provas específicas de cada AC ainda exigirá revisão hu
 
 ### 13.3 Critérios que faltam
 
-Aceitar casos e atores iniciais, definir o limite mínimo de dados com privacidade e retenção, mapear proprietário de cada alegação, selecionar critérios de comprovação e revisar estratégia de autorização antes de qualquer teste futuro. **D03-08 PENDENTE** sobre agentes construtores. **E3-01 segue EM PLANEJAMENTO**.
+Aceitar casos e atores iniciais, definir o limite mínimo de dados com privacidade e retenção, mapear proprietário de cada alegação, selecionar critérios de comprovação e revisar estratégia de autorização antes de qualquer teste futuro. **D03-08 C APROVADA** posteriormente como política documental de agentes construtores; D03-09 PENDENTE. **E3-01 segue EM PLANEJAMENTO**.
 
 
 ## 14. D03-08 C: requisitos de autorização para agentes construtores (NOVO v0.8)
