@@ -153,7 +153,7 @@ Ao comparar S1..S6:
 
 Ainda faltam ratificação dos dados e casos AC, autorização de avaliações reais quando apropriada, matriz de custos com fontes, seleção de ferramentas e fornecedores, comparação de opções sob critérios aceitos, aprovação material dos ADRs e autorização específica para implementação. **ADR-C-01..03: NÃO APROVADOS.**
 
-**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.2](PHASE-III-AGENT-GOVERNANCE-v0.2.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 PENDENTE, sem quantidades concretas.
+**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.3](PHASE-III-AGENT-GOVERNANCE-v0.3.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 C foi posteriormente APROVADA como método documental por gates, sem ratificar tecnologia ou quantidades concretas; D03-11 PENDENTE.
 
 ## 11. D03-08 C — Governança da análise e construção sob ADRs convergentes (NOVO v0.3)
 
@@ -178,7 +178,7 @@ Ainda faltam ratificação dos dados e casos AC, autorização de avaliações r
 
 Adicionar às comparações S1..S6 o custo de revisão de contratos, segregação de acesso, coordenação, tokens, conflitos, integração e testes de segurança. Preferir cenários com fronteiras claras, mas não assumir que múltiplos agentes ou múltiplas linguagens são mais rápidos. Medição só pode ocorrer em fase operacional autorizada, com mesma definição de pronto e baseline.
 
-**D03-09 C APROVADA POSTERIORMENTE:** método documental de paralelismo elástico baseado em dependências e custo líquido, registrado no [Plano v0.1](PHASE-III-ELASTIC-PARALLELISM-v0.1.md). Quantidade, modelo e fornecedor seguem pendentes. **D03-10 PENDENTE; Fase IV NÃO AUTORIZADA.**
+**D03-09 C APROVADA POSTERIORMENTE:** método documental de paralelismo elástico baseado em dependências e custo líquido, registrado no [Plano v0.1](PHASE-III-ELASTIC-PARALLELISM-v0.1.md). Quantidade, modelo e fornecedor seguem pendentes. **D03-10 C APROVADA posteriormente como método documental; D03-11 PENDENTE; Fase IV NÃO AUTORIZADA.**
 
 ## 12. D03-09 C — Paralelismo elástico em ADRs interdependentes (NOVO v0.4)
 
