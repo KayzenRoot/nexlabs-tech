@@ -411,7 +411,7 @@ Sem dados operacionais não declarar melhor número, ganho, preço, modelo ou RO
 
 ## 17. D03-10 C: fábrica de agentes e gates de prontidão (NOVO v0.10)
 
-**Fonte:** [Governança documental v0.3](PHASE-III-AGENT-GOVERNANCE-v0.3.md); [Matriz CG-01..CG-12](PHASE-III-CONVERGENCE-READINESS-v0.1.md). A fábrica está **EM PLANEJAMENTO**, sem modelo, número de agentes, cliente, orquestrador, orçamento, CI, execução ou benchmark aprovados.
+**Fonte:** [Governança documental v0.3](PHASE-III-AGENT-GOVERNANCE-v0.3.md), com critérios AGF-01..AGF-08; [Matriz CG-01..CG-12](PHASE-III-CONVERGENCE-READINESS-v0.1.md). A fábrica está **EM PLANEJAMENTO**, sem modelo, número de agentes, cliente, orquestrador, orçamento, CI, execução ou benchmark aprovados.
 
 ### 17.1 Gate por função candidata
 
