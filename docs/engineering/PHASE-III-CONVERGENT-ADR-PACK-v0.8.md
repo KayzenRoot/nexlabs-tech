@@ -2,7 +2,7 @@
 
 **Autorização documental:** D03-06 C, aprovada expressamente pelo fundador em 2026-10-15.
 **Estado:** **PACOTE EM ANÁLISE**. **ADR-C-01, ADR-C-02 e ADR-C-03 NÃO APROVADOS.**
-**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [aceite da Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.10](PHASE-III-DECISION-REGISTER-v0.13.md), [Escopo Fase III v0.10](PHASE-III-CHARTER-v0.13.md).
+**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [aceite da Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md), [Escopo Fase III v0.13](PHASE-III-CHARTER-v0.13.md).
 **Proibição explícita:** nenhum código, script, protótipo, imagem, CI funcional, integração, RAG, API operacional, agente, infraestrutura, banco ou software criado.
 
 ## 1. Critério da convergência
@@ -153,7 +153,7 @@ Ao comparar S1..S6:
 
 Ainda faltam ratificação dos dados e casos AC, autorização de avaliações reais quando apropriada, matriz de custos com fontes, seleção de ferramentas e fornecedores, comparação de opções sob critérios aceitos, aprovação material dos ADRs e autorização específica para implementação. **ADR-C-01..03: NÃO APROVADOS.**
 
-**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.5](PHASE-III-AGENT-GOVERNANCE-v0.5.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 C foi posteriormente APROVADA como método documental por gates, sem ratificar tecnologia ou quantidades concretas; D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente.
+**D03-08 C APROVADA POSTERIORMENTE:** autonomia graduada por risco/evidências, registrada no [Plano de Governança v0.5](PHASE-III-AGENT-GOVERNANCE-v0.6.md), sem autorizar agentes ou tecnologia. D03-09 C foi posteriormente APROVADA como método documental de avaliação elástica; D03-10 C foi posteriormente APROVADA como método documental por gates, sem ratificar tecnologia ou quantidades concretas; D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente.
 
 ## 11. D03-08 C — Governança da análise e construção sob ADRs convergentes (NOVO v0.3)
 
@@ -209,11 +209,11 @@ Não há benchmark, preço coletado, custo médio, timebox observado, medição 
 
 ### 12.3 D03-10 C aprovada posteriormente como método de fechamento
 
-A D03-10 C determina consolidar lacunas e verificações no [Plano de Convergência e Prontidão v0.3](PHASE-III-CONVERGENCE-READINESS-v0.3.md), sem antecipar escolhas nem executar pilotos. **ADR-C-01..03 continuam NÃO APROVADOS.** D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente.
+A D03-10 C determina consolidar lacunas e verificações no [Plano de Convergência e Prontidão v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md), sem antecipar escolhas nem executar pilotos. **ADR-C-01..03 continuam NÃO APROVADOS.** D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente.
 
 ## 13. D03-10 C — Pré-ratificação integrada, não escolha de tecnologias (NOVO v0.5)
 
-**Governo documental:** [Matriz de Convergência e Prontidão v0.1](PHASE-III-CONVERGENCE-READINESS-v0.3.md). A D03-10 C autoriza **organizar recomendações coerentes** e apresentar deliberações materiais posteriores. **Não ratifica C-01/02/03.** Todos os pontos abaixo estão no nível **L0 DOCUMENTAL**, não TESTADOS.
+**Governo documental:** [Matriz de Convergência e Prontidão v0.1](PHASE-III-CONVERGENCE-READINESS-v0.4.md). A D03-10 C autoriza **organizar recomendações coerentes** e apresentar deliberações materiais posteriores. **Não ratifica C-01/02/03.** Todos os pontos abaixo estão no nível **L0 DOCUMENTAL**, não TESTADOS.
 
 ### 13.1 Fichas candidatas de decisão
 
@@ -263,7 +263,7 @@ Não atribuir pontuação numérica até que critérios/pesos e fontes de custo 
 
 ## 14. D03-11 C: contratos candidatos do Founder Command Center progressivo (NOVO v0.6)
 
-**Fonte:** [Plano Funcional FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md), [Matriz CG v0.2](PHASE-III-CONVERGENCE-READINESS-v0.3.md). D03-11 C **não aprova stack, banco, banco vetorial, UI, protocolo, autenticação ou implementação**.
+**Fonte:** [Plano Funcional FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md), [Matriz CG v0.2](PHASE-III-CONVERGENCE-READINESS-v0.4.md). D03-11 C **não aprova stack, banco, banco vetorial, UI, protocolo, autenticação ou implementação**.
 
 | ADR em análise | Dependência trazida pelo FCR | Alternativas/riscos ainda abertos |
 | --- | --- | --- |
@@ -286,7 +286,7 @@ CG-01, CG-02, CG-03, CG-04, CG-05, CG-06, CG-07, CG-08, CG-10 e CG-11 precisam d
 
 ## 15. D03-12 C: contratos de mandato, revogação e rastreabilidade (NOVO v0.7)
 
-**D03-12 C ratificou uma POLÍTICA DOCUMENTAL, NÃO UM ADR MATERIAL.** [Mandatos Institucionais v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md) e [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.3.md) estabelecem requisitos novos. Todos os três ADRs continuam EM ANÁLISE e sem vencedor.
+**D03-12 C ratificou uma POLÍTICA DOCUMENTAL, NÃO UM ADR MATERIAL.** [Mandatos Institucionais v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md) e [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md) estabelecem requisitos novos. Todos os três ADRs continuam EM ANÁLISE e sem vencedor.
 
 | ADR candidato | Exigência institucional derivada de D03-12 C | Alternativas e riscos ainda em aberto |
 | --- | --- | --- |
