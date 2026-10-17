@@ -4,7 +4,7 @@
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
 **Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..14 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-17. **D03-15 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-15 (proposta ainda PENDENTE), sem reabrir a D03-13 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-15 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado atual em 2026-10-17
 
