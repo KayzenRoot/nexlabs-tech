@@ -2,7 +2,7 @@
 
 **D03-08 C APROVADA em 2026-10-15:** autonomia graduada por risco e evidências para **agentes de desenvolvimento futuros**.
 **Estado:** PROJETO DE POLÍTICA E CRITÉRIOS EM ANÁLISE. **SEM AGENTES CRIADOS, CONFIGURADOS OU AUTORIZADOS A EXECUTAR.**
-**Precedência:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.10](PHASE-III-DECISION-REGISTER-v0.13.md), [Escopo Fase III v0.10](PHASE-III-CHARTER-v0.13.md).
+**Precedência:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md), [Escopo Fase III v0.13](PHASE-III-CHARTER-v0.13.md).
 **Evidências:** [Plano L0–L4 v0.1](PHASE-III-EVIDENCE-LADDER-v0.1.md); [ADRs v0.5](PHASE-III-CONVERGENT-ADR-PACK-v0.5.md).
 **Proibido nesta fase:** criar código, scripts, infraestrutura, bot, automação operacional, testes, dados sintéticos, fluxos GitHub, integração ou acesso a segredos; selecionar modelo, quantidade ou orquestrador.
 
@@ -173,7 +173,7 @@ Agentes **construtores** não recebem automaticamente autoridade de agentes **in
 
 ## 12. D03-11 C: fronteira entre agentes construtores e agentes institucionais (NOVO v0.4)
 
-**Princípio aprovado:** [Plano FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md) orienta o desenho de supervisão verificável, com **ações humanas previstas como futura necessidade**, não botões, ferramentas ou mandatos reais. O plano de agentes construtores permanece separado.
+**Princípio aprovado:** [Plano FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md) orienta o desenho de supervisão verificável, com **ações humanas previstas como futura necessidade**, não botões, ferramentas ou mandatos reais. O plano de agentes construtores permanece separado.
 
 | Responsabilidade futura candidata | Agentes CONSTRUTORES | Agentes INSTITUCIONAIS |
 | --- | --- | --- |
@@ -197,7 +197,7 @@ A futura construção de FCR-01..06 deve incluir esforço de contratos de leitur
 
 ## 13. D03-12 C: separação entre a fábrica construtora e mandatos INSTITUCIONAIS (NOVO v0.5)
 
-A D03-12 C **não concede poderes aos agentes construtores**. Seu escopo documental é a eventual atuação de agentes **institucionais** sob mandatos limitados, revogáveis e por risco. A construção de software segue sob D03-08 C, D03-09 C, requisitos E3-03 e autorização futura distinta. [Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md); [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md).
+A D03-12 C **não concede poderes aos agentes construtores**. Seu escopo documental é a eventual atuação de agentes **institucionais** sob mandatos limitados, revogáveis e por risco. A construção de software segue sob D03-08 C, D03-09 C, requisitos E3-03 e autorização futura distinta. [Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md); [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md).
 
 | Responsabilidade | Construtor futuro | Institucional futuro |
 | --- | --- | --- |
