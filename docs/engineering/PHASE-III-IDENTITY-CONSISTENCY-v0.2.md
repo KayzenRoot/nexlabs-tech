@@ -73,7 +73,7 @@ As classes são **candidatas**, sem mapeamento automático para R0–R3 (risco d
 | IC-AC-11 | exigir confirmação humana explícita para decisões legal/constitucionalmente reservadas |
 | IC-AC-12 | exigir autorização por etapa/canal e provas L2+ futuras quando cabíveis, sem deduzir L3/L4 |
 
-**IC-AC-01..12 não são novos gates aceitos, nem testes realizados.** Consolidar possíveis duplicatas de CH-AC, MC, FCR-AC e demais AC antes da ratificação de DoR/DoD: proposta de racionalização é a D03-15, ainda pendente.
+**IC-AC-01..12 não são novos gates aceitos, nem testes realizados.** Consolidar possíveis duplicatas de CH-AC, MC, FCR-AC e demais AC antes da ratificação de DoR/DoD: método de racionalização D03-15 C APROVADO documentalmente; KAC/SAC seguem PROPOSTOS e não aceitos.
 
 ## 7. Encaixe E3, ADR, riscos e STOP CONDITION
 
