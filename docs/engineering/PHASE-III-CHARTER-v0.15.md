@@ -106,7 +106,7 @@ A [Política Documental de Canais v0.1](PHASE-III-CHANNEL-GOVERNANCE-v0.3.md) co
 
 **Decisão expressa do fundador em 2026-10-17:** APROVADA SOMENTE COMO POLÍTICA DOCUMENTAL L0. Identidade verificada não implica alçada; recebimento não equivale a autorização; relato não prova efeito; estado stale/conflitante não pode revalidar um mandato revogado; aprovações reservadas seguem humanas, explícitas e legitimadas. Fontes, direitos, tempo, replay, duplicidade, confidencialidade e custos fazem parte de análise integrada proporcional ao risco.
 
-Referências: [Política de Identidade/Consistência v0.1](PHASE-III-IDENTITY-CONSISTENCY-v0.2.md); [Política de Canais v0.2](PHASE-III-CHANNEL-GOVERNANCE-v0.3.md). **IC-I01..14 são diretrizes conceituais candidatas; IC-AC-01..12 PROPOSTOS e NÃO ACEITOS**. A racionalização entre IC-AC/CH-AC/MC/FCR-AC é objeto da **D03-15 C APROVADA documentalmente A/B/C**, ainda não ratificada.
+Referências: [Política de Identidade/Consistência v0.2](PHASE-III-IDENTITY-CONSISTENCY-v0.2.md); [Política de Canais v0.3](PHASE-III-CHANNEL-GOVERNANCE-v0.3.md). **IC-I01..14 são diretrizes conceituais candidatas; IC-AC-01..12 PROPOSTOS e NÃO ACEITOS**. A racionalização entre IC-AC/CH-AC/MC/FCR-AC é objeto da **D03-15 C APROVADA documentalmente A/B/C**, ainda não ratificada.
 
 **Escopo invariável:** E3-01..04 EM PLANEJAMENTO; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; STOP CONDITIONS NÃO ATENDIDAS; nenhuma tecnologia, agente, ferramenta, conta ou serviço criado. **FASE IV NÃO AUTORIZADA.**
 
