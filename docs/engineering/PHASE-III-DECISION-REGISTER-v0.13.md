@@ -1,7 +1,7 @@
 # NexLabs Technology — Registro de Decisões de Engenharia da Fase III v0.13
 
-**Data:** 2026-10-15. **Fase III iniciada somente para planejamento documental.**
-**Autoridade:** [Carta v1.0](../institutional/CHARTER-v1.0.md), [escopo autorizado v0.12](PHASE-III-CHARTER-v0.12.md), [encerramento Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md).
+**Atualizado em:** 2026-10-17. **Fase III iniciada somente para planejamento documental.**
+**Autoridade:** [Carta v1.0](../institutional/CHARTER-v1.0.md), [escopo autorizado e atualizado v0.13](PHASE-III-CHARTER-v0.13.md), [encerramento Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md).
 **Regra:** registrar decisão expressa do fundador e seu alcance exato. Recomendação do assistente **não** é ratificação. Proposta técnica não equivale a implementação.
 
 ## D03-01 — Escopo da autorização da Fase III
