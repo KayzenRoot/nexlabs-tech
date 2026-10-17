@@ -4,9 +4,9 @@
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
 **Fase II:** identidade visual e institucional **ENCERRADA E ACEITA DOCUMENTALMENTE** em 2026-10-15, com D02-25 C ratificada. **Fase III INICIADA (somente planejamento documental)** por **D03-01 A**; **D03-02 C aprovada** (primeiro ciclo vertical verificável) e **D03-03 C aprovada** (núcleo modular evolutivo) e **D03-04 C aprovada** (base principal única a escolher por evidências, com especializações condicionais) e **D03-05 C aprovada** (fonte de verdade verificável com histórico proporcional) e **D03-06 C aprovada** (pacote convergente de ADRs interdependentes) e **D03-07 C aprovada** (evidências em camadas) e **D03-08 C aprovada** (autonomia graduada por risco e evidências para agentes construtores) e **D03-09 C aprovada** (paralelismo elástico por dependências e custo líquido) e **D03-10 C aprovada** (fechamento integrado por gates verificáveis), em 2026-10-15. Nenhuma implementação autorizada.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é avançar no **planejamento documental já autorizado da Fase III**, continuando pela D03-13, política dos canais entre FCR e Chief of Staff ainda pendente, sem iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-14 (proposta ainda PENDENTE), sem reabrir a D03-13 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
-## Estado atual em 2026-10-15
+## Estado atual em 2026-10-17
 
 | Tema | Estado |
 | --- | --- |
@@ -52,7 +52,8 @@
 | D03-10: Fechamento integrado por gates verificáveis | **APROVADA — C, MÉTODO DOCUMENTAL** |
 | D03-11: Comando progressivo com soberania explícita | **APROVADA — C, SOMENTE DOCUMENTAL** |
 | D03-12: Mandatos limitados, revogáveis e proporcionais ao risco | **APROVADA — C, SOMENTE DOCUMENTAL** |
-| D03-13: Política dos canais do Founder Command Center e Chief of Staff | **PENDENTE (A/B/C)** |
+| D03-13: Política de canais neutros ao mandato, ativação progressiva | **APROVADA — C, SOMENTE DOCUMENTAL** |
+| D03-14: Identidade e consistência de interações entre canais | **PENDENTE (A/B/C, PROPOSTA)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -100,21 +101,22 @@
 - **D02-25 C APROVADA:** Fase II encerrada após auditoria objetiva e publicação de síntese e ata.
 - **[Proposta de Transição para Fase III v0.1](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md):** pacotes de planejamento, riscos, stacks, módulos, agentes, paralelismo e orçamento, sem escolhas técnicas aprovadas.
 - **Fase III, D03-01 A APROVADA:** planejar requisitos, modularização, alternativas arquiteturais e stacks, segurança, custos, agentes de construção, paralelismo e estratégias de entrega. **E3-01 a E3-04 EM PLANEJAMENTO; nenhuma stack/quantidade de agentes aprovada**.
-- **[Carta de Escopo da Fase III v0.12](docs/engineering/PHASE-III-CHARTER-v0.12.md)** e **[Registro D03 v0.12](docs/engineering/PHASE-III-DECISION-REGISTER-v0.12.md)**: D03-01 A e D03-02..12 C aprovadas; D03-13 pendente. E3-01..04 EM PLANEJAMENTO e ADR-C-01..03 EM ANÁLISE.
-- **[Mandatos Institucionais v0.1](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
-- **[Founder Command Center v0.2](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
-- **[Matriz de Convergência e Prontidão v0.3](docs/engineering/PHASE-III-CONVERGENCE-READINESS-v0.3.md)**: CG-01..CG-12 ainda PENDENTES, efeitos D03-12, STOP CONDITIONS NÃO ATENDIDAS. Nenhuma tecnologia, agentes ou Fase IV ratificados.
-- **[Plano de Governança de Agentes v0.5](docs/engineering/PHASE-III-AGENT-GOVERNANCE-v0.5.md)**: distinção explícita construtores/institucionais, mandatos, custos e revisão, sem agentes criados.
+- **[Carta de Escopo da Fase III v0.13](docs/engineering/PHASE-III-CHARTER-v0.13.md)** e **[Registro D03 v0.13](docs/engineering/PHASE-III-DECISION-REGISTER-v0.13.md)**: D03-01 A e D03-02..13 C aprovadas; D03-14 pendente (proposta). E3-01..04 EM PLANEJAMENTO e ADR-C-01..03 EM ANÁLISE.
+- **[Mandatos Institucionais v0.2](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
+- **[Founder Command Center v0.3](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
+- **[Política Documental de Canais v0.1](docs/engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.1.md)**: D03-13 C APROVADA em 2026-10-17; fonte de autoridade/mandatos independente do canal, FCR como primeiro meio de supervisão a planejar e Telegram, voz e relatórios condicionais a futura autorização. CH-AC-01..12 PROPOSTOS, nenhum canal implementado.
+- **[Matriz de Convergência e Prontidão v0.4](docs/engineering/PHASE-III-CONVERGENCE-READINESS-v0.4.md)**: CG-01..CG-12 ainda PENDENTES, efeitos D03-12, STOP CONDITIONS NÃO ATENDIDAS. Nenhuma tecnologia, agentes ou Fase IV ratificados.
+- **[Plano de Governança de Agentes v0.6](docs/engineering/PHASE-III-AGENT-GOVERNANCE-v0.6.md)**: distinção explícita construtores/institucionais, mandatos, custos e revisão, sem agentes criados.
 - **[Plano de Paralelismo Elástico v0.1](docs/engineering/PHASE-III-ELASTIC-PARALLELISM-v0.1.md)**: cenários S0/S1/S2/SD, dependências, custo líquido e regras de STOP, sem quantidades.
 - [Carta v0.6](docs/engineering/PHASE-III-CHARTER-v0.6.md) e [Registro D03 v0.6](docs/engineering/PHASE-III-DECISION-REGISTER-v0.6.md): histórico anterior preservado.
-- **[Pacote Convergente de ADRs v0.7](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.7.md)**: C-01 stack, C-02 persistência, C-03 contratos, revogação e autoridade temporal; EM ANÁLISE, sem vencedores.
+- **[Pacote Convergente de ADRs v0.7](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.8.md)**: C-01 stack, C-02 persistência, C-03 contratos, revogação e autoridade temporal; EM ANÁLISE, sem vencedores.
 - **[Plano de Evidências em Camadas v0.1](docs/engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md)**: L0 documentação, L1 cenário sintético futuro, L2 teste controlado futuro, L3 fonte real futura autorizada, L4 efeito operacional verificado; nenhum dado ou teste criado.
 - [Carta v0.5](docs/engineering/PHASE-III-CHARTER-v0.5.md) e [Registro D03 v0.5](docs/engineering/PHASE-III-DECISION-REGISTER-v0.5.md): históricos preservados.
 - [Carta v0.4](docs/engineering/PHASE-III-CHARTER-v0.4.md) e [Registro D03 v0.4](docs/engineering/PHASE-III-DECISION-REGISTER-v0.4.md): históricos preservados.
 - [Carta v0.3](docs/engineering/PHASE-III-CHARTER-v0.3.md) e [Registro D03 v0.3](docs/engineering/PHASE-III-DECISION-REGISTER-v0.3.md): históricos preservados.
 - [Carta Fase III v0.2](docs/engineering/PHASE-III-CHARTER-v0.2.md) e [Registro D03 v0.2](docs/engineering/PHASE-III-DECISION-REGISTER-v0.2.md): versões históricas preservadas.
 - Versões históricas preservadas: [Carta v0.1](docs/engineering/PHASE-III-CHARTER-v0.1.md) e [Registro D03 v0.1](docs/engineering/PHASE-III-DECISION-REGISTER-v0.1.md).
-- **[E3-01: Requisitos v0.12](docs/engineering/E3-01-CAPABILITY-MAP-v0.12.md)**; **[E3-02: Arquitetura v0.12](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.12.md)**; **[E3-03: Agentes v0.12](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.12.md)**; **[E3-04: Segurança v0.12](docs/engineering/E3-04-READINESS-AND-GATES-v0.12.md)**: mandatos institucionais, casos MC, contratos, DoR/DoD e STOP CONDITIONS, todos EM PLANEJAMENTO.
+- **[E3-01: Requisitos v0.12](docs/engineering/E3-01-CAPABILITY-MAP-v0.13.md)**; **[E3-02: Arquitetura v0.12](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.13.md)**; **[E3-03: Agentes v0.12](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.13.md)**; **[E3-04: Segurança v0.12](docs/engineering/E3-04-READINESS-AND-GATES-v0.13.md)**: mandatos institucionais, casos MC, contratos, DoR/DoD e STOP CONDITIONS, todos EM PLANEJAMENTO.
 - **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
 - **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
 
