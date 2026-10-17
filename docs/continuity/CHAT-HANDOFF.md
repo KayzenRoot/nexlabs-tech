@@ -72,7 +72,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 - [Ata de encerramento v1.0](../design/PHASE-II-ACCEPTANCE-v1.0.md);
 - [Escopo congelado v0.24](../design/DESIGN-PHASE-SCOPE-v0.24.md).
 
-**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.12](../engineering/PHASE-III-CHARTER-v0.14.md). [Registro D03 v0.12](../engineering/PHASE-III-DECISION-REGISTER-v0.14.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.14.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.14.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.14.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.14.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
+**Fase III: INICIADA APENAS NO PLANEJAMENTO DOCUMENTAL, por D03-01 A.** [Proposta histórica v0.1](PHASE-III-TRANSITION-PROPOSAL-v0.1.md) e [Carta de Escopo v0.14](../engineering/PHASE-III-CHARTER-v0.14.md). [Registro D03 v0.14](../engineering/PHASE-III-DECISION-REGISTER-v0.14.md). Quatro pacotes EM PLANEJAMENTO: [E3-01](../engineering/E3-01-CAPABILITY-MAP-v0.14.md), [E3-02](../engineering/E3-02-ARCHITECTURE-EVALUATION-v0.14.md), [E3-03](../engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.14.md), [E3-04](../engineering/E3-04-READINESS-AND-GATES-v0.14.md). Nenhuma stack, quantidade de agentes ou concorrência foi fixada. Repo público (`private: false`): reavaliar confidencialidade antes de dados sensíveis.
 
 **D03-02 C APROVADA:** planejar primeiro ciclo vertical verificável: orientação legítima do fundador, missão delimitada, evidências e explicação de custo real quando houver fonte. Não inferir execução nem economias sem medição.
 
@@ -96,7 +96,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-12 C APROVADA:** mandato institucional limitado, revogável e por risco como princípio documental, [Política v0.3](../engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.3.md); requisitos MC-01..14 apenas propostos, nenhum controle executado ou agente criado. FCR v0.4, CG v0.5 e E3 v0.14 incorporam a decisão, sem aceite de STOP.
 
-**D03-13 C APROVADA (2026-10-17):** fonte de mandatos e direitos independente do canal, FCR futuro primeiro, Telegram/voz/relatórios condicionais, sem poder adicional por meio. [Política de Canais v0.1](../engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.2.md) e CH-AC-01..12 são documentais; requisitos ainda sem testes. **D03-14 C foi ratificada posteriormente como política documental L0**.
+**D03-13 C APROVADA (2026-10-17):** fonte de mandatos e direitos independente do canal, FCR futuro primeiro, Telegram/voz/relatórios condicionais, sem poder adicional por meio. [Política de Canais v0.2](../engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.2.md) e CH-AC-01..12 são documentais; requisitos ainda sem testes. **D03-14 C foi ratificada posteriormente como política documental L0**.
 
 ## Limites invariáveis
 
@@ -106,4 +106,4 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **Checkpoint anterior (NX-P3-D03-13):** D03-13 C aprovada em 2026-10-17 como política L0, preservada. O estado corrente é NX-P3-D03-14; não interpretar canal ou mandato como implementado.
 
-**Checkpoint corrente NX-P3-D03-14 (2026-10-17):** D03-14 C ratificada SOMENTE DOCUMENTALMENTE: identidade/confirmação/revogação/conflitos integrados por risco e [Política IC v0.1](../engineering/PHASE-III-IDENTITY-CONSISTENCY-v0.1.md). Fontes correntes: Registro D03 v0.14, Carta v0.14, Canais v0.2, Mandatos v0.3, FCR v0.4, Matriz CG v0.5, ADRs v0.9 e E3-01..04 v0.14. **D03-15 A/B/C PENDENTE, NÃO APROVADA**. Todos E3 EM PLANEJAMENTO; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; CH-AC, IC-AC, MC, FCR-AC PROPOSTOS; **Fase IV NÃO AUTORIZADA**. Nenhuma integração, autenticação, sessão ou controle operacional criado.
+**Checkpoint corrente NX-P3-D03-14 (2026-10-17):** D03-14 C ratificada SOMENTE DOCUMENTALMENTE: identidade/confirmação/revogação/conflitos integrados por risco e [Política IC v0.1](../engineering/PHASE-III-IDENTITY-CONSISTENCY-v0.1.md). Fontes correntes: Registro D03 v0.14, Carta v0.14, Canais v0.2, Mandatos v0.3, FCR v0.4, Matriz CG v0.5, ADRs v0.9 e E3-01..04 v0.14. **D03-15 A/B/C PENDENTE, NÃO APROVADA**. Todos E3 EM PLANEJAMENTO; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; CH-AC, IC-AC, MC, FCR-AC PROPOSTOS; **Fase IV NÃO AUTORIZADA**. Nenhuma integração, autenticação, sessão ou controle operacional criado.
