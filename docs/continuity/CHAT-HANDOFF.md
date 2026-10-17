@@ -11,7 +11,7 @@
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar pelo planejamento pós-D03-13 C, preparar D03-14 e pelos quatro pacotes E3, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar o planejamento dos quatro pacotes E3 à luz da D03-13 C e preparar a deliberação D03-14, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -94,7 +94,7 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **D03-11 C APROVADA:** direção progressiva do Founder Command Center, [Plano FCR v0.2](../engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md): supervisão verificável, dados e limites de confiança, ações humanas previstas apenas como requisito. CG-01..12 continuam sem aceite final; E3 EM PLANEJAMENTO, ADRs EM ANÁLISE.
 
-**D03-12 C APROVADA:** mandato institucional limitado, revogável e por risco como princípio documental, [Política v0.1](../engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md); requisitos MC-01..14 apenas propostos, nenhum controle executado ou agente criado. FCR v0.2, CG v0.3 e E3 v0.12 incorporam a decisão, sem aceite de STOP.
+**D03-12 C APROVADA:** mandato institucional limitado, revogável e por risco como princípio documental, [Política v0.2](../engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md); requisitos MC-01..14 apenas propostos, nenhum controle executado ou agente criado. FCR v0.3, CG v0.4 e E3 v0.13 incorporam a decisão, sem aceite de STOP.
 
 **D03-13 C APROVADA (2026-10-17):** fonte de mandatos e direitos independente do canal, FCR futuro primeiro, Telegram/voz/relatórios condicionais, sem poder adicional por meio. [Política de Canais v0.1](../engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.1.md) e CH-AC-01..12 são documentais; requisitos ainda sem testes. **D03-14 PENDENTE, não ratificada**.
 
