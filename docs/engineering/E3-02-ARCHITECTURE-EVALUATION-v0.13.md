@@ -2,7 +2,7 @@
 
 **Estado:** D03-03 C, D03-04 C, D03-05 C, D03-06 C e D03-07 C APROVADAS como direções documentais. Nenhuma linguagem, framework, banco, contrato técnico, topologia, fonte externa, teste ou implementação selecionados/executados.
 **Autorização:** D03-01 A, sem implementação.
-**Depende de:** [E3-01 v0.10](E3-01-CAPABILITY-MAP-v0.12.md); **D03-02 C JÁ APROVOU** o recorte vertical, não a topologia arquitetural.
+**Depende de:** [E3-01 v0.13](E3-01-CAPABILITY-MAP-v0.13.md); **D03-02 C JÁ APROVOU** o recorte vertical, não a topologia arquitetural.
 
 ## 1. Questões arquiteturais a resolver
 
@@ -424,7 +424,7 @@ AUT não pode criar privilégios para si; MIS não converte relato em execução
 
 ## 16. D03-11 C: FCR como fronteira de leitura e controle legítimo (NOVO v0.11)
 
-**Referências:** [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md), [ADRs v0.6](PHASE-III-CONVERGENT-ADR-PACK-v0.6.md), [CG v0.2](PHASE-III-CONVERGENCE-READINESS-v0.4.md). **Arquitetura lógica não é escolha de topologia física, banco, linguagem ou API.**
+**Referências:** [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md), [ADRs v0.6](PHASE-III-CONVERGENT-ADR-PACK-v0.6.md), [CG v0.2](PHASE-III-CONVERGENCE-READINESS-v0.4.md). **Arquitetura lógica não é escolha de topologia física, banco, linguagem ou API.**
 
 | ADR em análise | Requisito FCR acrescido | Risco/custo a comparar | Aceite não obtido |
 | --- | --- | --- | --- |
