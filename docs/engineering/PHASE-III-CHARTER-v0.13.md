@@ -1,6 +1,6 @@
 # NexLabs Technology — Carta de Escopo da Fase III v0.13
 
-**Decisões:** D03-01 A — escopo de planejamento documental AUTORIZADO; D03-02 C — primeiro ciclo vertical verificável; D03-03 C — núcleo modular evolutivo com fronteiras extraíveis; e D03-04 C — base principal a escolher por evidências, com especializações condicionais; e D03-05 C — fonte de verdade verificável com histórico proporcional; e D03-06 C — pacote convergente de ADRs interdependentes; e D03-07 C — evidências em camadas, do controlado ao autorizado; e D03-08 C — autonomia graduada por risco e evidências; e D03-09 C — paralelismo elástico guiado por dependências e custo líquido; e D03-10 C — fechamento integrado dos pacotes por gates verificáveis; e D03-11 C — comando progressivo com soberania explícita para o FCR; e D03-12 C — mandatos institucionais limitados, revogáveis e proporcionais ao risco. As doze decisões estão APROVADAS, exclusivamente no plano documental.
+**Decisões:** D03-01 A — escopo de planejamento documental AUTORIZADO; D03-02 C — primeiro ciclo vertical verificável; D03-03 C — núcleo modular evolutivo com fronteiras extraíveis; e D03-04 C — base principal a escolher por evidências, com especializações condicionais; e D03-05 C — fonte de verdade verificável com histórico proporcional; e D03-06 C — pacote convergente de ADRs interdependentes; e D03-07 C — evidências em camadas, do controlado ao autorizado; e D03-08 C — autonomia graduada por risco e evidências; e D03-09 C — paralelismo elástico guiado por dependências e custo líquido; e D03-10 C — fechamento integrado dos pacotes por gates verificáveis; e D03-11 C — comando progressivo com soberania explícita para o FCR; e D03-12 C — mandatos institucionais limitados, revogáveis e proporcionais ao risco. D03-01 A e D03-02..13 C estão APROVADAS exclusivamente no plano documental.
 **Estado:** FASE III INICIADA, EXCLUSIVAMENTE PLANEJAMENTO DOCUMENTAL. **Nenhum software, infraestrutura ou integração foi autorizado.**
 **Repositório canônico:** `KayzenRoot/nexlabs-tech` / `main`.
 **Base histórica:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Ata de encerramento Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Síntese canônica da Fase II](../design/PHASE-II-CANONICAL-SYNTHESIS-v1.0.md) e [Proposta de Transição v0.1](../continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md).
@@ -24,10 +24,10 @@ A Fase III está **iniciada** na acepção de documentação. Seus quatro pacote
 
 | ID | Pacote | Estado | Referência |
 | --- | --- | --- | --- |
-| E3-01 | Escopo e capacidades da primeira entrega | EM PLANEJAMENTO | [Mapa v0.12](E3-01-CAPABILITY-MAP-v0.12.md) |
-| E3-02 | Fronteiras arquiteturais, stacks e alternativas | EM PLANEJAMENTO | [Arquitetura comparativa v0.12](E3-02-ARCHITECTURE-EVALUATION-v0.12.md) |
-| E3-03 | Fábrica de desenvolvimento com agentes e paralelismo | EM PLANEJAMENTO | [Estratégia comparativa v0.12](E3-03-AGENT-FACTORY-EVALUATION-v0.12.md) |
-| E3-04 | Segurança, custo, prontidão e gate para implementação | EM PLANEJAMENTO | [Prontidão v0.12](E3-04-READINESS-AND-GATES-v0.12.md) |
+| E3-01 | Escopo e capacidades da primeira entrega | EM PLANEJAMENTO | [Mapa v0.12](E3-01-CAPABILITY-MAP-v0.13.md) |
+| E3-02 | Fronteiras arquiteturais, stacks e alternativas | EM PLANEJAMENTO | [Arquitetura comparativa v0.12](E3-02-ARCHITECTURE-EVALUATION-v0.13.md) |
+| E3-03 | Fábrica de desenvolvimento com agentes e paralelismo | EM PLANEJAMENTO | [Estratégia comparativa v0.12](E3-03-AGENT-FACTORY-EVALUATION-v0.13.md) |
+| E3-04 | Segurança, custo, prontidão e gate para implementação | EM PLANEJAMENTO | [Prontidão v0.12](E3-04-READINESS-AND-GATES-v0.13.md) |
 
 ## 4. Critérios de saída da Fase III
 
@@ -50,7 +50,7 @@ Preferir **quatro pacotes concentrados**, ADRs mínimos para decisões materiais
 
 ## 7. Consolidação após D03-02 C
 
-O primeiro incremento foi **delimitado por estratégia vertical**, ligando orientação do fundador, mandato, evidência e custo com verificabilidade. Essa escolha não decide funcionalidades completas ou módulos físicos. Fonte corrente: [Registro de decisões v0.12](PHASE-III-DECISION-REGISTER-v0.12.md). O registro v0.1 permanece imutável.
+O primeiro incremento foi **delimitado por estratégia vertical**, ligando orientação do fundador, mandato, evidência e custo com verificabilidade. Essa escolha não decide funcionalidades completas ou módulos físicos. Fonte corrente: [Registro de decisões v0.12](PHASE-III-DECISION-REGISTER-v0.13.md). O registro v0.1 permanece imutável.
 
 ## 8. Consolidação após D03-03 C
 
@@ -90,7 +90,7 @@ A primeira experiência do Founder Command Center passa a ser planejada como sup
 
 ## 17. D03-12 C — Mandatos institucionais limitados e revogáveis
 
-Aprova-se exclusivamente a política DOCUMENTAL de futuras missões institucionais: finalidade, autoridade, prazo, atos permitidos, dados, risco, limites financeiros a ratificar, evidência, revogação e prestação de contas; sem alçadas reais, agentes, ações ou credenciais. [Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md), [Matriz CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.3.md), [ADRs v0.7](PHASE-III-CONVERGENT-ADR-PACK-v0.7.md), [Governança dos Construtores v0.5](PHASE-III-AGENT-GOVERNANCE-v0.5.md) e E3-01..04 v0.12 passam a referenciar o escopo. A Carta v1.0 e direitos legais prevalecem.
+Aprova-se exclusivamente a política DOCUMENTAL de futuras missões institucionais: finalidade, autoridade, prazo, atos permitidos, dados, risco, limites financeiros a ratificar, evidência, revogação e prestação de contas; sem alçadas reais, agentes, ações ou credenciais. [Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md), [Matriz CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md), [ADRs v0.7](PHASE-III-CONVERGENT-ADR-PACK-v0.8.md), [Governança dos Construtores v0.5](PHASE-III-AGENT-GOVERNANCE-v0.6.md) e E3-01..04 v0.12 passam a referenciar o escopo. A Carta v1.0 e direitos legais prevalecem.
 
 **D03-13 C APROVADA em 2026-10-17 como política DOCUMENTAL de canais; D03-14 é a próxima pergunta PROPOSTA, NÃO RATIFICADA.** E3-01..04 EM PLANEJAMENTO; ADRs NÃO RATIFICADOS; CG-01..12 SEM ACEITE; STOP CONDITIONS NÃO ATENDIDAS; Fase IV NÃO AUTORIZADA.
 
