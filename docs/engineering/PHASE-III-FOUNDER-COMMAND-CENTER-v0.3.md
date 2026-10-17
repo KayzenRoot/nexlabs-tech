@@ -2,7 +2,7 @@
 
 **Decisão autorizadora:** D03-11 C (2026-10-15) — **Comando progressivo com soberania explícita**.
 **Estado:** APENAS REQUISITOS E RECORTE DO PRIMEIRO CICLO, NÃO IMPLEMENTADO.
-**Hierarquia:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Encerramento da Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Adendos do fundador](../design/VISUAL-CONCEPT-DECISIONS-v0.2.md), [Registro D03 v0.11](PHASE-III-DECISION-REGISTER-v0.13.md), [Matriz CG v0.2](PHASE-III-CONVERGENCE-READINESS-v0.3.md).
+**Hierarquia:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Encerramento da Fase II](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Adendos do fundador](../design/VISUAL-CONCEPT-DECISIONS-v0.2.md), [Registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md), [Matriz CG v0.4](PHASE-III-CONVERGENCE-READINESS-v0.4.md).
 **Restrições:** proibida criação de código, tela, figura, mock, esquema operacional, ferramenta, conta, credencial, integração, dado sintético, teste, infraestrutura, agente ou automação. Fase IV precisa de autorização específica.
 
 ## 1. Vertical mínima a especificar sem exagerar o escopo
@@ -90,11 +90,11 @@ Os nomes representam **fronteiras de domínio candidatas**, não endpoints, tabe
 
 **E3-01..04: EM PLANEJAMENTO / STOP CONDITIONS NÃO ATENDIDAS. ADR-C-01..03: EM ANÁLISE. Fase IV NÃO AUTORIZADA.**
 
-**D03-12 C APROVADA POSTERIORMENTE:** política DOCUMENTAL de mandatos institucionais limitados, revogáveis e por risco, detalhada em [Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md). **Próximo D03-13 C APROVADA documentalmente:** política de consistência de canais FCR/Chief of Staff, sem conexão real.
+**D03-12 C APROVADA POSTERIORMENTE:** política DOCUMENTAL de mandatos institucionais limitados, revogáveis e por risco, detalhada em [Mandatos v0.2](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md). **D03-13 C APROVADA documentalmente:** política de consistência de canais FCR/Chief of Staff, sem conexão real.
 
 ## 8. D03-12 C: soberania, emissão e revogação sob o FCR (NOVO v0.2)
 
-**Diretriz aprovada:** futuras ações de agentes institucionais somente poderão ser elegíveis sob mandatos legítimos, limitados, proporcionais ao risco, temporalmente válidos e revogáveis. Isso é especificação **L0**, sem capacidade de emitir, suspender, executar ou revogar um mandato real. [Política de Mandatos Institucionais v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md).
+**Diretriz aprovada:** futuras ações de agentes institucionais somente poderão ser elegíveis sob mandatos legítimos, limitados, proporcionais ao risco, temporalmente válidos e revogáveis. Isso é especificação **L0**, sem capacidade de emitir, suspender, executar ou revogar um mandato real. [Política de Mandatos Institucionais v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md).
 
 | Exigência de supervisão futura | Informações mínimas que uma fonte legítima deverá fornecer | Controle de risco |
 | --- | --- | --- |
