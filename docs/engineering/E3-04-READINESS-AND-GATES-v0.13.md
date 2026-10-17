@@ -354,7 +354,7 @@ A aprovação da política de concorrência variável é **somente documental**.
 
 Mitigação proposta: contratos aceitos, segregação de dados, revisão proporcional, medição total e política de pausa/redução. Nenhum gate foi testado e nenhum desses riscos foi eliminado empiricamente.
 
-**E3-04 EM PLANEJAMENTO. D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente para política dos mandatos institucionais. Fase IV NÃO AUTORIZADA.**
+**E3-04 EM PLANEJAMENTO. D03-10 C APROVADA documentalmente; D03-11 C APROVADA documentalmente; D03-12 C APROVADA documentalmente; D03-13 C APROVADA documentalmente para política dos canais FCR/Chief of Staff. Fase IV NÃO AUTORIZADA.**
 
 
 ## 15. D03-10 C: auditoria de prontidão e STOP CONDITION consolidada (NOVO v0.10)
