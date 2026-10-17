@@ -2,8 +2,8 @@
 
 **Decisão:** D03-10 C — Fechamento integrado por gates verificáveis, ratificada em 2026-10-15.
 **Estado:** **PLANO DOCUMENTAL EM ANDAMENTO**, **NÃO ACEITO COMO CONCLUSÃO DOS PACOTES**.
-**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.11](PHASE-III-DECISION-REGISTER-v0.13.md), [Carta Fase III v0.11](PHASE-III-CHARTER-v0.13.md).
-**Dependências documentais:** [E3-01 v0.11](E3-01-CAPABILITY-MAP-v0.12.md), [E3-02 v0.11](E3-02-ARCHITECTURE-EVALUATION-v0.12.md), [E3-03 v0.11](E3-03-AGENT-FACTORY-EVALUATION-v0.12.md), [E3-04 v0.11](E3-04-READINESS-AND-GATES-v0.12.md), [ADRs convergentes v0.6](PHASE-III-CONVERGENT-ADR-PACK-v0.7.md), [Governança de agentes v0.4](PHASE-III-AGENT-GOVERNANCE-v0.5.md), [Evidências L0–L4](PHASE-III-EVIDENCE-LADDER-v0.1.md).
+**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [Registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md), [Carta Fase III v0.13](PHASE-III-CHARTER-v0.13.md).
+**Dependências documentais:** [E3-01 v0.13](E3-01-CAPABILITY-MAP-v0.13.md), [E3-02 v0.13](E3-02-ARCHITECTURE-EVALUATION-v0.13.md), [E3-03 v0.13](E3-03-AGENT-FACTORY-EVALUATION-v0.13.md), [E3-04 v0.13](E3-04-READINESS-AND-GATES-v0.13.md), [ADRs convergentes v0.8](PHASE-III-CONVERGENT-ADR-PACK-v0.8.md), [Governança de agentes v0.6](PHASE-III-AGENT-GOVERNANCE-v0.6.md), [Evidências L0–L4](PHASE-III-EVIDENCE-LADDER-v0.1.md).
 
 **Não autorizado:** criação de código, imagens, protótipos, dados sintéticos, testes executáveis, APIs, bots/agentes, integrações, automações, infraestrutura ou implantação. Não selecionar stack, banco, linguagem, modelos, serviços físicos, orquestrador, quantidades de agentes nem orçamento sem análise e ratificação específica.
 
@@ -130,7 +130,7 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 
 ## 9. Requisitos do fundador preservados
 
-**Founder Command Center, Telegram bilateral com Chief of Staff, relatórios PDF/planilhas, vozes distintas de agentes, tokens/custos/Jev, finanças e observabilidade de VPS** seguem registrados como possibilidades e requisitos futuros, não integrações criadas ou fontes monitoradas. A **D03-11 C aprovou a prioridade funcional progressiva** do Founder Command Center em [Plano FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md), sem aprovar sistemas, APIs, telas ou operações.
+**Founder Command Center, Telegram bilateral com Chief of Staff, relatórios PDF/planilhas, vozes distintas de agentes, tokens/custos/Jev, finanças e observabilidade de VPS** seguem registrados como possibilidades e requisitos futuros, não integrações criadas ou fontes monitoradas. A **D03-11 C aprovou a prioridade funcional progressiva** do Founder Command Center em [Plano FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md), sem aprovar sistemas, APIs, telas ou operações.
 
 **Confidencialidade:** o repositório foi observado público em auditorias anteriores. Antes de dados ou credenciais protegidos, avaliar política e visibilidade; não alterar visibilidade sem autorização adequada.
 
@@ -147,7 +147,7 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 
 ## 11. D03-11 C: atualização auditável dos gates da primeira capacidade FCR (NOVO v0.2)
 
-[Plano Funcional Founder Command Center v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md) registra recorte progressivo com autoridade explícita. Isso resolve a **escolha direcional D03-11**, mas **NÃO encerra o CG-02 ou qualquer outro gate**.
+[Plano Funcional Founder Command Center v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md) registra recorte progressivo com autoridade explícita. Isso resolve a **escolha direcional D03-11**, mas **NÃO encerra o CG-02 ou qualquer outro gate**.
 
 | Gate existente | Efeito efetivo da D03-11 C | Lacuna impeditiva | Estado |
 | --- | --- | --- | --- |
@@ -174,7 +174,7 @@ Cada futura estimativa deverá ter **fonte, data, região, moeda, unidade, hipó
 
 ## 12. D03-12 C: matriz de mandatos institucionais e impacto nos CG (NOVO v0.3)
 
-**[Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md):** autorização legítima, finalidade, escopo, vigência, risco, custo e revogação futuros. **Decisão do método aprovada, mas nenhum dos 12 gates CG foi aceito**. Os níveis L0..L4 continuam sem resultados operacionais.
+**[Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.2.md):** autorização legítima, finalidade, escopo, vigência, risco, custo e revogação futuros. **Decisão do método aprovada, mas nenhum dos 12 gates CG foi aceito**. Os níveis L0..L4 continuam sem resultados operacionais.
 
 | Gate | Critério adicional derivado da D03-12 C | Evidência atual | Lacuna para o aceite |
 | --- | --- | --- | --- |
