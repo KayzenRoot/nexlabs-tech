@@ -2,7 +2,7 @@
 
 **Decisão:** D03-12 C, aprovada em 2026-10-16: mandatos limitados, revogáveis e proporcionais ao risco.
 **Natureza:** planejamento documental (L0) somente. Nenhum agente, mandato operacional, permissão, software, API, teste, dado sintético ou integração criado.
-**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [registro D03 v0.12](PHASE-III-DECISION-REGISTER-v0.13.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md).
+**Autoridade:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Fase II encerrada](../design/PHASE-II-ACCEPTANCE-v1.0.md), [registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md), [FCR v0.3](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md).
 **Relação de governança:** agentes INSTITUCIONAIS seriam responsáveis por missões empresariais futuras; agentes CONSTRUTORES seriam responsáveis por desenvolvimento futuro sob D03-08/09 C. Os regimes não herdam poderes, modelos, orçamentos ou acesso.
 
 ## 1. O contrato semântico de um mandato
@@ -67,7 +67,7 @@ Os ADRs C-01 (stack), C-02 (persistência) e C-03 (contratos) permanecem EM ANÁ
 
 **D03-12 C APROVADA como princípio apenas.** E3-01..04 EM PLANEJAMENTO e STOP CONDITIONS NÃO ATENDIDAS. CG-01..12 PENDENTES. ADR-C-01..03 EM ANÁLISE. Fase IV NÃO AUTORIZADA.
 
-**D03-13 C APROVADA documentalmente A/B/C:** canais institucionais e consistência entre FCR e Chief of Staff, sem integrações agora.
+**D03-13 C APROVADA:** canais institucionais e consistência entre FCR e Chief of Staff, sem integrações agora.
 
 ## 6. D03-13 C — Mandato não depende do canal de origem (2026-10-17)
 
