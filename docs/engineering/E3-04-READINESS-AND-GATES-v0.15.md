@@ -473,7 +473,7 @@ A aprovação de D03-13 C **não fecha** qualquer gate. [Política de Canais v0.
 | FCR/Telegram/voz apresentam versões distintas | conflito explicitado; fonte legítima e escalada humana quando reservada |
 | custo de validação não medido | AUSENTE/ESTIMATIVA fundamentada, nunca economia Jev inventada |
 
-**Gates:** CG-01..12 e FCG/MG não aceitos; ADR-C-01..03 EM ANÁLISE; E3-01..04 EM PLANEJAMENTO e suas STOP CONDITIONS NÃO ATENDIDAS. Critérios IC-AC/CH-AC/MC/FCR-AC devem ser racionalizados após decisão D03-15 proposta e posterior aceite independente. Sem testes L2+, CI de implementação, modelos, tokens, contas, chaves, integrações, infraestrutura ou Fase IV autorizada.
+**Gates:** CG-01..12 e FCG/MG não aceitos; ADR-C-01..03 EM ANÁLISE; E3-01..04 EM PLANEJAMENTO e suas STOP CONDITIONS NÃO ATENDIDAS. Critérios IC-AC/CH-AC/MC/FCR-AC são indexados conforme a D03-15 C, método documental APROVADO, mas seguem dependentes de revisão e aceite material independentes. Sem testes L2+, CI de implementação, modelos, tokens, contas, chaves, integrações, infraestrutura ou Fase IV autorizada.
 
 ## D03-15 C — Assurance de não regressão dos critérios consolidados
 
