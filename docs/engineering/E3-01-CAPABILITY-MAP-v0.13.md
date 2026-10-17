@@ -2,7 +2,7 @@
 
 **Estado:** D03-02 C, D03-03 C, D03-04 C, D03-05 C, D03-06 C e D03-07 C APROVADAS como diretrizes documentais. Nenhum caso executado, fonte externa conectada, stack, persistência, contrato técnico ou topologia aprovados.
 **Autorização:** D03-01 A permite documentar requisitos e alternativas.
-**Fontes:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Síntese da Fase II](../design/PHASE-II-CANONICAL-SYNTHESIS-v1.0.md), [adendos completos v0.2](../design/VISUAL-CONCEPT-DECISIONS-v0.2.md), [registro D03 v0.10](PHASE-III-DECISION-REGISTER-v0.13.md).
+**Fontes:** [Carta Institucional v1.0](../institutional/CHARTER-v1.0.md), [Síntese da Fase II](../design/PHASE-II-CANONICAL-SYNTHESIS-v1.0.md), [adendos completos v0.2](../design/VISUAL-CONCEPT-DECISIONS-v0.2.md), [registro D03 v0.13](PHASE-III-DECISION-REGISTER-v0.13.md).
 
 ## 1. Objetivo
 
@@ -397,7 +397,7 @@ O Command Center deverá refletir soberania, missões, evidências, custos, inte
 
 ## 17. D03-11 C: primeira entrega FCR com soberania explícita (NOVO v0.11)
 
-**Documento de recorte:** [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md). A primeira vertical deverá representar orientação/mandato → missão → alegação/estado → evidência verificável → custo legítimo ou desconhecido → pendência/decisão humana. **Não foi escolhida UI ou software.**
+**Documento de recorte:** [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md). A primeira vertical deverá representar orientação/mandato → missão → alegação/estado → evidência verificável → custo legítimo ou desconhecido → pendência/decisão humana. **Não foi escolhida UI ou software.**
 
 | Fatia funcional candidata | Fonte/domínio | Critério L0 e futura aceitação a ratificar | Bloqueio |
 | --- | --- | --- | --- |
@@ -421,7 +421,7 @@ O Command Center deverá refletir soberania, missões, evidências, custos, inte
 
 ## 18. D03-12 C: requisitos de mandato institucional do primeiro ciclo (NOVO v0.12)
 
-**Escolha do fundador:** mandatos limitados, revogáveis e proporcionais ao risco somente como POLÍTICA DOCUMENTAL, sem missão ou agente real. [Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md), [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md).
+**Escolha do fundador:** mandatos limitados, revogáveis e proporcionais ao risco somente como POLÍTICA DOCUMENTAL, sem missão ou agente real. [Política de Mandatos v0.1](PHASE-III-INSTITUTIONAL-MANDATES-v0.1.md), [FCR v0.2](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md), [CG v0.3](PHASE-III-CONVERGENCE-READINESS-v0.4.md).
 
 | Requisito candidato | Domínio | Critério documental/futuro | Bloqueio |
 | --- | --- | --- | --- |
