@@ -25,7 +25,7 @@
 | KAC-04 | identidade declarada ≠ verificada ≠ sessão ≠ delegação; diferenças entre canais não elevam privilégios | AUT + privacidade/segurança | fonte de identidade e autorização; impersonação/acesso indevido | CG-01/04/06/07 |
 | KAC-05 | pedido ≠ recebido ≠ autorizado ≠ aceito para execução ≠ relatado ≠ efeito verificado | MIS + EVD | estados versionados e prova independente de resultado; falsa conclusão | CG-02/03/06/09 |
 | KAC-06 | evidência com proveniência, versão, limites, contestação/correção; L0 não apresentado como L3/L4 | EVD + revisão independente | origem, revisão, status e verificação; log/autoavaliação indevida | CG-03/04/09 |
-| KAC-07 | acesso/retificação/retensão/eliminação compatíveis com direitos, dados mínimos e terceiros | Privacidade/compliance + AUD | base legítima, finalidade, acesso e retenção; exposição | CG-04/07 |
+| KAC-07 | acesso/retificação/retenção/eliminação compatíveis com direitos, dados mínimos e terceiros | Privacidade/compliance + AUD | base legítima, finalidade, acesso e retenção; exposição | CG-04/07 |
 | KAC-08 | custo medido/estimado/desconhecido e Jev distinguíveis, com unidade/fonte/baseline legítimo | CST + finanças + auditoria | fonte datada e comparação válida; custo fictício/limite violado | CG-03/08/09 |
 | KAC-09 | divergência, atraso, replay, duplicação, falha de fonte/tempo e recuperação geram estado seguro | AUT + contratos + segurança | conflitos/versionamento e comportamento negativo; ato sem elegibilidade | CG-04/06/07/09/11 |
 | KAC-10 | toda representação (FCR/Telegram/voz/relatório) conserva autoridade e direitos e declara defasagem | FCR + AUT + privacidade | fonte legitimada, versão e classificação; canal autônomo | CG-02/06/07/10 |
@@ -39,12 +39,12 @@
 | ID | Domínio e obrigação especializada FUTURA | Prova distinta necessária | Dono funcional proposto | Risco e vínculo |
 | --- | --- | --- | --- | --- |
 | SAC-AUT-01 | emissão/renovação, delegação e reserva humana de mandatos | fonte de autoridade, vigência e limites específicos | AUT + fundador | KAC-01/02/03, MC/IM |
-| SAC-MIS-01 | transição de missão e ações em curso, distinguindo proposta/efeito | evidência por missão e consequência externa | MIS + AUT | KAC-03/05, AC/M C |
+| SAC-MIS-01 | transição de missão e ações em curso, distinguindo proposta/efeito | evidência por missão e consequência externa | MIS + AUT | KAC-03/05, AC/MC |
 | SAC-EVD-01 | revisão/contestação, correções e nível de verificabilidade de cada evidência | trilha de versões/classificação e auditoria independente | EVD + assurance | KAC-05/06, AC/FCR-AC |
 | SAC-CST-01 | preços, tokens, fontes, orçamento e causalidade das economias Jev | unidades, período, gasto e baseline real, quando disponível | CST + finanças | KAC-08, AC/FCR-AC |
 | SAC-FCR-01 | primeira experiência futura de supervisão de leitura, com estados de incerteza visíveis e controle de acesso | proveniência mostrada, não comando funcional | FCR + privacidade | KAC-05/06/07/10, FCR-AC |
 | SAC-CH-01 | ativação condicional individual de Telegram/voz/exports sem poder adicional | identificação, privacidade, riscos e aprovação por canal | AUT + segurança + fundador | KAC-04/09/10, CH-AC |
-| SAC-IC-01 | sessão/identidade/confirmacões/replay e conflito entre meios | contrato semântico e cenários negativos conforme risco | AUT + contratos + segurança | KAC-03/04/05/09, IC-AC |
+| SAC-IC-01 | sessão/identidade/confirmações/replay e conflito entre meios | contrato semântico e cenários negativos conforme risco | AUT + contratos + segurança | KAC-03/04/05/09, IC-AC |
 | SAC-BLD-01 | fábrica de construtores: papéis, execução paralela e risco próprio | DoR/DoD de engenharia, segregação e custo líquido | engenharia + assurance | KAC-11/12, RG/EL |
 
 Não existe implementação real, API, provider, algoritmo de identidade, orçamento ou plataforma escolhida. A primeira vertical segue AUT/MIS/EVD/CST/FCR com o **FCR de leitura/supervisão como futuro recorte inicial**. As especializações são classificações DOCUMENTAIS, não backlog autorizado de software.
