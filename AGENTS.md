@@ -41,7 +41,7 @@ Documentação conceitual FINAL está em [v0.25](docs/design/VISUAL-CONCEPT-DECI
 - **Fase V:** validação operacional e implantação após autorização.
 - **D02-25 C ratificada:** Fase II encerrada com auditoria, síntese, ata e STOP CONDITION; [proposta de transição](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md) não ratificada.
 - O protocolo de decisões [PLANNING-PROTOCOL.md](docs/continuity/PLANNING-PROTOCOL.md) documenta o procedimento histórico da Fase II; não reiniciá-lo automaticamente na Fase III.
-- **Prioridade agora:** consolidar D03-13 C nos critérios CH-AC-01..12 e preparar D03-15 (PENDENTE A/B/C) para decisão humana; avançar MC-01..14 e FCR-AC-01..12 e lacunas CG-01..12 sem encerrar E3/ADRs ou executar software. Manter D03-08 C como política e L0–L4 como prova; ADR-C-01..03 EM ANÁLISE e nenhum modelo, stack, banco, orçamento ou número de agentes aprovado. Não transformar documentação em implementação. Em paralelo, estudar E3-01..04 documentalmente; antes de dados sensíveis, revisar visibilidade pública do repositório observada em 2026-10-15.
+- **Prioridade agora:** consolidar D03-14 C com D03-13 C, relacionar IC-AC-01..12 e CH-AC-01..12 aos mandatos/à primeira vertical e preparar D03-15 (PENDENTE A/B/C) para decisão humana; avançar MC-01..14 e FCR-AC-01..12 e lacunas CG-01..12 sem encerrar E3/ADRs ou executar software. Manter D03-08 C como política e L0–L4 como prova; ADR-C-01..03 EM ANÁLISE e nenhum modelo, stack, banco, orçamento ou número de agentes aprovado. Não transformar documentação em implementação. Em paralelo, estudar E3-01..04 documentalmente; antes de dados sensíveis, revisar visibilidade pública do repositório observada em 2026-10-15.
 
 ## Restrições constitucionais
 
