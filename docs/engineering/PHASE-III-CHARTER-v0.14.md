@@ -50,7 +50,7 @@ Preferir **quatro pacotes concentrados**, ADRs mínimos para decisões materiais
 
 ## 7. Consolidação após D03-02 C
 
-O primeiro incremento foi **delimitado por estratégia vertical**, ligando orientação do fundador, mandato, evidência e custo com verificabilidade. Essa escolha não decide funcionalidades completas ou módulos físicos. Fonte corrente: [Registro de decisões v0.12](PHASE-III-DECISION-REGISTER-v0.14.md). O registro v0.1 permanece imutável.
+O primeiro incremento foi **delimitado por estratégia vertical**, ligando orientação do fundador, mandato, evidência e custo com verificabilidade. Essa escolha não decide funcionalidades completas ou módulos físicos. Fonte corrente: [Registro de decisões v0.14](PHASE-III-DECISION-REGISTER-v0.14.md). O registro v0.1 permanece imutável.
 
 ## 8. Consolidação após D03-03 C
 
@@ -100,7 +100,7 @@ Aprova-se exclusivamente a política DOCUMENTAL de futuras missões instituciona
 
 A [Política Documental de Canais v0.1](PHASE-III-CHANNEL-GOVERNANCE-v0.2.md) complementa D03-11 C e D03-12 C com invariantes, cenários negativos e critérios CH-AC-01..12. **Nenhum SDK, banco, stack, canal, conta, agente, interface, teste, automação ou integração foi selecionado, criado ou autorizado.**
 
-**Estado:** D03-13 C APROVADA SOMENTE DOCUMENTALMENTE; **D03-14 C APROVADA documentalmente** para avaliação posterior. E3-01..04 EM PLANEJAMENTO; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; Fase IV NÃO AUTORIZADA.
+**Estado:** D03-13 C APROVADA SOMENTE DOCUMENTALMENTE; **D03-14 C APROVADA documentalmente**; critérios específicos ainda em avaliação. E3-01..04 EM PLANEJAMENTO; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; Fase IV NÃO AUTORIZADA.
 
 ## 19. D03-14 C — Identidade, confirmações, revogação e conflitos com risco proporcional
 
