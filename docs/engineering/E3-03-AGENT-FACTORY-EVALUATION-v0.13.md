@@ -2,7 +2,7 @@
 
 **Estado:** ANÁLISE COMPARATIVA EM PLANEJAMENTO, SEM ORQUESTRADOR/AGENTES IMPLANTADOS.
 **Mandato:** D03-01 A, somente documentação.
-**Referências:** [Carta v1.0](../institutional/CHARTER-v1.0.md), [E3-01 v0.10](E3-01-CAPABILITY-MAP-v0.12.md), [E3-02 v0.10](E3-02-ARCHITECTURE-EVALUATION-v0.12.md).
+**Referências:** [Carta v1.0](../institutional/CHARTER-v1.0.md), [E3-01 v0.13](E3-01-CAPABILITY-MAP-v0.13.md), [E3-02 v0.13](E3-02-ARCHITECTURE-EVALUATION-v0.13.md).
 
 ## 1. Duas populações distintas
 
@@ -442,7 +442,7 @@ Comparação futura e somente se autorizada deve usar **tempo de início autoriz
 
 ## 18. D03-11 C: distinguir factory construtora de operações institucionais (NOVO v0.11)
 
-D03-11 C define experiência de **Founder Command Center institucional**, mas a D03-08 C rege apenas agentes **construtores**. As duas categorias não herdam escopo, modelos, permissões ou orçamento entre si. [Governança v0.4](PHASE-III-AGENT-GOVERNANCE-v0.4.md) e [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.2.md).
+D03-11 C define experiência de **Founder Command Center institucional**, mas a D03-08 C rege apenas agentes **construtores**. As duas categorias não herdam escopo, modelos, permissões ou orçamento entre si. [Governança v0.4](PHASE-III-AGENT-GOVERNANCE-v0.4.md) e [FCR v0.1](PHASE-III-FOUNDER-COMMAND-CENTER-v0.3.md).
 
 | Fluxo de trabalho FUTURO hipotético | Construtores | Institucionais |
 | --- | --- | --- |
