@@ -71,7 +71,7 @@ As etapas S1..S3 **não foram autorizadas** e não são cronograma, API ou relea
 
 - **C-01:** comparar linguagens/stack também pelo custo de manter contratos independentes de canal; não escolher tecnologia.
 - **C-02:** avaliar fonte de verdade, consistência temporal e histórico legalmente proporcional, sem impor event sourcing nem banco.
-- **C-03:** especificar futuramente contratos para identidade, mandatos, semântica de comandos/confirmacões, erros, versões, negação e evidências acessíveis a cada canal.
+- **C-03:** especificar futuramente contratos para identidade, mandatos, semântica de comandos/confirmações, erros, versões, negação e evidências acessíveis a cada canal.
 - **Riscos:** autenticidade fingida, confusão entre recebimento e efeito, autorização defasada, replay, vazamento em relatório e dependência prematura de fornecedor.
 - **Privacidade:** repositório público; nunca inserir segredos, documentos financeiros privados, dados pessoais não necessários, tokens ou credenciais.
 
