@@ -102,7 +102,7 @@ Os identificadores abaixo são **índices de origem, não critérios novamente a
 
 **DoD CANDIDATO para o DOCUMENTO:** princípios ratificados, cobertura dos IDs históricos, matriz núcleo/especialização, relação com gates, riscos/semântica e handoff; revisão documental e aprovação humana do conteúdo pelo processo futuro. Produzir a proposta e o merge documental **não equivale a cumprir DoD de E3 nem a ratificar o conteúdo completo do catálogo**.
 
-**STOP CONDITION VIGENTE:** E3-01..04 EM PLANEJAMENTO e STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; FCR-AC/MC/CH-AC/IC-AC, KAC/SAC e demais critérios técnicos como propostas; **Fase IV NÃO AUTORIZADA**. Próxima **D03-16 C APROVADA documentalmente** para ordem de tratamento das lacunas de aceitação documental, ainda não escolhida.
+**STOP CONDITION VIGENTE:** E3-01..04 EM PLANEJAMENTO e STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; FCR-AC/MC/CH-AC/IC-AC, KAC/SAC e demais critérios técnicos como propostas; **Fase IV NÃO AUTORIZADA**. **D03-16 C foi ratificada posteriormente como método documental; cenários/DoR/DoD/owners ainda NÃO ACEITOS.**
 
 ## 8. D03-16 C — Ancoragem por risco da fatia AUT/MIS/EVD/CST/FCR
 
