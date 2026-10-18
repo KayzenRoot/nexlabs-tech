@@ -233,11 +233,11 @@ D03-14 C foi ratificada em **2026-10-17** como **método documental integrado e 
 | CG-11 | tratamento de efeitos em trânsito e compensações sem prometer reversão física | PENDENTE |
 | CG-12 | autorização independente de Fase IV, sem promoção por completar documentação | PENDENTE |
 
-**IC-AC-01..12 são candidatos documentais L0, não gates aceitos.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA. **Próxima D03-15 C APROVADA documentalmente A/B/C (racionalização de AC).**
+**IC-AC-01..12 são candidatos documentais L0, não gates aceitos.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA. **D03-15 C ratificada posteriormente somente como método de racionalização de AC; KAC/SAC continuam PROPOSTOS.**
 
 ## D03-15 C — Delta da matriz CG: núcleo KAC e especializações SAC (2026-10-17)
 
-D03-15 C aprova **somente a política DOCUMENTAL L0 de racionalizar critérios comuns sem perda de proteção**. [Núcleo KAC/SAC v0.1](PHASE-III-ACCEPTANCE-CORE-v0.2.md) apresenta KAC-01..12 e SAC específicas, com rastreabilidade dos IDs históricos. **Nenhuma equivalência de prova foi validada, nenhum responsável real designado e nenhum gate promovido.**
+D03-15 C aprova **somente a política DOCUMENTAL L0 de racionalizar critérios comuns sem perda de proteção**. [Núcleo KAC/SAC v0.2](PHASE-III-ACCEPTANCE-CORE-v0.2.md) apresenta KAC-01..12 e SAC específicas, com rastreabilidade dos IDs históricos. **Nenhuma equivalência de prova foi validada, nenhum responsável real designado e nenhum gate promovido.**
 
 | Gates PENDENTES | Rastreio documental proposto | Lacuna que continua ABERTA |
 | --- | --- | --- |
