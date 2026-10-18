@@ -2,9 +2,9 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..15 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-17. **D03-16 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
+**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..16 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-17. **D03-17 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-16 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-17 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado atual em 2026-10-17
 
@@ -55,7 +55,8 @@
 | D03-13: Política de canais neutros ao mandato, ativação progressiva | **APROVADA — C, SOMENTE DOCUMENTAL** |
 | D03-14: Identidade, confirmação, revogação e conflitos por risco | **APROVADA — C, SOMENTE DOCUMENTAL** |
 | D03-15: Núcleo comum de aceitação com especializações por domínio/canal | **APROVADA — C, SOMENTE DOCUMENTAL** |
-| D03-16: Sequência das lacunas de aceitação documental | **PENDENTE (A/B/C, PROPOSTA)** |
+| D03-16: Fatia vertical AUT/MIS/EVD/CST/FCR com riscos críticos, evidências e donos | **APROVADA — C, SOMENTE DOCUMENTAL** |
+| D03-17: Profundidade dos contratos documentais da vertical | **PENDENTE (A/B/C, PROPOSTA)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -103,24 +104,25 @@
 - **D02-25 C APROVADA:** Fase II encerrada após auditoria objetiva e publicação de síntese e ata.
 - **[Proposta de Transição para Fase III v0.1](docs/continuity/PHASE-III-TRANSITION-PROPOSAL-v0.1.md):** pacotes de planejamento, riscos, stacks, módulos, agentes, paralelismo e orçamento, sem escolhas técnicas aprovadas.
 - **Fase III, D03-01 A APROVADA:** planejar requisitos, modularização, alternativas arquiteturais e stacks, segurança, custos, agentes de construção, paralelismo e estratégias de entrega. **E3-01 a E3-04 EM PLANEJAMENTO; nenhuma stack/quantidade de agentes aprovada**.
-- **[Carta de Escopo da Fase III v0.15](docs/engineering/PHASE-III-CHARTER-v0.15.md)** e **[Registro D03 v0.15](docs/engineering/PHASE-III-DECISION-REGISTER-v0.15.md)**: D03-01 A e D03-02..15 C aprovadas; D03-16 pendente (proposta). E3-01..04 EM PLANEJAMENTO e ADR-C-01..03 EM ANÁLISE.
-- **[Mandatos Institucionais v0.4](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.4.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
-- **[Founder Command Center v0.5](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.5.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
+- **[Carta de Escopo da Fase III v0.16](docs/engineering/PHASE-III-CHARTER-v0.16.md)** e **[Registro D03 v0.16](docs/engineering/PHASE-III-DECISION-REGISTER-v0.16.md)**: D03-01 A e D03-02..16 C aprovadas; D03-17 pendente (proposta). E3-01..04 EM PLANEJAMENTO e ADR-C-01..03 EM ANÁLISE.
+- **[Mandatos Institucionais v0.5](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.5.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
+- **[Founder Command Center v0.6](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.6.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
 - **[Política Documental de Canais v0.3](docs/engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.3.md)**: D03-13 C APROVADA em 2026-10-17; fonte de autoridade/mandatos independente do canal, FCR como primeiro meio de supervisão a planejar e Telegram, voz e relatórios condicionais a futura autorização. CH-AC-01..12 PROPOSTOS, nenhum canal implementado.
-- **[Núcleo de Aceitação v0.1](docs/engineering/PHASE-III-ACCEPTANCE-CORE-v0.1.md)**: D03-15 C APROVADA como método DOCUMENTAL; KAC-01..12 + SAC-AUT/MIS/EVD/CST/FCR/CH/IC/BLD PROPOSTOS, matriz de correspondência legada e owners candidatos; sem aprovar critérios ou CG.
+- **[Fatia Vertical de Riscos v0.1](docs/engineering/PHASE-III-RISK-FIRST-VERTICAL-v0.1.md)**: D03-16 C APROVADA somente como método L0; cadeia AUT/MIS/EVD/CST/FCR, etapas V-01..05, cenários VSC-01..10, riscos, donos, evidência FUTURA e gates independentes, sem aceites ou execução.
+- **[Núcleo de Aceitação v0.2](docs/engineering/PHASE-III-ACCEPTANCE-CORE-v0.2.md)**: D03-15 C APROVADA como método DOCUMENTAL; KAC-01..12 + SAC-AUT/MIS/EVD/CST/FCR/CH/IC/BLD PROPOSTOS, matriz de correspondência legada e owners candidatos; sem aprovar critérios ou CG.
 - **[Identidade e Consistência v0.2](docs/engineering/PHASE-III-IDENTITY-CONSISTENCY-v0.2.md)**: D03-14 C aprovada apenas documentalmente (identidade, confirmação, revogação, conflitos e risco proporcional). IC-AC-01..12 PROPOSTOS, sem autenticação, sessões, comandos, testes ou canais conectados.
-- **[Matriz de Convergência e Prontidão v0.6](docs/engineering/PHASE-III-CONVERGENCE-READINESS-v0.6.md)**: CG-01..CG-12 ainda PENDENTES, efeitos D03-12, STOP CONDITIONS NÃO ATENDIDAS. Nenhuma tecnologia, agentes ou Fase IV ratificados.
+- **[Matriz de Convergência e Prontidão v0.7](docs/engineering/PHASE-III-CONVERGENCE-READINESS-v0.7.md)**: CG-01..CG-12 ainda PENDENTES, efeitos D03-12, STOP CONDITIONS NÃO ATENDIDAS. Nenhuma tecnologia, agentes ou Fase IV ratificados.
 - **[Plano de Governança de Agentes v0.7](docs/engineering/PHASE-III-AGENT-GOVERNANCE-v0.7.md)**: distinção explícita construtores/institucionais, mandatos, custos e revisão, sem agentes criados.
 - **[Plano de Paralelismo Elástico v0.1](docs/engineering/PHASE-III-ELASTIC-PARALLELISM-v0.1.md)**: cenários S0/S1/S2/SD, dependências, custo líquido e regras de STOP, sem quantidades.
 - [Carta v0.6](docs/engineering/PHASE-III-CHARTER-v0.6.md) e [Registro D03 v0.6](docs/engineering/PHASE-III-DECISION-REGISTER-v0.6.md): histórico anterior preservado.
-- **[Pacote Convergente de ADRs v0.10](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.10.md)**: C-01 stack, C-02 persistência, C-03 contratos, revogação e autoridade temporal; EM ANÁLISE, sem vencedores.
+- **[Pacote Convergente de ADRs v0.11](docs/engineering/PHASE-III-CONVERGENT-ADR-PACK-v0.11.md)**: C-01 stack, C-02 persistência, C-03 contratos, revogação e autoridade temporal; EM ANÁLISE, sem vencedores.
 - **[Plano de Evidências em Camadas v0.1](docs/engineering/PHASE-III-EVIDENCE-LADDER-v0.1.md)**: L0 documentação, L1 cenário sintético futuro, L2 teste controlado futuro, L3 fonte real futura autorizada, L4 efeito operacional verificado; nenhum dado ou teste criado.
 - [Carta v0.5](docs/engineering/PHASE-III-CHARTER-v0.5.md) e [Registro D03 v0.5](docs/engineering/PHASE-III-DECISION-REGISTER-v0.5.md): históricos preservados.
 - [Carta v0.4](docs/engineering/PHASE-III-CHARTER-v0.4.md) e [Registro D03 v0.4](docs/engineering/PHASE-III-DECISION-REGISTER-v0.4.md): históricos preservados.
 - [Carta v0.3](docs/engineering/PHASE-III-CHARTER-v0.3.md) e [Registro D03 v0.3](docs/engineering/PHASE-III-DECISION-REGISTER-v0.3.md): históricos preservados.
 - [Carta Fase III v0.2](docs/engineering/PHASE-III-CHARTER-v0.2.md) e [Registro D03 v0.2](docs/engineering/PHASE-III-DECISION-REGISTER-v0.2.md): versões históricas preservadas.
 - Versões históricas preservadas: [Carta v0.1](docs/engineering/PHASE-III-CHARTER-v0.1.md) e [Registro D03 v0.1](docs/engineering/PHASE-III-DECISION-REGISTER-v0.1.md).
-- **[E3-01: Requisitos v0.15](docs/engineering/E3-01-CAPABILITY-MAP-v0.15.md)**; **[E3-02: Arquitetura v0.15](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.15.md)**; **[E3-03: Agentes v0.15](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.15.md)**; **[E3-04: Segurança v0.15](docs/engineering/E3-04-READINESS-AND-GATES-v0.15.md)**: mandatos institucionais, casos MC, contratos, DoR/DoD e STOP CONDITIONS, todos EM PLANEJAMENTO.
+- **[E3-01: Requisitos v0.16](docs/engineering/E3-01-CAPABILITY-MAP-v0.16.md)**; **[E3-02: Arquitetura v0.16](docs/engineering/E3-02-ARCHITECTURE-EVALUATION-v0.16.md)**; **[E3-03: Agentes v0.16](docs/engineering/E3-03-AGENT-FACTORY-EVALUATION-v0.16.md)**; **[E3-04: Segurança v0.16](docs/engineering/E3-04-READINESS-AND-GATES-v0.16.md)**: mandatos institucionais, casos MC, contratos, DoR/DoD e STOP CONDITIONS, todos EM PLANEJAMENTO.
 - **Fase IV, proposta:** implementação modular, testes e integração mediante autorização expressa posterior.
 - **Fase V, proposta:** validação operacional, implantação e melhoria observada com evidências.
 
@@ -136,6 +138,8 @@ A Carta da Fase I prevalece sobre escolhas de design. O fundador mantém soberan
 
 A Fase II está encerrada. D03-01 A autoriza **somente planejamento documental de engenharia**; implementar software e iniciar Fase IV exigem autorização humana adicional, registro e handoff. **Nenhum produto, stack, imagem, protótipo, código, infraestrutura, voz ou serviço Telegram foi criado em decorrência da Fase II.**
 
-**Checkpoint histórico D03-14 C (2026-10-17):** aprovação DOCUMENTAL preservada; ver checkpoint corrente D03-15 C.
+**Checkpoint histórico D03-14 C (2026-10-17):** aprovação DOCUMENTAL preservada; ver checkpoint corrente D03-16 C.
 
-**Checkpoint corrente NX-P3-D03-15 (2026-10-17):** D03-15 C aprovada como MÉTODO DOCUMENTAL L0 de KAC/SAC; D03-16 A/B/C PENDENTE. E3-01..04 EM PLANEJAMENTO, CG-01..12 SEM ACEITE FINAL, ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA.
+**Checkpoint histórico NX-P3-D03-15 (2026-10-17):** D03-15 C aprovada como MÉTODO DOCUMENTAL L0 de KAC/SAC; D03-16 C ratificada posteriormente como método documental; critérios seguem não aceitos. E3-01..04 EM PLANEJAMENTO, CG-01..12 SEM ACEITE FINAL, ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA.
+
+**Checkpoint corrente NX-P3-D03-16 (2026-10-17):** D03-16 C aprovada SOMENTE COMO MÉTODO DOCUMENTAL L0 da fatia de riscos AUT/MIS/EVD/CST/FCR. **D03-17 A/B/C PENDENTE**, sem escolha presumida. E3-01..04 EM PLANEJAMENTO e STOP CONDITIONS NÃO ATENDIDAS; CG-01..12 SEM ACEITE FINAL, ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA.
