@@ -138,7 +138,7 @@ A Carta da Fase I prevalece sobre escolhas de design. O fundador mantém soberan
 
 A Fase II está encerrada. D03-01 A autoriza **somente planejamento documental de engenharia**; implementar software e iniciar Fase IV exigem autorização humana adicional, registro e handoff. **Nenhum produto, stack, imagem, protótipo, código, infraestrutura, voz ou serviço Telegram foi criado em decorrência da Fase II.**
 
-**Checkpoint histórico D03-14 C (2026-10-17):** aprovação DOCUMENTAL preservada; ver checkpoint corrente D03-15 C.
+**Checkpoint histórico D03-14 C (2026-10-17):** aprovação DOCUMENTAL preservada; ver checkpoint corrente D03-16 C.
 
 **Checkpoint histórico NX-P3-D03-15 (2026-10-17):** D03-15 C aprovada como MÉTODO DOCUMENTAL L0 de KAC/SAC; D03-16 C ratificada posteriormente como método documental; critérios seguem não aceitos. E3-01..04 EM PLANEJAMENTO, CG-01..12 SEM ACEITE FINAL, ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA.
 
