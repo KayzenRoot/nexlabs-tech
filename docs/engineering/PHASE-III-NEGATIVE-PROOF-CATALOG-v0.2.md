@@ -96,9 +96,9 @@ Uma futura evidência deverá distinguir origem/autoria, integridade de registro
 
 **Pendências:** equivalência semântica dos 99 IDs históricos não demonstrada, fonte/owner concreto não escolhido, critérios negativos sujeitos a revisão legal/segurança, ADRs sem ratificação, custos/Jev não medidos, testes de software não autorizados, nenhuma evidência L2+ coletada. **Nenhum compromisso de teste, execução ou implementação está agendado.**
 
-**STOP CONDITION:** **E3-01..04 EM PLANEJAMENTO; STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; Fase IV NÃO AUTORIZADA.** Próxima **D03-20 A/B/C** permanece SOMENTE PROPOSTA e não pode ser presumida como escolha do fundador.
+**STOP CONDITION:** **E3-01..04 EM PLANEJAMENTO; STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; Fase IV NÃO AUTORIZADA.** Próxima **D03-20 C foi ratificada posteriormente apenas como MÉTODO DOCUMENTAL; os critérios continuam PROPOSTOS e NÃO ACEITOS**.
 
-## 8. D03-20 C — Governaça documental de origem, revisão e decisão dos NPV
+## 8. D03-20 C — Governança documental de origem, revisão e decisão dos NPV
 
 [Matriz EGV v0.1](PHASE-III-EVIDENCE-GOVERNANCE-v0.1.md) relaciona EGV-01..16 a NPV-01..16, CFX-01..16, SEM e KAC/SAC, exigindo identificação de **origem/alegação ≠ prova do efeito ≠ revisão independente ≠ decisão por critério ≠ decisão por gate**. O método foi aprovado por D03-20 C exclusivamente como DOCUMENTAÇÃO L0.
 
