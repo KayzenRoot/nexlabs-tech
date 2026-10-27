@@ -126,7 +126,7 @@ A ficha não é formato JSON ou schema, não contém dado pessoal, segredo, toke
 
 **DoR de uma futura revisão material, CANDIDATO:** papel de origem, dono do risco, direitos, legitimidade de acesso, versão/tempo, classe de evidência e fonte externa, critérios específicos, independência do revisor, autoridade de aceite e gate individual legitimados. **DoD FUTURO CANDIDATO:** prova suficiente e efetivamente coletada em fase autorizada, contestação e privacidade consideradas, revisão materialmente independente quando exigida, veredito explícito por critério e por gate, sem lacunas críticas não resolvidas. **Nenhum DoD material foi atingido.**
 
-**Gates PENDENTES:** CG-01..12, FCG/MG e STOP CONDITIONS dos E3. **ADRs EM ANÁLISE:** C-01/02/03. **Autorização de Fase IV AUSENTE**, logo não criar software, testes de código, bancos, identidade real, serviços, apps, APIs, agentes, acesso a fontes, automações, notificações ou gastos. Próxima **D03-21 A/B/C** é somente proposta para decisão futura, não escolhida.
+**Gates PENDENTES:** CG-01..12, FCG/MG e STOP CONDITIONS dos E3. **ADRs EM ANÁLISE:** C-01/02/03. **Autorização de Fase IV AUSENTE**, logo não criar software, testes de código, bancos, identidade real, serviços, apps, APIs, agentes, acesso a fontes, automações, notificações ou gastos. A D03-21 C foi posteriormente ratificada SOMENTE COMO MÉTODO DOCUMENTAL L0; CG, evidências e owners continuam não aceitos/não designados.
 
 **STOP CONDITION:** D03-20 C RATIFICADA APENAS COMO MÉTODO DOCUMENTAL L0. EGV-01..16, EGV-AC-01..12, EGV-RV-01..08, responsáveis e estados de evidência seguem **PROPOSTOS L0/NÃO ACEITOS**. E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL. **Fase IV NÃO AUTORIZADA.**
 
