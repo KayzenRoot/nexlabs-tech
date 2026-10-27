@@ -2,7 +2,7 @@
 **Work Order:** `NX-P3-D03-23`. **Decisão explícita do fundador:** D03-23 **C APROVADA** em 2026-10-27, **SOMENTE como MÉTODO DOCUMENTAL L0**. A matriz, seus planos condicionais e suas contraprovas são **CANDIDATOS NÃO ACEITOS**; não há fonte, autoridade, teste ou execução material aprovada.
 **Autoridade superior:** [Constituição Institucional v1.0](../institutional/CHARTER-v1.0.md) e [Registro D03 v0.23](PHASE-III-DECISION-REGISTER-v0.23.md).
 **Fontes:** [HDM v0.1](PHASE-III-HUMAN-DELIBERATION-v0.1.md), [GPR v0.2](PHASE-III-GATE-READINESS-v0.2.md), [CG v0.13](PHASE-III-CONVERGENCE-READINESS-v0.13.md), [ADR v0.17](PHASE-III-CONVERGENT-ADR-PACK-v0.17.md), [EGV v0.3](PHASE-III-EVIDENCE-GOVERNANCE-v0.3.md), [NPV v0.4](PHASE-III-NEGATIVE-PROOF-CATALOG-v0.4.md), [KAC/SAC v0.8](PHASE-III-ACCEPTANCE-CORE-v0.8.md), [Carta de Escopo v0.23](PHASE-III-CHARTER-v0.23.md).
-**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack, recurso financeiro ou Fase IV autorizado.
+**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack ou recurso financeiro aprovado. **Fase IV NÃO AUTORIZADA.**
 
 ## 1. Propósito, sem aceitar evidência ou contratar compromissos
 Consolidar **impasses documentais** AUT/MIS/EVD/CST/FCR por risco e dependência, com contraprova *a planejar*, responsável **FUNCIONAL PROPOSTO** e decisão **HUMANA FUTURA** por CG, mantendo estados `DOC_L0 / PROVA_AUSENTE / OWNER_NAO_DESIGNADO / REVISAO_PENDENTE / DECISAO_PENDENTE / STOP_ATIVO`. Este texto não cria contas, papéis reais, alçadas, ordens, prazos, SLAs, taxas de falha, instrumentos jurídicos, controles técnicos, algoritmos, teste, gastos ou projeto de implementação. O significado de risco é qualitativo e reexaminável.
@@ -95,7 +95,7 @@ Para cada `IMP-NN`, antes de qualquer pedido legítimo futuro, requisitar **font
 ## 8. Evidências desta Work Order e limites
 **Fonte inicial de Context Lock:** `main` `1d133139dfaa4d4ea2e4e9c095c74bbf766d05eb`, fontes SHA-blobs HDM `e27c431f902f7010cd5d6ebd4cbd7d1d1c542aaa`, GPR `9dbeb86933ab534171bb62dc9ee772c4c397de1e`, Registro D03 `e1d37bcabed14bd7a3f2f3f951d6c9dc2222d858` e Carta III `984725f2c95bd6d094335231244d72dca86d3cfb`. O HEAD final e o diff devem ser confirmados no GitHub, não inferidos desta página. A auditoria estática poderá confirmar presença e coerência L0, **não** aceites técnicos, auditoria independente ou efeitos reais.
 **NOT_RUN:** testes de software, negativos materiais, build, lint de produto, medição financeira, validação legal, testes de autenticação, simulações operacionais, APIs, canais, agentes, recuperação real, segurança operacional, benchmarks, deploy.
-**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack, recurso financeiro ou Fase IV autorizado.
+**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack ou recurso financeiro aprovado. **Fase IV NÃO AUTORIZADA.**
 
 ## 9. D03-24 A/B/C proposta para deliberação posterior (NÃO RATIFICADA)
 **Questão:** qual método documental aprofunda primeiro a preparação das decisões humanas, mantendo o dossiê e todos os STOPs?
