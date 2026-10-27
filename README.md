@@ -2,11 +2,11 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..22 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-27. **D03-23 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
+**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..23 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-27. **D03-24 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-23 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-24 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
-## Estado atual em 2026-10-17
+## Estado do planejamento em 2026-10-27
 
 | Tema | Estado |
 | --- | --- |
@@ -62,7 +62,8 @@
 | D03-20: Evidências, proveniência, segregação, contestação e aceites independentes | **APROVADA — C, SOMENTE DOCUMENTAL** |
 | D03-21: Prontidão documental por CG-01..12, E3, ADR, provas ausentes e STOP | **APROVADA — C, SOMENTE DOCUMENTAL** |
 | D03-22: Deliberação humana, conflitos de competência e prioridades de CG | **APROVADA — C, SOMENTE DOCUMENTAL** |
-| D03-23: Consolidação de dependências e impasses humanos | **PENDENTE (A/B/C, PROPOSTA)** |
+| D03-23: Dossiê de impasses por risco, contraprovas e atos humanos futuros | **APROVADA — C, SOMENTE DOCUMENTAL L0** |
+| D03-24: Método de preparação das decisões humanas futuras | **PENDENTE (A/B/C, PROPOSTA)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -114,6 +115,7 @@
 - **[Mandatos Institucionais v0.11](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.11.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
 - **[Founder Command Center v0.12](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.12.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
 - **[Política Documental de Canais v0.9](docs/engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.9.md)**: D03-13 C APROVADA em 2026-10-17; fonte de autoridade/mandatos independente do canal, FCR como primeiro meio de supervisão a planejar e Telegram, voz e relatórios condicionais a futura autorização. CH-AC-01..12 PROPOSTOS, nenhum canal implementado.
+- **[Dossiê de Impasses v0.1](docs/engineering/PHASE-III-IMPASSE-DOSSIER-v0.1.md):** D03-23 C, IMP-01..12/CG-01..12, CONTRA-01..12 e PLANO-01..12 CANDIDATOS L0; contraprovas NOT_RUN, donos não designados, todos STOPs ativos.
 - **[Matriz de Deliberação Humana v0.1](docs/engineering/PHASE-III-HUMAN-DELIBERATION-v0.1.md)**: D03-22 C APROVADA SOMENTE COMO MÉTODO DOCUMENTAL L0, HDM-01..12 ↔ CG-01..12, D-HUM-01..08, HDM-AC-01..08 PROPOSTOS; conflitos, prioridades qualitativas, fonte, dono funcional não nomeado, escalada futura e STOP. Nenhuma alçada ou aceite real.
 - **[Matriz de Prontidão por Gates v0.2](docs/engineering/PHASE-III-GATE-READINESS-v0.2.md)**: D03-21 C APROVADA como MÉTODO DOCUMENTAL L0, GPR-01..12 ↔ CG-01..12 e GPR-AC-01..08 PROPOSTOS; relaciona E3/ADR, fontes, provas AUSENTES, donos funcionais, decisão humana futura e STOP. **Todos CG/STOP pendentes**, sem Fase IV.
 - **[Governança Transversal de Evidências v0.3](docs/engineering/PHASE-III-EVIDENCE-GOVERNANCE-v0.3.md)**: D03-20 C APROVADA SOMENTE COMO MÉTODO DOCUMENTAL L0; EGV-01..16, EGV-AC-01..12, EGV-RV-01..08 PROPOSTOS; proveniência, contestação, direitos, papéis/revisão independentes e aceites específicos por CG. Nenhum controle ou teste autorizado.
@@ -166,4 +168,6 @@ A Fase II está encerrada. D03-01 A autoriza **somente planejamento documental d
 
 **Checkpoint histórico NX-P3-D03-21 (2026-10-27):** D03-21 C APROVADA exclusivamente como MÉTODO DOCUMENTAL L0 de prontidão CG-01..12; GPR-01..12/GPR-AC-01..08 com prova AUSENTE, owner FUNCIONAL PROPOSTO, aceites humanos PENDENTES e STOP ATIVO. **D03-22 C ratificada posteriormente SOMENTE como método DOCUMENTAL.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; Fase IV NÃO AUTORIZADA.
 
-**Checkpoint corrente NX-P3-D03-22 (2026-10-27):** D03-22 C APROVADA SOMENTE COMO MÉTODO DOCUMENTAL L0 de deliberação HUMANA e resolução de lacunas CG. HDM-01..12, HDM-AC-01..08 e D-HUM-01..08 PROPOSTOS, prioridades V-RC/RA e conflitos de competência sem autorização real. **D03-23 A/B/C PENDENTE**, nenhum critério aceito. E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12/FCG/MG SEM ACEITE; Fase IV NÃO AUTORIZADA.
+**Checkpoint histórico NX-P3-D03-22 (2026-10-27):** D03-22 C APROVADA SOMENTE COMO MÉTODO DOCUMENTAL L0 de deliberação HUMANA e resolução de lacunas CG. HDM-01..12, HDM-AC-01..08 e D-HUM-01..08 PROPOSTOS, prioridades V-RC/RA e conflitos de competência sem autorização real. **D03-23 A/B/C PENDENTE**, nenhum critério aceito. E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12/FCG/MG SEM ACEITE; Fase IV NÃO AUTORIZADA.
+
+**Checkpoint corrente NX-P3-D03-23 (2026-10-27):** D03-23 C APROVADA SOMENTE como método DOCUMENTAL L0. [Dossiê IMP v0.1](docs/engineering/PHASE-III-IMPASSE-DOSSIER-v0.1.md), [Registro D03 v0.23](docs/engineering/PHASE-III-DECISION-REGISTER-v0.23.md) e [Carta Fase III v0.23](docs/engineering/PHASE-III-CHARTER-v0.23.md) são canônicos para esta decisão. 12 impasses, 12 contraprovas FUTURAS NOT_RUN, 12 planos condicionais NÃO_EXECUTADOS; owners reais não designados. **D03-24 A/B/C PENDENTE**. E3-01..04 EM PLANEJAMENTO e STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12/FCG/MG SEM ACEITE; Fase IV NÃO AUTORIZADA.
