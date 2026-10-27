@@ -6,7 +6,7 @@
 
 ## 1. Fronteira da decisão, sem atribuir poderes
 Esta agenda organiza **perguntas e precedências de informação**. Nenhuma linha cria ordem vinculante de execução, cronograma, SLA, atividade com dados reais, nomeação, mandato, escolha de stack, API, banco, contrato, gasto, teste operacional, notificação, intervenção, software ou autorização de Fase IV. A prioridade V-RC/RA já proposta no HDM é qualitativa, sujeita a reavaliação legítima; não se transforma em probabilidade, aceitação automática ou data de entrega.
-**Precedência documental ≠ dependência de deploy ≠ critério aprovado ≠ aceite de gate ≠ aprovação da Fase IV.** Estudos podem ser examinados em paralelo somente como documento, sem inferir que um gate está atendido. Qualquer fonte/versão/identidade/direito/efeito/medição ausente mantém INCONCLUSIVO e STOP. Esta matriz **não substitui nem altera** o escopo ou a decisão individual de CG, E3, ADR, KAC/SAC ou 99 IDs históricos.
+**ADR-C-01..03 EM ANÁLISE** e sem escolha técnica ratificada. **Precedência documental ≠ dependência de deploy ≠ critério aprovado ≠ aceite de gate ≠ aprovação da Fase IV.** Estudos podem ser examinados em paralelo somente como documento, sem inferir que um gate está atendido. Qualquer fonte/versão/identidade/direito/efeito/medição ausente mantém INCONCLUSIVO e STOP. Esta matriz **não substitui nem altera** o escopo ou a decisão individual de CG, E3, ADR, KAC/SAC ou 99 IDs históricos.
 
 ### Work Order | autorização estrita
 | Campo | Contrato verificável |
