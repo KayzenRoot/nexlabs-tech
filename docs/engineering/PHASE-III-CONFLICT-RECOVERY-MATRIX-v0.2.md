@@ -116,7 +116,7 @@ Essa cobertura é **nominal e conceitual**. Não demonstra equivalência materia
 
 **Ratificado pelo fundador:** D03-18 C, MÉTODO DOCUMENTAL integrado por riscos. **Não ratificados materialmente:** CFX-01..16, CFX-REC, CFX-AC-01..08, donos reais, classificação final de risco, decisões de recuperação, tempos, tecnologias e testes. Qualquer autorização operacional futura requer governança humana legítima, orçamento/direitos e gate correspondente.
 
-**STOP CONDITION VIGENTE:** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; KAC/SAC, SEM-AC e CFX-AC PROPOSTOS L0. **Fase IV NÃO AUTORIZADA.** D03-19 permanece pergunta estratégica PROPOSTA A/B/C, sem escolha presumida.
+**STOP CONDITION VIGENTE:** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; CG-01..12 SEM ACEITE FINAL; KAC/SAC, SEM-AC e CFX-AC PROPOSTOS L0. **Fase IV NÃO AUTORIZADA.** D03-19 C foi posteriormente ratificada somente como MÉTODO DOCUMENTAL L0; NPV/CFX e critérios permanecem PROPOSTOS, sem aceite material.
 
 ## 10. D03-19 C — Provas negativas para cada CFX (somente catálogo documental)
 
