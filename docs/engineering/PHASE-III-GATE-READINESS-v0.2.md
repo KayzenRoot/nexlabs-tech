@@ -81,7 +81,7 @@ Para uma decisão FUTURA por gate, exigir um dossiê **conceitual** com: `gate_i
 3. **Decisão:** um gate específico só muda de estado mediante revisão competente, evidência realmente suficiente, aceitação explícita individual e read-back autorizado; esta D03 **não propõe executar esse ato**.
 4. **Divergência/indisponibilidade:** `INCONCLUSIVO` não vira sucesso ou autorização por falta de dado. Efeito em trânsito pode existir após timeout, e revogação não o desfaz retroativamente.
 5. **STOP:** nenhum novo serviço, código, API, autenticação, ferramenta, bot, agente, identidade real, canal, workflow, teste de software, gasto, contrato técnico ou deploy sem autorização de fase separada e requisitos aplicáveis.
-6. **Próximo checkpoint:** D03-22 A/B/C é somente proposta de aprofundamento DOCUMENTAL, sem escolha presumida.
+6. **Próximo checkpoint:** D03-22 C foi ratificada posteriormente apenas como MÉTODO DOCUMENTAL L0; HDM, provas e gates permanecem propostos/pendentes.
 
 ## 7. Veredito documental atual
 
