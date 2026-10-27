@@ -145,7 +145,7 @@ Os identificadores abaixo são **índices de origem, não critérios novamente a
 | KAC-07/10, SAC-FCR/CH, CH-AC/FCR-AC | CFX-11/12/13 | CG-02/07/10/12 |
 | KAC-11/12 e semântica de versão/aceite | CFX-14/15/16 | CG-03/04/06/07/09/11/12 |
 
-**Reutilizar fonte de evidência não aprova outro domínio; riscos materiais/rights/owners e CG continuam específicos**. Catálogos anteriores AC/MC/FCR-AC/CH-AC/IC-AC/RG/EL/IM preservados, cobertura semântica ainda não provada. **CFX-AC, SEM-AC e KAC/SAC PROPOSTOS L0; D03-19 C APROVADA documentalmente; Fase IV NÃO AUTORIZADA.**
+**Reutilizar fonte de evidência não aprova outro domínio; riscos materiais/direitos/responsáveis e CG continuam específicos**. Catálogos anteriores AC/MC/FCR-AC/CH-AC/IC-AC/RG/EL/IM preservados, cobertura semântica ainda não provada. **CFX-AC, SEM-AC e KAC/SAC PROPOSTOS L0; D03-19 C APROVADA documentalmente; Fase IV NÃO AUTORIZADA.**
 
 ## 11. D03-19 C — Regras contra aprovação circular entre catálogos
 
