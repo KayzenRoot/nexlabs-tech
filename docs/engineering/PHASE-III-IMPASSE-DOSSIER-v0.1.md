@@ -1,0 +1,105 @@
+# NexLabs Technology — Dossiê Integrado de Impasses e Dependências v0.1
+**Work Order:** `NX-P3-D03-23`. **Decisão explícita do fundador:** D03-23 **C APROVADA** em 2026-10-27, **SOMENTE como MÉTODO DOCUMENTAL L0**. A matriz, seus planos condicionais e suas contraprovas são **CANDIDATOS NÃO ACEITOS**; não há fonte, autoridade, teste ou execução material aprovada.
+**Autoridade superior:** [Constituição Institucional v1.0](../institutional/CHARTER-v1.0.md) e [Registro D03 v0.23](PHASE-III-DECISION-REGISTER-v0.23.md).
+**Fontes:** [HDM v0.1](PHASE-III-HUMAN-DELIBERATION-v0.1.md), [GPR v0.2](PHASE-III-GATE-READINESS-v0.2.md), [CG v0.13](PHASE-III-CONVERGENCE-READINESS-v0.13.md), [ADR v0.17](PHASE-III-CONVERGENT-ADR-PACK-v0.17.md), [EGV v0.3](PHASE-III-EVIDENCE-GOVERNANCE-v0.3.md), [NPV v0.4](PHASE-III-NEGATIVE-PROOF-CATALOG-v0.4.md), [KAC/SAC v0.8](PHASE-III-ACCEPTANCE-CORE-v0.8.md), [Carta de Escopo v0.23](PHASE-III-CHARTER-v0.23.md).
+**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack, recurso financeiro ou Fase IV autorizado.
+
+## 1. Propósito, sem aceitar evidência ou contratar compromissos
+Consolidar **impasses documentais** AUT/MIS/EVD/CST/FCR por risco e dependência, com contraprova *a planejar*, responsável **FUNCIONAL PROPOSTO** e decisão **HUMANA FUTURA** por CG, mantendo estados `DOC_L0 / PROVA_AUSENTE / OWNER_NAO_DESIGNADO / REVISAO_PENDENTE / DECISAO_PENDENTE / STOP_ATIVO`. Este texto não cria contas, papéis reais, alçadas, ordens, prazos, SLAs, taxas de falha, instrumentos jurídicos, controles técnicos, algoritmos, teste, gastos ou projeto de implementação. O significado de risco é qualitativo e reexaminável.
+
+### Work Order de planejamento (autorização restrita)
+| Campo | Contrato |
+| --- | --- |
+| OBJECTIVE | Consolidar impasses por CG, risco, prova negativa futura e ato humano ainda necessário |
+| CONTEXT | Fases I/II encerradas; Fase III somente planejamento D03-01 A; D03-02..23 C conforme registro; BASE no commit GitHub validado |
+| SCOPE | Markdown L0, 12 CG, E3-01..04, ADR-C-01..03, KAC/SAC/HDM/GPR/EGV/NPV e fontes por risco; atualizar registro e continuidade |
+| OUT OF SCOPE | Software, protótipos, testes operacionais, usuários reais, nomeações, contratação, métricas inventadas, aceites materiais, orçamento, deploy e Fase IV |
+| FILES/SOURCES TO READ | Constituição v1.0; AGENTS; README; CHAT-HANDOFF; D03 v0.22; Carta III v0.22; HDM v0.1; GPR v0.2; CG v0.13; E3-01..04 v0.22; ADR v0.17 |
+| REQUIREMENTS | Um IMP/CONTRA/PLANO por gate com riscos/direitos, dependências, fonte, owner FUNCIONAL, decisor humano FUTURO, critérios e STOP sem elevação de status |
+| ARCHITECTURE RULES | Separar relato, evidência, revisão independente, aceite de critério, gate e transição de fase; sem tecnologia ou persistência escolhidas |
+| CONSTRAINTS | Fonte de verdade Git acima de memória; preservar decisões; versionar apenas documentos pertinentes; sem força/bypass e sem promover checkpoint antes de auditoria |
+| ACCEPTANCE CRITERIA | 12/12 CG explicitamente correlacionados; três ADR abertos; quatro E3 abertos; STOP global e local; contraprovas identificadas como futuras; nenhuma aprovação implícita |
+| TESTS | Validação estática documental de referências/links/IDs/estados e diff; CI somente quando existir e com conclusão observada; operações e benchmarks NOT_RUN |
+| DELIVERABLES | Dossiê v0.1, Registro v0.23, Escopo v0.23, índice e handoff após auditoria; PR documental e Evidence Bundle no corpo da PR |
+| REVIEW FORMAT | HEAD/base e fingerprints, arquivos, rastreio, testes estáticos, risco, links, CI, reviews, resultado APPROVED/CORRECTION REQUIRED/BLOCKED |
+| STOP CONDITION | Corrigir qualquer contradição antes de avançar; não promover aceite de CG/E3/ADR nem Fase IV; não fazer merge se checks/regras GitHub impedirem |
+
+## 2. Camadas da deliberação e estados distintos
+1. **Alegação/relato:** texto que apresenta risco ou efeito, nunca é prova do efeito.
+2. **Fonte e evidência FUTURAS:** origem legítima, data/versão, direitos e limites ainda não coletados nem validados.
+3. **Contraprova FUTURA:** cenário adverso candidato, **NÃO_EXECUTADO**. Um caso descrito não demonstra sua prevenção.
+4. **Revisor independente FUTURO:** não identificado nem designado; não substituir por autor, automação, merge ou CI.
+5. **Decisor humano competente FUTURO:** autoridade demonstrável a identificar por ato/direito; função sugerida não equivale a nomeação.
+6. **Aceite de critério, CG, FCG/MG, E3, ADR e fase:** atos individuais não herdados uns dos outros. Só o fundador pode autorizar transição de fase em deliberação separada.
+
+## 3. Dossiê IMP-01..12, contraprovas e planos CONDICIONAIS
+Todas as 12 linhas são **DOCUMENTAIS / CANDIDATAS**. As fontes vinculadas são referências de plano, **não evidências confirmadas**. O responsável é sempre **FUNÇÃO NÃO DESIGNADA**. Em caso de conflito de direito, de competência ou de efeito externo, conservar `PENDENTE`, `CONFLITANTE` ou `INCONCLUSIVO` e `STOP_ATIVO`. O plano não é procedimento executável.
+
+| Impasse / gate | Questão documental | Fontes candidatas HDM/GPR/E3/ADR | Risco proposto | Lacuna material AUSENTE | Owner FUNCIONAL NÃO DESIGNADO | Decisor HUMANO FUTURO, NÃO NOMEADO | Contraprova FUTURA, NOT_RUN | Plano condicional, NÃO EXECUTADO | Estado |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| IMP-01 / CG-01 | AUT · mandatos/competência | GPR-01; E3-01/04; SEM-01/02; EGV-01 | V-RC | Ausentes fonte de autoridade material, prova de identidade/validade, alçada, owner independente e aceite | AUT + segurança + fundador (funções futuras) | autoridade legítima e fundador nos atos reservados; aceites próprios por critério e CG | CONTRA-01: Mandato expirado/revogado, origem inconclusiva ou canal alegando poder: impedir conclusão de autoridade; contraprova FUTURA de negação segura por competência legítima. | PLANO-01: Se autoridade, identidade, vigência e reserva de decisão forem legitimamente comprovadas no futuro, encaminhar política ao decisor humano competente; caso contrário PENDENTE/CONFLITANTE. | PENDENTE / STOP_ATIVO |
+| IMP-02 / CG-02 | FCR consultivo/escopo | GPR-02; E3-01/04; FCR-AC; EGV-11/13 | V-RC | Ausentes delimitação material do MVP, direitos de consulta, critérios por canal, fonte e revisão independente | FCR + AUT + privacidade (funções futuras) | fundador/decisor legitimado aprova escopo, direitos e acesso; cada canal separadamente | CONTRA-02: Consulta FCR transformada em ordem ou terceiro sem direito de leitura: exigir separação verificável de escopo, fonte e autorização por canal, FUTURAMENTE. | PLANO-02: Se escopo de leitura, titulares e limites por canal forem ratificados, submeter decisão própria do CG-02; se leitura implicar comando, manter STOP. | PENDENTE / STOP_ATIVO |
+| IMP-03 / CG-03 | KAC/SAC e critérios históricos | GPR-03; E3-01/04; KAC-01..12; SAC; NPV-16 | V-RA | Ausente equivalência semântica material e aceite dos 99 IDs legados, fontes/owners e prova independente | E3-04 + assurance + donos por domínio (funções futuras) | decisores competentes em cada especialização e gate, não um aceite global | CONTRA-03: Mesmo ID nominal em KAC/SAC com significado, fonte ou direitos diferentes: comparação semântica item a item e contraditório independente FUTUROS, sem colapso dos 99 legados. | PLANO-03: Se cada requisito legado tiver rastreio semântico, direitos, fonte e decisão independente de critério, submeter CG-03 individualmente; não herdar aceite. | PENDENTE / STOP_ATIVO |
+| IMP-04 / CG-04 | Fonte legítima, tempo, correção e retenção | GPR-04; E3-02/04; SEM-07/08/09; CFX-02/08/15 | V-RC/V-RA | Ausentes escolha de fonte material, versão, direito de retificar e política de retenção legitimada | AUT + EVD + privacidade + E3-02 (funções futuras) | autoridade competente de dados/direitos e gate owner próprio | CONTRA-04: Versão anterior após revogação/correção, retenção indevida e fonte temporal conflitante: reconciliação humana e prova FUTURA de correção e direitos. | PLANO-04: Se fontes, versão, correção, revogação, retenção e privacidade forem decididas por autoridade própria, reavaliar CG-04; conflito mantém INCONCLUSIVO. | PENDENTE / STOP_ATIVO |
+| IMP-05 / CG-05 | Arquitetura/TCO e trade-offs | GPR-05; E3-02/03/04; NPV/CFX | V-RA | Ausentes comparação material de opções, TCO, custos verificáveis, responsabilidades e ratificação técnica | E3-02 + finanças + segurança + E3-03 (funções futuras) | fundador e alçadas técnicas/financeiras legitimadas decidem ADR-C-01 em ato próprio | CONTRA-05: Opção arquitetural favorecida sem custo/TCO verificável, direito de dado ou reversibilidade: contraprova FUTURA comparável entre alternativas, sem escolha antecipada. | PLANO-05: Se alternativas e TCO com fontes/risco comparáveis forem avaliados, pedir decisão separada ADR-C-01 e revisão técnica/financeira antes de CG-05. | PENDENTE / STOP_ATIVO |
+| IMP-06 / CG-06 | Contratos e efeitos entre domínios | GPR-06; E3-01/02/04; SEM-ENV; CFX-04/06/14 | V-RC/V-RA | Ausentes alternativa material para replay, timeout, duplicidade, revogação, efeitos externos e recuperação | AUT + MIS + EVD + E3-02 + assurance (funções futuras) | donos de fronteira e decisor competente aprovam contratos materiais/ADR e gate independentemente | CONTRA-06: Timeout, replay, duplicidade e confirmação sem efeito comprovado: casos negativos FUTUROS de não duplicação e estados INCONCLUSIVOS, sem retry presumido. | PLANO-06: Se contratos/falhas/efeitos tiverem desenho material legitimado por ADR-C-02/03 e evidência futura, submeter CG-06; efeito incerto segue parado. | PENDENTE / STOP_ATIVO |
+| IMP-07 / CG-07 | Ato humano reservado e privacidade | GPR-07; E3-01/03/04; EGV-01/02/12/13; NPV-12 | V-RC | Ausentes legitimidade de alçada, política aplicável, avaliação de risco/direitos e prova de negação segura | fundador + AUT + segurança + privacidade (funções futuras) | autoridade humana competente por ato, lei e domínio; recusa e contestação com direitos | CONTRA-07: Delegação inválida, conflito de interesses, privacidade ou ato reservado por agente: negar ato FUTURAMENTE sob autorização legal; exigir exame proporcional de direitos. | PLANO-07: Se competências, direitos e avaliação de risco forem ratificados por humanos com legitimidade legal, reavaliar ato e CG-07 independentemente. | PENDENTE / STOP_ATIVO |
+| IMP-08 / CG-08 | Orçamento, medição e economia Jev | GPR-08; E3-02/03/04; KAC-08; EGV-09/10 | V-RC/V-RA | Ausentes unidade, fonte de medição, classificação, teto aprovado, baseline e causalidade verificável | CST + finanças + AUT + assurance (funções futuras) | fundador ou autoridade financeira competente ratifica gastos/limites em decisões separadas | CONTRA-08: Consumo desconhecido tratado como zero, teto ausente ou economia Jev sem causalidade: exigir medição FUTURA fonte/unidade/período e autoridade financeira. | PLANO-08: Se fonte de medida, limite, orçamento e causalidade forem ratificados em atos financeiros próprios, reavaliar CG-08; custo não verificado bloqueia. | PENDENTE / STOP_ATIVO |
+| IMP-09 / CG-09 | Evidência independente e negativos | GPR-09; E3-01..04; NPV-01..16; EGV-RV; KAC/SAC | V-RC/V-RA | Ausentes casos materiais aprovados, fonte de efeito externo, provas L2+, plano futuro autorizado, revisores independentes | E3-04 + assurance independente + donos dos riscos (funções futuras) | revisores competentes e autoridades distintas de aceite de critério/gate | CONTRA-09: Hash, log, checklist ou autoria própria usados como aceite: contestação e revisão independente FUTURAS, incluindo fontes de efeitos negativos. | PLANO-09: Se plano de prova futuro for autorizado, provas externas e revisores sem conflito forem designados, submeter os critérios e CG-09 separadamente. | PENDENTE / STOP_ATIVO |
+| IMP-10 / CG-10 | Consulta FCR, identidade e canal | GPR-10; E3-01/02/04; FCR-AC/CH-AC/IC-AC; EGV-08/11/12 | V-RC/V-RA | Ausentes direitos de terceiros, atualização, acesso por canal, revisão de identidade e autorização do escopo | FCR + AUT + privacidade + assurance (funções futuras) | competência por canal e direito, com reserva do fundador conforme ato | CONTRA-10: Canal obsoleto mostra dado de terceiro ou exibe comando disfarçado de consulta: negar acesso FUTURAMENTE, exigir atualização e titularidade. | PLANO-10: Se acesso legítimo, consentimentos/direitos aplicáveis e identidade/atualidade forem provados por canal, submeter CG-10 separadamente. | PENDENTE / STOP_ATIVO |
+| IMP-11 / CG-11 | Efeitos em trânsito, revogação e contingência | GPR-11; E3-01/02/04; CFX-02/04/06/15; EGV-02/06/15 | V-RC | Ausentes prova externa, compensabilidade demonstrada, direitos de recuperação, fonte e decisão humana | MIS + EVD + AUT + privacidade + assurance (funções futuras) | autoridade competente aceita risco/compensação por efeito específico | CONTRA-11: Revogação concorrente, efeito externo ainda em trânsito ou compensação sem direito: investigar fonte externa FUTURA, sem rollback ou reenviar automaticamente. | PLANO-11: Se cada efeito e compensabilidade tiver prova externa, direito e decisão humana própria, reavaliar CG-11; não prometer reversão técnica. | PENDENTE / STOP_ATIVO |
+| IMP-12 / CG-12 | Critérios, gates e transição de fase separados | GPR-12; E3-01..04; KAC-12; EGV-AC-12 | V-RC | Ausentes DoR/DoD materiais aceitos, aprovação específica de CG/FCG/MG/E3/ADR e autorização independente de Fase IV | fundador + futuros donos de CG + assurance (funções futuras) | fundador exerce poder reservado de fase em decisão separada APÓS gates pertinentes | CONTRA-12: Todos os documentos verdes, mas CG/FCG/MG/E3/ADR ou autorização de fase ausentes: manter STOP; contraprova de falsa promoção/aceite automatizado FUTURA. | PLANO-12: Somente se TODOS os aceites independentes exigíveis existirem, preparar pedido reservado de decisão de Fase IV ao fundador, sem autorização automática. | PENDENTE / STOP_ATIVO |
+
+## 4. Dependências e precedências críticas
+| Dependência documental | Questão impeditiva | Consequência para o plano | Estado |
+| --- | --- | --- | --- |
+| AUT / CG-01 + CG-07 | mandato, direitos, identidade e atos reservados ainda sem legitimidade demonstrada | nenhuma prioridade/relato/outro gate concede autoridade | STOP_ATIVO |
+| EVD / CG-04 + CG-06 + CG-11 | fonte, tempo, versões, revogação e efeito externo em trânsito | timeout/ausência de resposta nunca demonstra ausência de efeito; sem replay ou compensação presumidos | STOP_ATIVO |
+| CST / CG-08 + ADR-C-01 | orçamento, fonte de custo e alternativas técnicas sem prova comparável | custo desconhecido não vale zero; não há opção de stack nem teto autorizado | STOP_ATIVO |
+| FCR / CG-02 + CG-10 | limites de leitura/identidade e direitos por canal | FCR é conceitualmente consultivo; nenhuma interface ou canal recebe poder | STOP_ATIVO |
+| E3-01 / CG-02/03 | escopo material, 99 IDs históricos e KAC/SAC não aceitos | não simplificar por equivalência nominal | EM PLANEJAMENTO |
+| E3-02 / ADR-C-01..03 | arquitetura, fonte de verdade, contratos e responsabilidade não escolhidos | comparar documentalmente sem escolher linguagem, banco, APIs, provedor ou migração | EM PLANEJAMENTO |
+| E3-03 / CG-07/08 | autonomia de agentes construtores, limite de paralelismo e evidência de custo ausentes | não criar agentes nem assumir produtividade | EM PLANEJAMENTO |
+| E3-04 / CG-03/09/12 | assurance, prova material, segregação e revisores independentes ausentes | revisão autoral L0 não equivale a compliance, segurança ou aprovação | EM PLANEJAMENTO |
+| CG-12 + FCG/MG | decisões exigíveis sem autoridade/aceite final | nenhum merge/PR/relato libera Fase IV | STOP_ATIVO |
+
+**Ordem somente analítica:** legitimidade/direitos → requisitos/fontes → contratos/efeitos → custo/evidências negativas → deliberação individual de gate → decisão reservada de fase. É uma precedência de **questões**, NÃO cronograma, ordem física de implementação, autorização, SLA ou mitigação comprovada.
+
+## 5. Impasses inter-gates e contradições a desafiar
+- **IMP-X01 autoridade × canais:** identidade/sessão/recebimento não ampliam mandato nem provam execução; decisão humana competente própria antes de aceitar qualquer leitura/ato.
+- **IMP-X02 prova × efeito:** log, assinatura, hash, CI e relatório não substituem contraprova/efeito externo; inconsistência mantém revisão e STOP.
+- **IMP-X03 custo × autonomia:** ausência de preço/consumo não equivale a custo zero; Jev exige comparação causal e fonte futura sob aceitação financeira.
+- **IMP-X04 revisão × aceite:** produtor, revisor crítico, dono de critério, owner de gate e fundador ocupam decisões diferentes. Um único revisor autoral não atesta independência.
+- **IMP-X05 fonte × privacidade:** histórico e retenção não autorizam acesso, divulgação ou permanência sem direito legitimado; correção/revogação exigem tratamento proporcional.
+- **IMP-X06 recuperação × reserva humana:** retry, rollback, reenvio e compensação não são automáticos diante de timeout, incerteza de efeito ou direitos de terceiros.
+- **IMP-X07 KAC/SAC × 99 legados:** mapeamento nominal de IDs não comprova suficiência semântica, cobertura adversa ou dispensa de especialização.
+- **IMP-X08 Fase III × Fase IV:** documento, agenda e checklist verde não ratificam DoR/DoD material nem habilitam código ou infraestrutura.
+
+## 6. Cartão de decisão humana FUTURA, nenhum preenchido com pessoas
+Para cada `IMP-NN`, antes de qualquer pedido legítimo futuro, requisitar **fonte e direitos**, categoria de risco, opções e impacto/alternativas, conflito/contraprova, evidência material e limites, identidade e competência da autoridade, revisão independente proporcional, registro de decisão explícita por critério, registro de CG autônomo e eventual deliberação do fundador por fase. **Estado de todos os 12 cartões: NÃO_EMITIDOS / OWNER_NAO_DESIGNADO / SEM_PROVA / SEM_ACEITE.** Não há formulário ativo ou ato jurídico material.
+
+## 7. Condições candidatas de completude documental DSS-AC-01..10
+| Candidato | Verificação documental desejada | Estado material |
+| --- | --- | --- |
+| DSS-AC-01 | IMP-01..12 mapeiam cada CG com risco, lacuna e STOP próprio | PROPOSTO L0 |
+| DSS-AC-02 | fontes e owners são apresentados como FUTUROS, sem atribuição real | PROPOSTO L0 |
+| DSS-AC-03 | CONTRA-01..12 são hipóteses negativas NOT_RUN, não provas aprovadas | PROPOSTO L0 |
+| DSS-AC-04 | PLANO-01..12 são condicionais e não concedem execução nem autorização | PROPOSTO L0 |
+| DSS-AC-05 | E3-01..04 e ADR-C-01..03 continuam abertos sem opção técnica escolhida | PROPOSTO L0 |
+| DSS-AC-06 | requisitos KAC/SAC e 99 legados não perdem direitos ou cobertura por resumo | PROPOSTO L0 |
+| DSS-AC-07 | relator, revisor, decisor de critério, gate owner e fundador não se confundem | PROPOSTO L0 |
+| DSS-AC-08 | conflitos, revogação, timeout, custo desconhecido e direito inconclusivo preservam STOP | PROPOSTO L0 |
+| DSS-AC-09 | link/reference/crosswalk é contexto L0, jamais medição, efeito ou controle ativo | PROPOSTO L0 |
+| DSS-AC-10 | CG/FCG/MG, E3/ADR e transição Fase IV exigem atos independentes nunca promovidos por merge | PROPOSTO L0 |
+
+## 8. Evidências desta Work Order e limites
+**Fonte inicial de Context Lock:** `main` `1d133139dfaa4d4ea2e4e9c095c74bbf766d05eb`, fontes SHA-blobs HDM `e27c431f902f7010cd5d6ebd4cbd7d1d1c542aaa`, GPR `9dbeb86933ab534171bb62dc9ee772c4c397de1e`, Registro D03 `e1d37bcabed14bd7a3f2f3f951d6c9dc2222d858` e Carta III `984725f2c95bd6d094335231244d72dca86d3cfb`. O HEAD final e o diff devem ser confirmados no GitHub, não inferidos desta página. A auditoria estática poderá confirmar presença e coerência L0, **não** aceites técnicos, auditoria independente ou efeitos reais.
+**NOT_RUN:** testes de software, negativos materiais, build, lint de produto, medição financeira, validação legal, testes de autenticação, simulações operacionais, APIs, canais, agentes, recuperação real, segurança operacional, benchmarks, deploy.
+**STOP GLOBAL INALTERADO:** CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; nenhum critério material, owner real, stack, recurso financeiro ou Fase IV autorizado.
+
+## 9. D03-24 A/B/C proposta para deliberação posterior (NÃO RATIFICADA)
+**Questão:** qual método documental aprofunda primeiro a preparação das decisões humanas, mantendo o dossiê e todos os STOPs?
+- **A:** aprofundar documentação da competência/autoridade e direitos AUT/MIS prioritários, sem delegar alçada.
+- **B:** aprofundar documentação dos critérios de comparação de E3-02 e ADR-C-01..03, sem escolher stack ou infraestrutura.
+- **C:** criar uma agenda documental integrada por caminhos de evidência, precedência e atos humanos FUTUROS, priorizada por risco/impasse, preservando aceite individual por gate.
+**Recomendação editorial: C, NÃO RATIFICADA.** Nenhuma trilha/agenda constitui execução ou habilita a Fase IV.
