@@ -4,14 +4,14 @@
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** D03-32 C RATIFICADA SOMENTE COMO MÉTODO DOCUMENTAL L0, matriz de legitimidade, independência e contraprova por HAT/NT-01..05, sem nomeação, provas ou aceites (2026-10-27).
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; **próximo checkpoint D03-33 A/B/C PENDENTE**, sobre método de preparação documental dos atos humanos futuros.
+**Última escolha confirmada:** D03-33 C ratificada SOMENTE como MÉTODO DOCUMENTAL L0, painel de contradições CANDIDATAS de competência/segregação, sem prova ou resolução material (2026-10-27).
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; **próximo checkpoint D03-34 A/B/C PENDENTE**, sobre método de preparação documental dos atos humanos futuros.
 
 ## Ao retomar em um novo chat
 
 Texto curto sugerido ao fundador:
 
-> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar o planejamento dos quatro pacotes E3 à luz das D03-13/14 C e preparar a deliberação D03-33, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
+> Consulte o repositório `KayzenRoot/nexlabs-tech`, leia `AGENTS.md`, `CHAT-HANDOFF.md` e a ata da Fase II; confirme que a Fase II foi encerrada por D02-25 C e NÃO retome rodadas D02. A D03-01 A já autorizou a Fase III de planejamento documental. Continuar o planejamento dos quatro pacotes E3 à luz das D03-13/14 C e preparar a deliberação D03-34, preservando a proibição de implementar software. Não escolher stack ou agentes nem implementar software antes da autorização.
 
 O novo assistente deve **ler o estado remoto atual**, tratar o handoff como ponto de partida e priorizar versões mais recentes que eventualmente o sucedam. Sem acesso remoto, explicar honestamente a limitação e solicitar os documentos necessários, sem supor que houve alterações.
 
@@ -160,6 +160,10 @@ Os detalhes dos adendos são **requisitos conceituais**, não recursos, custos o
 
 **Auditoria autoral L0 PR #19 pré-checkpoint:** HEAD `c8a720c1bad60694dccd7061902a4b943970d59f`, três novos Markdown, cinco NT + 12 CG + 12 KAC + oito SAC, 121 links relativos válidos após Correction Delta L0 com `REVISOR_NAO_DESIGNADO` explicitado em cinco NT. Testes operacionais/revisão humana material NÃO REALIZADOS. Auditoria final do HEAD e read-back após eventual squash merge obrigatórios.
 
-**Checkpoint corrente NX-P3-D03-32 (2026-10-27):** D03-32 C SOMENTE DOCUMENTAL L0. Ler [Matriz LIP v0.1](../engineering/PHASE-III-LEGITIMACY-INDEPENDENCE-COUNTERPROOF-v0.1.md), [Registro D03 v0.32](../engineering/PHASE-III-DECISION-REGISTER-v0.32.md), [Carta III v0.32](../engineering/PHASE-III-CHARTER-v0.32.md), [Inventário HAT v0.1](../engineering/PHASE-III-FUTURE-HUMAN-ACTS-INVENTORY-v0.1.md), BLK/NAC/GPR/KAC/SAC/OPR/E3/ADR. Cinco NT, 12 CG, 12 KAC, oito SAC documentados com fonte/prova AUSENTE, competência A_DEMONSTRAR, revisor humano real NÃO DESIGNADO e negativos NOT_RUN. **D03-33 A/B/C PENDENTE**, 99 IDs históricos não reconciliados. CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; **Fase IV NÃO AUTORIZADA.**
+**Checkpoint anterior NX-P3-D03-32 (2026-10-27):** D03-32 C SOMENTE DOCUMENTAL L0. Ler [Matriz LIP v0.1](../engineering/PHASE-III-LEGITIMACY-INDEPENDENCE-COUNTERPROOF-v0.1.md), [Registro D03 v0.32](../engineering/PHASE-III-DECISION-REGISTER-v0.32.md), [Carta III v0.32](../engineering/PHASE-III-CHARTER-v0.32.md), [Inventário HAT v0.1](../engineering/PHASE-III-FUTURE-HUMAN-ACTS-INVENTORY-v0.1.md), BLK/NAC/GPR/KAC/SAC/OPR/E3/ADR. Cinco NT, 12 CG, 12 KAC, oito SAC documentados com fonte/prova AUSENTE, competência A_DEMONSTRAR, revisor humano real NÃO DESIGNADO e negativos NOT_RUN. **D03-33 A/B/C PENDENTE**, 99 IDs históricos não reconciliados. CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; **Fase IV NÃO AUTORIZADA.**
 
 **Auditoria AUTORAL L0 pré-checkpoint:** HEAD `b614a22f6d738a7537eb14040cd4fc18c4c10cb0`, 3 novos Markdown, cinco NT + 12 CG + 12 KAC + oito SAC, 123 links relativos válidos, zero erro estrutural; Correction Delta NÃO NECESSÁRIO. Sem testes operacionais, provas materiais ou revisão humana independente. Exigir auditoria final/CI/read-back após eventual merge.
+
+**Checkpoint corrente NX-P3-D03-33 (2026-10-27):** D03-33 C SOMENTE DOCUMENTAL L0. Ler [Painel SGC v0.1](../engineering/PHASE-III-SEGREGATION-CONTRADICTIONS-PANEL-v0.1.md), [Registro D03 v0.33](../engineering/PHASE-III-DECISION-REGISTER-v0.33.md), [Carta III v0.33](../engineering/PHASE-III-CHARTER-v0.33.md), LIP/HAT/BLK/NAC/GPR/KAC/SAC/OPR/DIV/SUF/E3/ADR. 5 SGC/NT, 12 SGC-CG, 12 SGC-KAC, oito SGC-SAC; fonte/prova AUSENTE, risco qualitativo não medido, OPN NOT_RUN, revisor humano real NÃO DESIGNADO. **D03-34 A/B/C PENDENTE**, 99 históricos não reconciliados. CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; **Fase IV NÃO AUTORIZADA.**
+
+**Auditoria AUTORAL L0 pré-checkpoint:** HEAD `df8fd814ee2d53a6ecfb66e20b07b97f7c1a2100`, três novos Markdown, 5 NT + 12 CG + 12 KAC + oito SAC, 128 links relativos válidos, zero erros, Correction Delta não necessária. Testes operacionais, provas materiais e revisão humana independente NOT_RUN. Exigir auditoria final/checks/read-back após eventual squash merge.
