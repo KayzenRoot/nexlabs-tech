@@ -904,15 +904,41 @@ def markdown_html_visible_text(lines: list[str]) -> str:
 
 
 class MarkdownHtmlLinks(HTMLParser):
-    # Track special HTML containers ourselves so nested tags cannot switch the
-    # stdlib parser into CDATA mode while it is already suppressing content.
-    CDATA_CONTENT_ELEMENTS: tuple[str, ...] = ()
-
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.targets: list[tuple[str, int]] = []
         self.anchors: set[str] = set()
         self.suppressed_containers: list[str] = []
+
+    def in_suppressed_text_container(self) -> bool:
+        return bool(self.suppressed_containers) and self.suppressed_containers[-1] != "template"
+
+    def parse_starttag(self, index: int) -> int:
+        if not self.in_suppressed_text_container():
+            return super().parse_starttag(index)
+        # A nested tag name inside RCDATA/RAWTEXT is text; it must not enable
+        # HTMLParser's special script/style mode for the surrounding content.
+        cdata_content_elements = self.CDATA_CONTENT_ELEMENTS
+        self.CDATA_CONTENT_ELEMENTS = ()
+        try:
+            return super().parse_starttag(index)
+        finally:
+            self.CDATA_CONTENT_ELEMENTS = cdata_content_elements
+
+    def parse_comment(self, index: int) -> int:
+        if self.in_suppressed_text_container():
+            return index + 1
+        return super().parse_comment(index)
+
+    def parse_html_declaration(self, index: int) -> int:
+        if self.in_suppressed_text_container():
+            return index + 1
+        return super().parse_html_declaration(index)
+
+    def parse_pi(self, index: int) -> int:
+        if self.in_suppressed_text_container():
+            return index + 1
+        return super().parse_pi(index)
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         normalized_tag = tag.casefold()
