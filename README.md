@@ -1,8 +1,11 @@
 # NexLabs Technology
 
+**Checkpoint CORRENTE `NX-P3-D03-41` (2026-10-28):** D03-41 **C APROVADA EXPRESSAMENTE, SOMENTE DOCUMENTAL L0**. [Pauta única HDA v0.1](docs/engineering/PHASE-III-HUMAN-DELIBERATION-AGENDA-v0.1.md), [Registro D03 v0.41](docs/engineering/PHASE-III-DECISION-REGISTER-v0.41.md), [Carta III v0.41](docs/engineering/PHASE-III-CHARTER-v0.41.md). Pauta de FUTURA deliberação para **FCL-01/02/08**, sem coleta de dados, reconciliação dos 99 IDs, prova, atos, pessoas nomeadas ou autoridade real. 12 CG, 12 KAC, 8 SAC, 4 E3, 3 ADR, FCG/MG e 99 históricos permanecem sem aceite material; **11 FCL-GO NO_GO**. Fase III ABERTA; L2–L4 NOT_RUN; ata NÃO LAVRADA; **Fase IV NÃO AUTORIZADA**. **Anti-proliferação:** após esta WO, `HOLD_L0` sem D03-42 automática; apenas novo ato humano explícito com escopo próprio ou erro objetivo NECESSARY. Pré-auditoria AUTORAL/ESTÁTICA no HEAD `6b6fcddc55d8c538dc2355cc7463cf4cc21d04cc`: 3 Markdown adicionados, 143 links internos válidos, zero quebrados; 3/3 pautas, 10/10 HDA-AC; `Correction Delta` não necessária; testes materiais e revisão independente NOT_RUN.
+
+
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..40 C aprovadas como diretrizes documentais até 2026-10-28. **D03-41 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
+**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..40 C aprovadas como diretrizes documentais até 2026-10-28. **D03-41 C APROVADA exclusivamente DOCUMENTAL L0; nenhuma decisão seguinte automática**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
 
 > **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é decidir D03-41 (A/B/C ainda PENDENTE), sem iniciar novo incremento automaticamente, sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
@@ -80,7 +83,7 @@
 | D03-38: Painel L0 de insuficiência NEGATIVA | **APROVADA C, SOMENTE DOCUMENTAL L0** |
 | D03-39: Plano FINITO de encerramento da Fase III | **APROVADA C, SOMENTE DOCUMENTAL L0** |
 | D03-40: Painel L0 de controle FINITO de 12 FCL | **APROVADA C, SOMENTE DOCUMENTAL L0** |
-| D03-41: Direção humana para saída do ciclo L0 | **PENDENTE (A/B/C, PROPOSTA)** |
+| D03-41: Pauta humana FUTURA de fontes/direitos e evidências FCL-01/02/08 | **APROVADA C, SOMENTE DOCUMENTAL L0** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade

@@ -1,5 +1,8 @@
 # AGENTS.md — NexLabs Technology
 
+**Checkpoint CORRENTE `NX-P3-D03-41` (2026-10-28):** D03-41 **C APROVADA EXPRESSAMENTE, SOMENTE DOCUMENTAL L0**. [Pauta única HDA v0.1](docs/engineering/PHASE-III-HUMAN-DELIBERATION-AGENDA-v0.1.md), [Registro D03 v0.41](docs/engineering/PHASE-III-DECISION-REGISTER-v0.41.md), [Carta III v0.41](docs/engineering/PHASE-III-CHARTER-v0.41.md). Pauta de FUTURA deliberação para **FCL-01/02/08**, sem coleta de dados, reconciliação dos 99 IDs, prova, atos, pessoas nomeadas ou autoridade real. 12 CG, 12 KAC, 8 SAC, 4 E3, 3 ADR, FCG/MG e 99 históricos permanecem sem aceite material; **11 FCL-GO NO_GO**. Fase III ABERTA; L2–L4 NOT_RUN; ata NÃO LAVRADA; **Fase IV NÃO AUTORIZADA**. **Anti-proliferação:** após esta WO, `HOLD_L0` sem D03-42 automática; apenas novo ato humano explícito com escopo próprio ou erro objetivo NECESSARY. Pré-auditoria AUTORAL/ESTÁTICA no HEAD `6b6fcddc55d8c538dc2355cc7463cf4cc21d04cc`: 3 Markdown adicionados, 143 links internos válidos, zero quebrados; 3/3 pautas, 10/10 HDA-AC; `Correction Delta` não necessária; testes materiais e revisão independente NOT_RUN.
+
+
 **Estado corrente atualizado em 2026-10-28:** D03-40 C foi expressamente APROVADA apenas para painel DOCUMENTAL L0. [Painel FCP](docs/engineering/PHASE-III-FINITE-CONTROL-PANEL-v0.1.md), [Registro v0.40](docs/engineering/PHASE-III-DECISION-REGISTER-v0.40.md), [Carta v0.40](docs/engineering/PHASE-III-CHARTER-v0.40.md). D03-41 A/B/C PENDENTE. Fase III ABERTA, sem provas/aceites materiais, Fase IV NÃO AUTORIZADA. Checkpoints antigos são históricos; não prevalecem sobre este estado.
 
 ## Contexto e autoridade
