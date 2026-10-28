@@ -1,11 +1,14 @@
 # NexLabs Technology — Handoff de continuidade entre chats
 
+**Checkpoint CORRENTE `NX-P3-D03-41` (2026-10-28):** D03-41 **C APROVADA EXPRESSAMENTE, SOMENTE DOCUMENTAL L0**. [Pauta única HDA v0.1](../engineering/PHASE-III-HUMAN-DELIBERATION-AGENDA-v0.1.md), [Registro D03 v0.41](../engineering/PHASE-III-DECISION-REGISTER-v0.41.md), [Carta III v0.41](../engineering/PHASE-III-CHARTER-v0.41.md). Pauta de FUTURA deliberação para **FCL-01/02/08**, sem coleta de dados, reconciliação dos 99 IDs, prova, atos, pessoas nomeadas ou autoridade real. 12 CG, 12 KAC, 8 SAC, 4 E3, 3 ADR, FCG/MG e 99 históricos permanecem sem aceite material; **11 FCL-GO NO_GO**. Fase III ABERTA; L2–L4 NOT_RUN; ata NÃO LAVRADA; **Fase IV NÃO AUTORIZADA**. **Anti-proliferação:** após esta WO, `HOLD_L0` sem D03-42 automática; apenas novo ato humano explícito com escopo próprio ou erro objetivo NECESSARY. Pré-auditoria AUTORAL/ESTÁTICA no HEAD `6b6fcddc55d8c538dc2355cc7463cf4cc21d04cc`: 3 Markdown adicionados, 143 links internos válidos, zero quebrados; 3/3 pautas, 10/10 HDA-AC; `Correction Delta` não necessária; testes materiais e revisão independente NOT_RUN.
+
+
 **Data de atualização:** 2026-10-28
 **Repo/branch canônicos:** `KayzenRoot/nexlabs-tech` / `main`
 **Fase I:** ENCERRADA E APROVADA (auditoria 7/7).
 **Fase II:** **ENCERRADA E ACEITA DOCUMENTALMENTE** por D02-25 C, com auditoria e síntese. Sem imagens, protótipos ou software.
-**Última escolha confirmada:** **D03-40 C APROVADA EXPRESSAMENTE em 2026-10-28**, somente painel FINITO DOCUMENTAL L0 de 12 FCL; sem prova material, aceite, pessoa nomeada ou autorização de Fase IV.
-**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; **próxima decisão D03-41 A/B/C PENDENTE**, sobre método de preparação documental dos atos humanos futuros.
+**Última escolha confirmada:** **D03-41 C APROVADA EXPRESSAMENTE em 2026-10-28**, somente pauta DOCUMENTAL L0 de deliberação FUTURA para FCL-01/02/08; sem execução, prova material, aceite, pessoa nomeada ou autorização de Fase IV.
+**Fase III: INICIADA SOMENTE COMO PLANEJAMENTO DOCUMENTAL.** E3-01..04 EM PLANEJAMENTO, STOP CONDITIONS NÃO ATENDIDAS; **nenhuma nova WO L0 automática; próximo ato humano MATERIAL exige autorização específica futura e distinta**, sobre método de preparação documental dos atos humanos futuros.
 
 ## Ao retomar em um novo chat
 
