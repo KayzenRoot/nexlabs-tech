@@ -28,6 +28,18 @@ REFERENCE_DEFINITION_START = re.compile(
 MARKDOWN_AUTOLINK = re.compile(
     r"<(?:[A-Za-z][A-Za-z0-9.+-]{1,31}:[^ \t\r\n<>]*|[A-Za-z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Za-z0-9](?:[A-Za-z0-9.-]*[A-Za-z0-9])?)>"
 )
+HTML_ANCHOR_SUPPRESSED_CONTAINERS = {
+    "iframe",
+    "noembed",
+    "noframes",
+    "plaintext",
+    "script",
+    "style",
+    "template",
+    "textarea",
+    "title",
+    "xmp",
+}
 BLOCK_HTML_START = re.compile(
     r"^ {0,3}(?:<!--|<\?|<!\[CDATA\[|<![A-Z]|</?(?:address|article|aside|base|basefont|blockquote|body|caption|center|col|colgroup|dd|details|dialog|dir|div|dl|dt|fieldset|figcaption|figure|footer|form|frame|frameset|h[1-6]|head|header|hr|html|iframe|legend|li|link|main|menu|menuitem|meta|nav|noframes|ol|optgroup|option|p|param|search|section|summary|table|tbody|td|tfoot|th|thead|title|tr|track|ul)(?:[\t\n\f\r />]|$))",
     re.IGNORECASE,
@@ -892,12 +904,25 @@ def markdown_html_visible_text(lines: list[str]) -> str:
 
 
 class MarkdownHtmlLinks(HTMLParser):
+    # Track special HTML containers ourselves so nested tags cannot switch the
+    # stdlib parser into CDATA mode while it is already suppressing content.
+    CDATA_CONTENT_ELEMENTS: tuple[str, ...] = ()
+
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.targets: list[tuple[str, int]] = []
         self.anchors: set[str] = set()
+        self.suppressed_containers: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        normalized_tag = tag.casefold()
+        if self.suppressed_containers:
+            if self.suppressed_containers[-1] == "template" and (
+                normalized_tag == "template"
+                or normalized_tag in HTML_ANCHOR_SUPPRESSED_CONTAINERS
+            ):
+                self.suppressed_containers.append(normalized_tag)
+            return
         line_number = self.getpos()[0]
         for name, value in attrs:
             if not value:
@@ -906,8 +931,18 @@ class MarkdownHtmlLinks(HTMLParser):
                 self.targets.append((value, line_number))
             elif name.casefold() == "srcset":
                 self.targets.extend((target, line_number) for target in parse_srcset(value))
-            elif name.casefold() == "id" or (name.casefold() == "name" and tag.casefold() == "a"):
+            elif name.casefold() == "id" or (name.casefold() == "name" and normalized_tag == "a"):
                 self.anchors.add(value)
+        if normalized_tag in HTML_ANCHOR_SUPPRESSED_CONTAINERS:
+            self.suppressed_containers.append(normalized_tag)
+
+    def handle_endtag(self, tag: str) -> None:
+        if (
+            self.suppressed_containers
+            and self.suppressed_containers[-1] != "plaintext"
+            and tag.casefold() == self.suppressed_containers[-1]
+        ):
+            self.suppressed_containers.pop()
 
     handle_startendtag = handle_starttag
 
