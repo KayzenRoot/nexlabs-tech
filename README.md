@@ -2,9 +2,9 @@
 
 **Instituição tecnológica global de inovação e evolução contínua.**
 **Fase I:** concepção empresarial **ENCERRADA E APROVADA** em 2026-10-15.
-**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..27 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-27. **D03-28 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
+**Fase II:** ENCERRADA E ACEITA DOCUMENTALMENTE em 2026-10-15 (D02-25 C). **Fase III:** autorizada SOMENTE para planejamento documental por D03-01 A; D03-02..28 C aprovadas como diretrizes entre 2026-10-15 e 2026-10-27. **D03-29 permanece proposta PENDENTE**, E3-01..04 EM PLANEJAMENTO, ADR-C-01..03 EM ANÁLISE e CG-01..12 SEM ACEITE; Fase IV NÃO AUTORIZADA.
 
-> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-28 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
+> **Novo chat:** leia [AGENTS.md](AGENTS.md), [CHAT-HANDOFF.md](docs/continuity/CHAT-HANDOFF.md) e a [ata de encerramento da Fase II](docs/design/PHASE-II-ACCEPTANCE-v1.0.md). **Não reabrir decisões D02-01 a D02-25.** O próximo passo é continuar a Fase III pela D03-29 (proposta ainda PENDENTE), sem reabrir as D03-13/14 C ou iniciar código, imagens, produtos, integrações ou infraestrutura.
 
 ## Estado do planejamento em 2026-10-27
 
@@ -67,7 +67,8 @@
 | D03-25: Inventário de proof obligations futuras por CG/KAC/SAC | **APROVADA — C, SOMENTE DOCUMENTAL L0** |
 | D03-26: Suficiência e contestação de OPR por risco com revisão futura | **APROVADA — C, SOMENTE DOCUMENTAL L0** |
 | D03-27: Registro de divergências por risco e escalada humana FUTURA | **APROVADA — C, SOMENTE DOCUMENTAL L0** |
-| D03-28: Dossiê de preparação de deliberações humanas futuras por gate | **PENDENTE (A/B/C, PROPOSTA)** |
+| D03-28: Dossiê de alternativas, riscos e motivos do STOP por gate | **APROVADA — C, SOMENTE DOCUMENTAL L0** |
+| D03-29: Síntese documental das lacunas e critérios de não aceite | **PENDENTE (A/B/C, PROPOSTA)** |
 | Software, dashboards operacionais, bots, integrações | NÃO AUTORIZADOS, NÃO IMPLEMENTADOS |
 
 ## Fontes de verdade
@@ -119,6 +120,7 @@
 - **[Mandatos Institucionais v0.11](docs/engineering/PHASE-III-INSTITUTIONAL-MANDATES-v0.11.md)**: fonte de autoridade, limites, vigência, risco, revogação, casos MC-01..14 e STOP CONDITION; sem autoridade operacional concedida.
 - **[Founder Command Center v0.12](docs/engineering/PHASE-III-FOUNDER-COMMAND-CENTER-v0.12.md)**: FCR-01..06 e supervisão de mandatos, temporalidade, revogação e autoridade humana como requisitos, nenhuma UI/ação criada.
 - **[Política Documental de Canais v0.9](docs/engineering/PHASE-III-CHANNEL-GOVERNANCE-v0.9.md)**: D03-13 C APROVADA em 2026-10-17; fonte de autoridade/mandatos independente do canal, FCR como primeiro meio de supervisão a planejar e Telegram, voz e relatórios condicionais a futura autorização. CH-AC-01..12 PROPOSTOS, nenhum canal implementado.
+- **[Dossiê DEL v0.1](docs/engineering/PHASE-III-HUMAN-DELIBERATION-DOSSIER-v0.1.md):** D03-28 C DOCUMENTAL L0; 12 CG + 12 KAC + 8 SAC, alternativas NÃO RATIFICADAS, riscos residuais, provas AUSENTES/NOT_RUN, competências A_DEMONSTRAR e STOPs ativos.
 - **[Registro DIV v0.1](docs/engineering/PHASE-III-DIVERGENCE-ESCALATION-v0.1.md):** D03-27 C, método DOCUMENTAL L0, 12 CG + 12 KAC + 8 SAC, divergências/negativos FUTUROS NOT_RUN, escalada humana apenas proposta, nenhum revisor nomeado, STOPs ativos.
 - **[Matriz SUF v0.1](docs/engineering/PHASE-III-SUFFICIENCY-CONTESTATION-v0.1.md):** D03-26 C DOCUMENTAL L0; 12 CG + 12 KAC + 8 SAC com perguntas de suficiência, objeções FUTURAS NOT_RUN, revisores independentes NÃO DESIGNADOS e nenhum gate/critério aceito.
 - **[Inventário Proof Obligations v0.1](docs/engineering/PHASE-III-PROOF-OBLIGATIONS-v0.1.md):** D03-25 C L0; 12 CG + 12 KAC + 8 SAC em obrigações de prova FUTURA, negativos NOT_RUN, fontes/revisão independente AUSENTES, 99 legados sem equivalência aprovada; STOPs ativos.
@@ -186,4 +188,6 @@ A Fase II está encerrada. D03-01 A autoriza **somente planejamento documental d
 
 **Checkpoint histórico NX-P3-D03-26 (2026-10-27):** D03-26 C APROVADA exclusivamente como MÉTODO DOCUMENTAL L0. [Matriz SUF v0.1](docs/engineering/PHASE-III-SUFFICIENCY-CONTESTATION-v0.1.md), [Registro D03 v0.26](docs/engineering/PHASE-III-DECISION-REGISTER-v0.26.md) e [Carta III v0.26](docs/engineering/PHASE-III-CHARTER-v0.26.md) descrevem 12 SUF-CG, 12 SUF-KAC e 8 SUF-SAC, contestação futura, negativas NOT_RUN e revisores independentes NÃO DESIGNADOS. **D03-27 A/B/C PENDENTE**, 99 IDs históricos sem reconciliação material; CG-01..12/FCG/MG SEM ACEITE FINAL, E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS, ADR-C-01..03 EM ANÁLISE e **Fase IV NÃO AUTORIZADA.**
 
-**Checkpoint corrente NX-P3-D03-27 (2026-10-27):** D03-27 C APROVADA exclusivamente como MÉTODO DOCUMENTAL L0. [Registro DIV v0.1](docs/engineering/PHASE-III-DIVERGENCE-ESCALATION-v0.1.md), [Registro D03 v0.27](docs/engineering/PHASE-III-DECISION-REGISTER-v0.27.md) e [Carta III v0.27](docs/engineering/PHASE-III-CHARTER-v0.27.md) relacionam 12 DIV-CG, 12 DIV-KAC e 8 DIV-SAC, com revisores independentes apenas funções FUTURAS, negativas NOT_RUN e divergências NÃO RESOLVIDAS materialmente. **D03-28 A/B/C PENDENTE**; 99 legados sem cotejo e aceites individuais. CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; **Fase IV NÃO AUTORIZADA**.
+**Checkpoint histórico NX-P3-D03-27 (2026-10-27):** D03-27 C APROVADA exclusivamente como MÉTODO DOCUMENTAL L0. [Registro DIV v0.1](docs/engineering/PHASE-III-DIVERGENCE-ESCALATION-v0.1.md), [Registro D03 v0.27](docs/engineering/PHASE-III-DECISION-REGISTER-v0.27.md) e [Carta III v0.27](docs/engineering/PHASE-III-CHARTER-v0.27.md) relacionam 12 DIV-CG, 12 DIV-KAC e 8 DIV-SAC, com revisores independentes apenas funções FUTURAS, negativas NOT_RUN e divergências NÃO RESOLVIDAS materialmente. **D03-28 A/B/C PENDENTE**; 99 legados sem cotejo e aceites individuais. CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; **Fase IV NÃO AUTORIZADA**.
+
+**Checkpoint corrente NX-P3-D03-28 (2026-10-27):** D03-28 C APROVADA somente como MÉTODO DOCUMENTAL L0. [Dossiê DEL v0.1](docs/engineering/PHASE-III-HUMAN-DELIBERATION-DOSSIER-v0.1.md), [Registro D03 v0.28](docs/engineering/PHASE-III-DECISION-REGISTER-v0.28.md), [Carta III v0.28](docs/engineering/PHASE-III-CHARTER-v0.28.md): 12 DEL-CG + 12 DEL-KAC + oito DEL-SAC, alternativas não escolhidas, risco residual qualitativo, fonte e provas AUSENTES/NOT_RUN, pessoas NÃO DESIGNADAS e competência a demonstrar. **D03-29 A/B/C PENDENTE**; 99 históricos sem cotejo/aceite. **CG-01..12/FCG/MG SEM ACEITE FINAL; E3-01..04 EM PLANEJAMENTO/STOP CONDITIONS NÃO ATENDIDAS; ADR-C-01..03 EM ANÁLISE; Fase IV NÃO AUTORIZADA.**
