@@ -28,6 +28,10 @@ REFERENCE_DEFINITION_START = re.compile(
 MARKDOWN_AUTOLINK = re.compile(
     r"<(?:[A-Za-z][A-Za-z0-9.+-]{1,31}:[^ \t\r\n<>]*|[A-Za-z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Za-z0-9](?:[A-Za-z0-9.-]*[A-Za-z0-9])?)>"
 )
+MALFORMED_HTML_LINK_START = re.compile(
+    r"^<[A-Za-z][A-Za-z0-9:_-]*\b(?=[^>]*\b(?:href|src|poster|srcset)\s*=)[^>]*$",
+    re.IGNORECASE,
+)
 HTML_ANCHOR_SUPPRESSED_CONTAINERS = {
     "iframe",
     "noembed",
@@ -908,22 +912,31 @@ class MarkdownHtmlLinks(HTMLParser):
         super().__init__(convert_charrefs=True)
         self.targets: list[tuple[str, int]] = []
         self.anchors: set[str] = set()
+        self.malformed_link_lines: set[int] = set()
         self.suppressed_containers: list[str] = []
 
     def in_suppressed_text_container(self) -> bool:
         return bool(self.suppressed_containers) and self.suppressed_containers[-1] != "template"
 
     def parse_starttag(self, index: int) -> int:
-        if not self.in_suppressed_text_container():
-            return super().parse_starttag(index)
-        # A nested tag name inside RCDATA/RAWTEXT is text; it must not enable
-        # HTMLParser's special script/style mode for the surrounding content.
-        cdata_content_elements = self.CDATA_CONTENT_ELEMENTS
-        self.CDATA_CONTENT_ELEMENTS = ()
-        try:
-            return super().parse_starttag(index)
-        finally:
-            self.CDATA_CONTENT_ELEMENTS = cdata_content_elements
+        if self.in_suppressed_text_container():
+            # A nested tag name inside RCDATA/RAWTEXT is text; it must not enable
+            # HTMLParser's special script/style mode for the surrounding content.
+            cdata_content_elements = self.CDATA_CONTENT_ELEMENTS
+            self.CDATA_CONTENT_ELEMENTS = ()
+            try:
+                return super().parse_starttag(index)
+            finally:
+                self.CDATA_CONTENT_ELEMENTS = cdata_content_elements
+
+        endpos = super().parse_starttag(index)
+        if (
+            endpos < 0
+            and not self.suppressed_containers
+            and MALFORMED_HTML_LINK_START.match(self.rawdata[index:])
+        ):
+            self.malformed_link_lines.add(self.getpos()[0])
+        return endpos
 
     def parse_comment(self, index: int) -> int:
         if self.in_suppressed_text_container():
@@ -1061,6 +1074,10 @@ def check_markdown_links(files: list[str]) -> list[str]:
         html_links = MarkdownHtmlLinks()
         html_links.feed(markdown_html_visible_text(lines))
         html_links.close()
+        errors.extend(
+            f"Malformed HTML link start tag at {name}:{line_number}"
+            for line_number in sorted(html_links.malformed_link_lines)
+        )
         targets: list[tuple[str, int]] = list(html_links.targets)
         scan_lines = list(lines)
         for index in consumed_definition_lines:

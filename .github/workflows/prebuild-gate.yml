@@ -29,6 +29,9 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
 
+      - name: Run prebuild regression tests
+        run: python3 -m unittest discover -s .github/tests -p 'test_prebuild_gate.py' -v
+
       - name: Check changed files
         env:
           EVENT_NAME: ${{ github.event_name }}
