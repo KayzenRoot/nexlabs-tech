@@ -358,6 +358,22 @@ class GitDiffRegressionTests(unittest.TestCase):
             with self.assertRaises(RuntimeError):
                 gate.changed_files()
 
+    def test_invalid_revision_inputs_fail_closed(self) -> None:
+        with patch.dict(
+            os.environ,
+            {"EVENT_NAME": "push", "BASE_SHA": "b" * 40, "HEAD_SHA": "a" * 40},
+            clear=False,
+        ):
+            with self.assertRaises(RuntimeError):
+                gate.changed_files()
+        with patch.dict(
+            os.environ,
+            {"EVENT_NAME": "pull_request", "BASE_SHA": "not-a-commit", "HEAD_SHA": "also-not-a-commit"},
+            clear=False,
+        ):
+            with self.assertRaises(RuntimeError):
+                gate.changed_files()
+
 
 class SecretRedactionRegressionTests(unittest.TestCase):
     def setUp(self) -> None:
